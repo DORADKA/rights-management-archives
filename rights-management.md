@@ -1,7 +1,7 @@
 
 # Allgemeine Anmerkungen über den vorliegenden Kurs
 
-![DORA-Logo](img/dora_empty_blue_text_klein.png)
+![DORA-Logo](/dora_empty_blue_text_klein.png)
 
 Wie lassen sich Archivbestände trotz komplexer rechtlicher Rahmenbedingungen digital zugänglich machen? Hier hier setzt das DORA-Projekt an. Ziel des von der DFG geförderten Pilotprojekts ist es, rechtliche Informationen zu Archivmaterialien systematisch, standardisiert und maschinenlesbar zu erfassen.
 
