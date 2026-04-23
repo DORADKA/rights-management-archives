@@ -957,9 +957,6 @@ Herzlichen Glückwunsch! Sie haben nun ein solides Fundament über:
 Mit diesem Wissen können Sie nun sicherer entscheiden, welche Schätze Ihres Bestandes den Weg in die digitale Öffentlichkeit finden dürfen.
 
 
-__Archiv-Rechteprüfung Leitfaden__
-
-Dieses Dokument hilft bei der Identifikation von Rechten im Archivkontext. Bitte wähle die zutreffenden Optionen aus, um eine Kategorisierungshilfe zu bekommen.
 
 
 
