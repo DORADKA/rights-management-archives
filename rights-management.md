@@ -7,6 +7,17 @@ Wie lassen sich Archivbestände trotz komplexer rechtlicher Rahmenbedingungen di
 
 > __Wichtig:__ Die Inhalte der vorliegenden Kurses wurden im __April 2026__ fertig gestellt. Alle im Text referenzierten Paragraphen, Gesetzestexte und rechtlichen Einschätzungen entsprechen dem Rechtsstand zu diesem Zeitpunkt. Da sich die Gesetzgebung und die Rechtsprechung (insbesondere im Bereich Urheberrecht und Datenschutz) ständig weiterentwickeln, sind die Nutzerinnen und Nutzer ausdrücklich dazu verpflichtet, sich anhand aktuell geltender, öffentlich zugänglicher Quellen zu versichern, dass die hier aufgeführten Regelungen weiterhin in ihrer vorliegenden Form gültig sind. Dieser Kurs dient ausschließlich als rechtliche Referenz für die Entwicklung eigener Konzepte und Ansätze im Archivwesen. Er stellt in keinem Fall eine Rechtsberatung dar und kann eine solche auch nicht ersetzen. Für verbindliche rechtliche Auskünfte im Einzelfall sollte stets eine qualifizierte Rechtsberatung hinzugezogen werden.
 
+# Lernziele des Kurses
+
+Nach diesem Kurs können Sie:
+
+* __benennen__: zentrale Rechtsgebiete (Urheberrecht, DSGVO, Archivrecht, Vertragsrecht)
+* __erläutern__: den Werkbegriff und die Schutzfristen
+* __anwenden__: die rechtlichen Grundlagen auf Digitalisierungsprojekte
+* __analysieren__: komplexe Fallkonstellationen (z. B. kumulative Rechte)
+* __beurteilen__: ob eine Online-Stellung rechtlich zulässig ist
+* __entwickeln__: eigene Prüfschemata für die Archivpraxis
+
 # Rechtsrahmen
 
 __Rechtliche Grundlagen der Digitalisierung__
