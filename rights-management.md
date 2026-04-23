@@ -14,7 +14,6 @@ Nach diesem Kurs können Sie:
 * __benennen__: zentrale Rechtsgebiete (Urheberrecht, DSGVO, Archivrecht, Vertragsrecht)
 * __erläutern__: den Werkbegriff und die Schutzfristen
 * __anwenden__: die rechtlichen Grundlagen auf Digitalisierungsprojekte
-* __analysieren__: komplexe Fallkonstellationen (z. B. kumulative Rechte)
 * __beurteilen__: ob eine Online-Stellung rechtlich zulässig ist
 * __entwickeln__: eigene Prüfschemata für die Archivpraxis
 
