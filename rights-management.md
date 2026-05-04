@@ -5,7 +5,7 @@
 
 Wie lassen sich Archivbestände trotz komplexer rechtlicher Rahmenbedingungen digital zugänglich machen? Hier hier setzt das DORA-Projekt an. Ziel des von der DFG geförderten Pilotprojekts ist es, rechtliche Informationen zu Archivmaterialien systematisch, standardisiert und maschinenlesbar zu erfassen.
 
-> __Wichtig:__ Die Inhalte der vorliegenden Kurses wurden im __April 2026__ fertig gestellt. Alle im Text referenzierten Paragraphen, Gesetzestexte und rechtlichen Einschätzungen entsprechen dem Rechtsstand zu diesem Zeitpunkt. Da sich die Gesetzgebung und die Rechtsprechung (insbesondere im Bereich Urheberrecht und Datenschutz) ständig weiterentwickeln, sind die Nutzerinnen und Nutzer ausdrücklich dazu verpflichtet, sich anhand aktuell geltender, öffentlich zugänglicher Quellen zu versichern, dass die hier aufgeführten Regelungen weiterhin in ihrer vorliegenden Form gültig sind. Dieser Kurs dient ausschließlich als rechtliche Referenz für die Entwicklung eigener Konzepte und Ansätze im Archivwesen. Er stellt in keinem Fall eine Rechtsberatung dar und kann eine solche auch nicht ersetzen. Für verbindliche rechtliche Auskünfte im Einzelfall sollte stets eine qualifizierte Rechtsberatung hinzugezogen werden.
+> __Wichtig:__ Die Inhalte des vorliegenden Kurses wurden im __April 2026__ fertig gestellt. Alle im Text referenzierten Paragraphen, Gesetzestexte und rechtlichen Einschätzungen entsprechen dem Rechtsstand zu diesem Zeitpunkt. Da sich die Gesetzgebung und die Rechtsprechung (insbesondere im Bereich Urheberrecht und Datenschutz) ständig weiterentwickeln, sind die Nutzerinnen und Nutzer ausdrücklich dazu verpflichtet, sich anhand aktuell geltender, öffentlich zugänglicher Quellen zu versichern, dass die hier aufgeführten Regelungen weiterhin in ihrer vorliegenden Form gültig sind. Dieser Kurs dient ausschließlich als rechtliche Referenz für die Entwicklung eigener Konzepte und Ansätze im Archivwesen. Er stellt in keinem Fall eine Rechtsberatung dar und kann eine solche auch nicht ersetzen. Für verbindliche rechtliche Auskünfte im Einzelfall sollte stets eine qualifizierte Rechtsberatung hinzugezogen werden.
 
 # Lernziele des Kurses
 
@@ -299,7 +299,7 @@ __Faustformeln Risikominimierung__
 
 Wenn nur das Geburts- oder Entstehungsjahr bekannt ist, gelten folgende Orientierungswerte für die Annahme der Gemeinfreiheit:
 
-* **141 Jahre nach Entstehung:** Angenommen das Werk wurde mit ca. 30 Jahren erstellt + 70 Jahre Lebenserwartung +  71 Jahre Schutzfrist.
+* **141 Jahre nach Entstehung:** Angenommen das Werk wurde mit ca. 20 Jahren erstellt + 70 Jahre Lebenserwartung +  71 Jahre Schutzfrist.
 * **161 Jahre nach Geburt:** Maximale Sicherheit bei unbekanntem Sterbedatum.
 <br>
 
@@ -362,7 +362,7 @@ Richtig. Die Faustformel von **141 Jahren nach Entstehung** bietet eine pragmati
 __Umgang mit verwaisten Werken__
 </div>
 
-Was tun, wenn wir ein Werk nicht eindeutig zuordnen können – wenn also die Urheber:innen oder Rechteinhaber:innen unbekannt sind? 
+Was tun, wenn wir ein Werk nicht eindeutig zuordnen können – wenn also die UrheberInnen oder RechteinhaberInnen unbekannt sind? 
 
 Das Gesetz bezeichnet solche Fälle als **„verwaiste Werke“** (Orphan Works).
 <br>
@@ -376,7 +376,7 @@ Auch für diese Werke gilt der gesetzliche Schutz:
 * **71 Jahre nach der ersten Veröffentlichung.**
 * Falls das Werk nie veröffentlicht wurde: **71 Jahre nach der Schaffung.**
 
->> **Hinweis:** Die Unkenntnis über die Identität der Urheber:innen entbindet nicht automatisch von der Schutzfrist.
+>> **Hinweis:** Die Unkenntnis über die Identität der UrheberInnen entbindet nicht automatisch von der Schutzfrist.
 
 <div style="font-size: 18px"> 
 __Voraussetzungen für die Nutzung__
@@ -470,10 +470,10 @@ Prüfen Sie Ihr Wissen zum Umgang mit Werken ohne bekannten Urheber.
 **Was charakterisiert ein „verwaistes Werk“?**
 
 [( )] Ein Werk, dessen Schutzfrist von 1 Jahren bereits abgelaufen ist.
-[(X)] Ein geschütztes Werk, dessen Rechteinhaber:innen trotz sorgfältiger Suche nicht ermittelt werden können.
+[(X)] Ein geschütztes Werk, dessen RechteinhaberInnen trotz sorgfältiger Suche nicht ermittelt werden können.
 [( )] Ein Werk, das absichtlich ohne Namen veröffentlicht wurde (Anonymität).
 ************************************************
-Richtig! Verwaiste Werke sind noch geschützt, aber die Rechteinhaber:innen sind unauffindbar.
+Richtig! Verwaiste Werke sind noch geschützt, aber die RechteinhaberInnen sind unauffindbar.
 ************************************************
 
  
@@ -824,7 +824,7 @@ Wenn eine Künstlerin einem Archiv in den 1980er-Jahren Werke übergab und im Ve
 __2. VG Bild-Kunst__
 </div>
 
-Die **VG Bild-Kunst** ist eine Verwertungsgesellschaft, die die Rechte von BildkünstlerInnen, FotografInnen und Designern kollektiv wahrnimmt.
+Die **VG Bild-Kunst** ist eine Verwertungsgesellschaft, die die Rechte von BildkünstlerInnen, FotografInnen und DesignerInnen kollektiv wahrnimmt.
 
 **Die Falle beim Einzelvertrag:**
 Viele KünstlerInnen haben einen Wahrnehmungsvertrag mit der VG Bild-Kunst. Das bedeutet: Sie haben ihre Online-Rechte bereits **exklusiv an die VG übertragen**.
@@ -909,10 +909,10 @@ Wer Urheberrechte verletzt – auch unabsichtlich –, sieht sich mit den Regelu
    Das Werk muss unverzüglich aus dem Internet entfernt werden. Dies kann bei großen Portalen zu erheblichem technischen Aufwand führen.
    
 2. **Schadensersatz (Lizenzanalogie)**: 
-   Hier wird berechnet: *„Was hätte eine ordentliche Lizenz für diese Nutzung gekostet?“* Dieser Betrag muss an die Rechteinhaber:innen nachgezahlt werden.
+   Hier wird berechnet: *„Was hätte eine ordentliche Lizenz für diese Nutzung gekostet?“* Dieser Betrag muss an die RechteinhaberInnen nachgezahlt werden.
    
 3. **Abmahnrisiko**: 
-   Rechtsanwaltskanzleien können im Namen der Urheber:innen kostenpflichtige Abmahnungen aussprechen. Hierbei fallen zusätzlich zu den Forderungen oft hohe Anwaltsgebühren an.
+   Rechtsanwaltskanzleien können im Namen der UrheberInnen kostenpflichtige Abmahnungen aussprechen. Hierbei fallen zusätzlich zu den Forderungen oft hohe Anwaltsgebühren an.
 
 >> **Wichtig:** Haftung ist im Urheberrecht oft verschuldensunabhängig (beim Unterlassungsanspruch) oder setzt nur Fahrlässigkeit voraus. „Das haben wir nicht gewusst“ schützt also meist nicht vor den Kosten.
 
