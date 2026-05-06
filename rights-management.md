@@ -56,8 +56,8 @@ Das Urheberrecht ist in Deutschland ein **Grundrecht**. Es basiert auf zwei Säu
 
 | Säule | Artikel | Bedeutung für die Praxis |
 | :--- | :--- | :--- |
-| **Eigentumsschutz** | Art. 14 Abs. 1 GG | Schützt das "Geistige Eigentum". Wer ein Werk schafft (z.B. ein Buch schreibt oder ein Foto macht), hat ein Anrecht auf den Schutz dieses Vermögenswertes. |
-| **Sozialbindung** | Art. 14 Abs. 2 GG | "Eigentum verpflichtet". Das Recht ist nicht schrankenlos. Es muss gegen Interessen der Allgemeinheit abgewogen werden. |
+| **Eigentumsschutz** | Art. 14 Abs. 1 GG | Schützt das geistige Eigentum der UrheberInnen als Vermögenswert. Wer ein Werk schafft wie z.B. ein Buch, Foto, eine Komposition, hat einen verfassungsrechtlich gesicherten Anspruch darauf, dass dieses Werk nicht ohne Zustimmung genutzt wird. (Das Urheberrecht schützt dabei nicht nur wirtschaftliche, sondern auch ideelle Interessen wie etwa das Recht auf Nennung der UrheberInnen, § 11 UrhG.) |
+| **Sozialbindung** | Art. 14 Abs. 2 GG | Eigentum ist kein schrankenloses Recht. Es soll dem Gemeinwohl dienen. Für das Urheberrecht bedeutet das: Gesellschaftliche Interessen, wie etwa Bildung, Wissenschaft oder kulturelles Erbe, können die Rechte der UrheberInnen in bestimmten Fällen einschränken. |
 
 <div style="font-size: 19px">
 __Die Abwägung__
@@ -68,7 +68,7 @@ Dieses Spannungsfeld wird im **Urheberrechtsgesetz (UrhG)** konkretisiert. Auf d
 
 Für uns im Archiv ist genau diese Abwägung entscheidend: Sie ermöglicht uns in bestimmten Fällen die Nutzung durch sogenannte **Schrankenregelungen**. 
 
->> **Geduld zahlt sich aus:** Wir schauen uns die konkreten Schranken (wie den wichtigen § 60f UrhG) später im Detail an. Zuerst müssen wir verstehen, warum es diese Ausnahmen überhaupt geben darf: Weil das Eigentum laut Verfassung der Allgemeinheit dienen muss.
+>> **Geduld zahlt sich aus:** Wir schauen uns die konkreten Schranken (wie den wichtigen § 60f UrhG) später im Detail an. Zuerst müssen wir verstehen, warum es diese Ausnahmen überhaupt geben darf: laut Art. 14 Abs. 2 GG soll der Gebrauch von Eigentum zugleich dem Wohle der Allgemeinheit dienen. Genau das legitimiert die Schrankenregelung.
 
 ---
 <div style="font-size: 19px">
@@ -87,7 +87,7 @@ Vieles, was wir im deutschen UrhG finden, ist die Umsetzung von EU-Richtlinien. 
 1.  **InfoSoc-Richtlinie (2001/29/EG):** Die Basis für das digitale Zeitalter (Vervielfältigung, öffentliche Zugänglichmachung).
 2.  **DSM-Richtlinie (2019/790):** Spezifische Erleichterungen für Kulturerbeinrichtungen (Text- und Data-Mining, nicht verfügbare Werke).
 
-__Die Hierarchie der Prüfung__
+__Rechtsrahmen im Überblick__
 Wenn Sie ein Digitalisat prüfen, müssen Sie diese Ebenen im Kopf behalten:
 
 
@@ -129,9 +129,9 @@ oder auf Grund eines Gesetzes erfolgen, das Art und Ausmaß der Entschädigung r
 
 Welche Aussage beschreibt das Verhältnis der Rechtsgebiete korrekt?
 
-[( )] Wenn das Urheberrecht abgelaufen ist, darf ich das Dokument auf jeden Fall online stellen.
-[( )] Archivrecht ersetzt das Urheberrecht im Bereich öffentlicher Institutionen.
-[(X)] Rechtsgebiete wie Urheberrecht und Datenschutzrecht können gleichzeitig anwendbar sein und müssen beide geprüft werden.
+[( )] Ist das Urheberrecht abgelaufen, kann ein Digitalisat ohne weitere rechtliche Prüfung veröffentlicht werden.
+[( )] Archivrecht geht dem Urheberrecht als Spezialgesetz vor und ersetzt dessen Prüfung.
+[(X)] Urheberrecht und Datenschutzrecht gelten kumulativ. Jedes Rechtsgebiet ist eine eigenständige Hürde, die unabhängig geprüft werden muss.
 *******************************************************************************
 Richtig! Man spricht von einer kumulativen Anwendung. Jedes Rechtsgebiet ist eine eigene Hürde, die genommen werden muss.
 *******************************************************************************
@@ -145,11 +145,11 @@ Warum wird das Urheberrecht in Deutschland als grundrechtlich geschütztes Gut b
 Richtig! Das Urheberrecht schützt das geistige Eigentum als Vermögenswert und unterliegt damit dem grundgesetzlichen Eigentumsschutz.
 *******************************************************************************
 
-Was bedeutet die "Sozialbindung des Eigentums" (Art. 14 Abs. 2 GG) für Archive?
+Was bedeutet die „Sozialbindung des Eigentums“ (Art. 14 Abs. 2 GG) für das Urheberrecht im Archivkontext?
 
-[( )] Dass Archive alle geschützten Werke ohne Genehmigung online stellen dürfen.
-[(X)] Dass der Gesetzgeber Schrankenregelungen schaffen darf, um die Nutzung für die Allgemeinheit zu ermöglichen.
-[( )] Dass Urheber verpflichtet sind, ihre Werke kostenlos an Archive zu verschenken.
+[( )] Sie verpflichtet Archive, alle Bestände kostenlos und ohne Einschränkungen zugänglich zu machen.
+[(X)] Sie erlaubt dem Gesetzgeber, Schrankenregelungen wie § 60 f UrhG zu schaffen, die Nutzung im öffentlichen Interesse schaffen ohne Urheberrecht aufzuheben.
+[( )] Sie bewirkt, dass gemeinfreie Werke automatisch ins Eigentum des Archivs übergehen.
 *******************************************************************************
 Genau. Die Sozialbindung rechtfertigt den Ausgleich zwischen dem Schutz des Urhebers und dem Informationsinteresse der Öffentlichkeit.
 *******************************************************************************
@@ -162,10 +162,10 @@ Das Urheberrecht ist kein isoliertes Rechtsgebiet. Es agiert im Zusammenspiel mi
 
 __Einordnung in das Privatrecht__ <br>
 
-Das Urheberrecht ist Teil des **Privatrechts**. Es regelt die Beziehungen zwischen Privatpersonen oder Institutionen.
+Das Urheberrecht ist Teil des **Privatrechts**. Es regelt die Beziehungen zwischen Personen und Institutionen.
 
 >>**Wichtiger Hinweis zur Haftung:**
->> Für Institutionen wie ein Museum bedeutet dies, dass sie im Streitfall primär **zivilrechtlich** haften (nicht strafrechtlich). Dies entbindet jedoch nicht von der Sorgfaltspflicht.
+>> Für Institutionen wie ein Museum bedeutet dies, dass sie im Streitfall primär **zivilrechtlich** haften (nicht strafrechtlich). Dies entbindet jedoch nicht von der urheberrechtlichen Sorgfaltsplicht: Institutionen müssen vor der Nutzung fremder Werke prüfen, ob die erforderlichen Rechte vorliegen. Andernfalls drohen Unterlassung und Schadensersatz nach § 97 UrhG.
 
 __Europarechtliche Prägung__<br>
 
@@ -174,7 +174,7 @@ Das deutsche Urheberrecht setzt maßgeblich europäische Vorgaben um. Zwei Richt
 | Richtlinie | Fokus & Kerninhalte |
 | :--- | :--- |
 | **[InfoSoc-Richtlinie](https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=celex%3A32001L0029)** (2001/29/EG) | Grundlegende Harmonisierung für das digitale Zeitalter. Regelt Vervielfältigung, öffentliche Zugänglichmachung und Schranken für Bildung/Forschung. |
-| **[DSM-Richtlinie](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=uriserv%3AOJ.L_.2019.130.01.0092.01.DEU&toc=OJ%3AL%3A2019%3A130%3ATOC)** (2019/790) | Fokus auf den digitalen Binnenmarkt. Enthält Regelungen zu Text- und Data-Mining sowie spezifische Schranken für Kulturerbeinrichtungen (Museen, Archive). |
+| **[DSM-Richtlinie](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=uriserv%3AOJ.L_.2019.130.01.0092.01.DEU&toc=OJ%3AL%3A2019%3A130%3ATOC)** (2019/790) | Enthält für Kulturerbeeinrichtungen besonders relevante Schrankenregelungen: Erlaubnis zu Text- und Data-Mining (Art. 3 DSM-RL) sowie erleichterte Nutzung nicht verfügbarer Werke (Art. 8-11 DSM-RL). |
 
 **Praktische Konsequenz:** Viele deutsche Schrankenregelungen basieren auf diesen europarechtlichen Grundentscheidungen.
 
@@ -183,17 +183,17 @@ __Überschneidungen mit anderen Rechtsgebieten__
 >> Das Urheberrecht gilt oft **kumulativ** mit anderen Regelwerken. Eine urheberrechtliche Erlaubnis bedeutet nicht automatisch, dass eine Nutzung zulässig ist.
 
 __1. Datenschutzrecht (DSGVO)__<br>
-Sobald ein Digitalisat **personenbezogene Daten** lebender Personen enthält, greift die DSGVO.<br>
+Die DSVGO greift, sobald ein Digitalisat **personenbezogene Daten** lebender Personen enthält oder Personen erkennbar abgebildet sind, unabhängig davon, ob ihr Name genannt wird.<br>
 * **Grundregel:** Auch wenn ein Werk urheberrechtlich gemeinfrei ist, kann die Veröffentlichung aus Datenschutzgründen untersagt sein.
 
 __2. Archiv- und Kulturgutschutzrecht__<br>
 Diese Gebiete überlagern das Urheberrecht, ohne es zu ersetzen:<br>
 
-* **Archivrecht:** Fungiert als „Betriebsordnung“ (Zutritt, Aufbewahrungspflichten).
+* **Archivrecht:** Fungiert sozusagen als „Betriebsordnung“: regelt Zugang zu Archivgut, Sperrfristen und Ablieferungspflichten. Ersetzt aber nicht die urheberrechtliche oder datenschutzrechtliche Prüfung.
 * **Kulturgutschutzrecht:** Regelt Sorgfaltspflichten beim Umgang mit sensiblem Material und beschränkt ggf. den Abzug von Kulturgut ins Ausland.
 
 ---
-**Zusammenfassend:** Für die Archivpraxis müssen Urheberrecht, Datenschutz und Archivrecht stets als Einheit geprüft werden.
+**Zusammenfassend:** Für die Archivpraxis gelten Urheberrecht, Datenschutz und Archivrecht stets kumulativ. Kulturgutschutzrecht kommt situativ hinzu; insbesondere bei grenzüberschreitender Nutzung oder Ausleihe.
 
 
 # Juristischer Werkbegriff
@@ -205,12 +205,12 @@ Diese Gebiete überlagern das Urheberrecht, ohne es zu ersetzen:<br>
 Im Gegensatz zum kunst- oder kulturwissenschaftlichen Verständnis ist der juristische Werkbegriff ein autonomer, normativer Begriff. Ein urheberrechtlich geschütztes Werk setzt zwingend eine persönliche geistige Schöpfung voraus, die sich von bloß handwerklichen Routinetätigkeiten abgrenzt. Zur Bestimmung der hierfür erforderlichen Individualität dient das Kriterium der Schöpfungshöhe. 
 <br>
 
->> Die Schöpfungshöhe bezeichnet den Grad der kreativen Eigenleistung. Damit rechtlicher Schutz greift, müssen die folgenden vier Merkmale zutreffen:
+>> Die Schöpfungshöhe bezeichnet den Grad der kreativen Eigenleistung. Damit rechtlicher Schutz greift, müssen die folgenden vier Merkmale zutreffen (Achtung: Die vier Merkmale sind analytische Hilfskriterien, keine starre Checkliste. Entscheidend ist die Schöpfungshöhe als Gesamturteil.):
 
 
 | Merkmal | Erläuterung |
 | :--- | :--- |
-| **Persönlich** | Beruht auf dem Einfall eines Menschen (keine KI, keine Tiere, keine Fundstücke) |
+| **Persönlich** | Beruht auf dem Einfall eines Menschen. Rein KI-generierte Werke sind nach aktuellem Stand nicht schutzfähig; bei Mensch-KI-Kollaboration ist die Rechtslage noch ungeklärt. |
 | **Geistig** | Das Werk transportiert einen geistigen Inhalt oder eine individuelle Form |
 | **Schöpferisch** | Geht über rein Handwerkliches, Alltägliches und Routinemäßiges hinaus |
 | **Wahrnehmbare Form** | Keine bloße Idee im Kopf; es muss mit den Sinnen erfassbar sein |
@@ -220,7 +220,7 @@ __Werkcharakter:__
 - Persönliche Korrespondenz <br> 
 - Wissenschaftliche Manuskripte <br>
 - Architekturpläne <br>
-- Schöpferische Fotografien <br>
+- Schöpferische Fotografien (z.B. durch Bildausschnitt, Licht, Perspektive); bloße Reproduktionsfotografien gemeinfreier Werke hingegen nicht  <br>
 - Tagebücher <br>
 - Reden <br>
 </div>
@@ -230,7 +230,7 @@ __Kein Werkcharakter:__
 - Amtliche Dokumente <br> 
 - Verwaltungsschriftgut <br>
 - Technische Daten <br>
-- Sammelgut ohne Eigenleistung <br>
+- Sammelwerke ohne redaktionelle oder strukturelle Eigenleistung vgl. § 4 UrhG <br>
 - Sachliche Kurznachrichten <br>
 </div>
 
@@ -257,7 +257,7 @@ __§ 2 Abs. 2 Urheberrechtsgesetz (UrhG)__
 
 # Schutzfristen und Gemeinfreiheit
 <div style="font-size: 12px">
-§ 64, 69 Urheberrechtsgesetz (UrhG) 
+§ 64, 65 Urheberrechtsgesetz (UrhG) 
 </div>
 Wann endet der Schutz? Für das Archivwesen ist dies die entscheidende Frage, um über die freie Veröffentlichung oder Digitalisierung entscheiden zu können.
 
@@ -273,7 +273,7 @@ Der urheberrechtliche Schutz ist zeitlich begrenzt. Er dient dem Ausgleich zwisc
 <div style="font-size: 17px">
 __Berechnung der Frist__
 </div>
-Die Frist wird nach vollen Kalenderjahren berechnet (§ 69 UrhG). Sie beginnt mit dem Ablauf des 31. Dezembers des Todesjahres.
+Die Frist wird nach vollen Kalenderjahren berechnet. Sie beginnt mit dem Ablauf des 31. Dezembers des Todesjahres (§ 64 UrhG).
 
 | Ereignis | Datum |
 | :--- | :--- |
@@ -297,10 +297,11 @@ In Archiven stehen wir oft vor dem Problem, dass das Todesjahr einer Person nich
 __Faustformeln Risikominimierung__
 </div>
 
-Wenn nur das Geburts- oder Entstehungsjahr bekannt ist, gelten folgende Orientierungswerte für die Annahme der Gemeinfreiheit:
+Wenn nur das Geburts- oder Wirkungsjahr bekannt ist, gelten folgende Orientierungswerte für die Annahme der Gemeinfreiheit:
 
-* **141 Jahre nach Entstehung:** Angenommen das Werk wurde mit ca. 20 Jahren erstellt + 70 Jahre Lebenserwartung +  71 Jahre Schutzfrist.
-* **161 Jahre nach Geburt:** Maximale Sicherheit bei unbekanntem Sterbedatum.
+* **141 Jahre ab Wirkungsjahr:** Orientierungswert, wenn weder Geburtsjahr noch Sterbejahr bekannt sind; berechnet ab dem letzten bekannten Tätigkeitsjahr des Urhebers. Annahme: Werk entstand am Ende der aktiven Schaffensphase, daher kürzere Restlebenserwartung ab diesem Punkt + 71 Jahre Schutzfrist.
+* **161 Jahre nach Geburt:** Orientierungswert, wenn das Geburtsjahr bekannt, aber das Sterbejahr unbekannt ist
+Annahme: volle statistische Lebenserwartung von ≈ 90 Jahren ab Geburt + 71 Jahre Schutzfrist ≈ 161 Jahre
 <br>
 
 <div style="font-size: 19px">
