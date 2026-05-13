@@ -193,7 +193,13 @@ Diese Gebiete überlagern das Urheberrecht, ohne es zu ersetzen:<br>
 * **Kulturgutschutzrecht:** Regelt Sorgfaltspflichten beim Umgang mit sensiblem Material und beschränkt ggf. den Abzug von Kulturgut ins Ausland.
 
 ---
-**Zusammenfassend:** Für die Archivpraxis gelten Urheberrecht, Datenschutz und Archivrecht stets kumulativ. Kulturgutschutzrecht kommt situativ hinzu; insbesondere bei grenzüberschreitender Nutzung oder Ausleihe.
+**Zusammenfassend:** Für die Archivpraxis gelten Urheberrecht, Datenschutz und Archivrecht stets kumulativ. Kulturgutschutzrecht kommt situativ hinzu; insbesondere bei grenzüberschreitender Nutzung oder Ausleihe. <br>
+
+**Weitere Informationen:** 
+* **DSGVO:** https://dejure.org/gesetze/DSGVO
+* **Bundesarchivgesetz:** https://www.bundesarchiv.de/das-bundesarchiv/rechtsgrundlagen/bundesarchivgesetz/
+* **Bayerisches Archivgesetz:** https://www.gesetze-bayern.de/Content/Document/BayArchivG
+* **Gesetz zum Schutz von Kulturgut:** https://www.gesetze-im-internet.de/kgsg/
 
 
 # Juristischer Werkbegriff
@@ -202,10 +208,12 @@ Diese Gebiete überlagern das Urheberrecht, ohne es zu ersetzen:<br>
 § 2 Abs. 2 Urheberrechtsgesetz (UrhG)
 </div> 
 
+§ 2 Abs. 1 UrhG listet Beispiele schutzfähiger Werkkategorien, § 2 Abs. 2 UrhG definiert den allgemeinen Werkbegriff: Schutz besteht nur für persönliche geistige Schöpfungen. 
+
 Im Gegensatz zum kunst- oder kulturwissenschaftlichen Verständnis ist der juristische Werkbegriff ein autonomer, normativer Begriff. Ein urheberrechtlich geschütztes Werk setzt zwingend eine persönliche geistige Schöpfung voraus, die sich von bloß handwerklichen Routinetätigkeiten abgrenzt. Zur Bestimmung der hierfür erforderlichen Individualität dient das Kriterium der Schöpfungshöhe. 
 <br>
 
->> Die Schöpfungshöhe bezeichnet den Grad der kreativen Eigenleistung. Damit rechtlicher Schutz greift, müssen die folgenden vier Merkmale zutreffen (Achtung: Die vier Merkmale sind analytische Hilfskriterien, keine starre Checkliste. Entscheidend ist die Schöpfungshöhe als Gesamturteil.):
+>> Die Schöpfungshöhe bezeichnet den Grad der kreativen Eigenleistung. Damit rechtlicher Schutz greift, müssen die folgenden vier Merkmale zutreffen (**Achtung:** Die vier Merkmale sind analytische Hilfskriterien, keine starre Checkliste. Entscheidend ist die Schöpfungshöhe als Gesamturteil.):
 
 
 | Merkmal | Erläuterung |
@@ -270,6 +278,8 @@ Der urheberrechtliche Schutz ist zeitlich begrenzt. Er dient dem Ausgleich zwisc
 
 >> **§ 64 UrhG:** Das Urheberrecht erlischt **70 Jahre nach dem Tod** des Urhebers (post mortem auctoris).
 
+§ 64 UrhG regelt die allgemeine Schutzfrist; § 65 UrhG enthält Sonderregeln für Miturheberschaft sowie anonyme und pseudonyme Werke.
+
 <div style="font-size: 17px">
 __Berechnung der Frist__
 </div>
@@ -282,7 +292,7 @@ Die Frist wird nach vollen Kalenderjahren berechnet. Sie beginnt mit dem Ablauf 
 | **Ende der Schutzfrist** | 31. Dezember 2020 |
 | **Eintritt der Gemeinfreiheit** | **01. Januar 2021** |
 
-
+Bei anonymen oder pseudonymen Werken beginnt die 70-Jahres-Frist nicht ab Tod der UrheberInnen, sondern ab Veröffentlichung, sofern die UrheberInnen nicht bekannt werden (§ 65 Abs. 1 UrhG).
 
 ---
 <div style="font-size: 19px">
@@ -311,7 +321,7 @@ __Achtung: Gemeinfrei $\neq$ Rechtsfrei__
 Nur weil das Urheberrecht abgelaufen ist, dürfen Archivalien nicht blind veröffentlicht werden. Es müssen weitere Schutzrechte geprüft werden:
 
 1.  **Persönlichkeitsrechte:** Schutz der abgebildeten Personen oder privater Notizen (endet meist 10 Jahre nach dem Tod der betroffenen Person).
-2.  **Datenschutz:** Besondere Schutzfristen gemäß den jeweiligen Archivgesetzen (Bund/Länder).
+2.  **Datenschutz:** Die Archivgesetze von Bund und Ländern sehen eigene Sperrfristen für personenbezogene Unterlagen vor, unabhängig davon, ob urheberrechtlicher Schutz noch besteht oder nicht. 
 3.  **Vertragliche Bindungen:** Schenkungsverträge oder Leihverträge können Nutzungen untersagen, selbst wenn das Werk gemeinfrei ist.
 
 > __§ 64 UrhG – Allgemeines__ <br>
@@ -319,6 +329,13 @@ Nur weil das Urheberrecht abgelaufen ist, dürfen Archivalien nicht blind veröf
 Das Urheberrecht erlischt siebzig Jahre nach dem Tode des Urhebers. 
 </div><br>
 > __[Hier](https://www.gesetze-im-internet.de/urhg/__64.html) aktuelle Version einsehen.__
+
+> __§ 65 UrhG – Miturheber, Filmwerke, Musikkomposition mit Text__ <br>
+> <div style="font-size: 12px">
+(1) Steht das Urheberrecht mehreren Miturhebern (§ 8) zu, so erlischt es siebzig Jahre nach dem Tode des längstlebenden Miturhebers. <br>
+(2) Bei Filmwerken und Werken, die ähnlich wie Filmwerke hergestellt werden, erlischt das Urheberrecht siebzig Jahre nach dem Tod des Längstlebenden der folgenden Personen: Hauptregisseur, Urheber des Drehbuchs, Urheber der Dialoge, Komponist der für das betreffende Filmwerk komponierten Musik. <br>
+(3) Die Schutzdauer einer Musikkomposition mit Text erlischt 70 Jahre nach dem Tod des Längstlebenden der folgenden Personen: Verfasser des Textes, Komponist der Musikkomposition, sofern beide Beiträge eigens für die betreffende Musikkomposition mit Text geschaffen wurden. Dies gilt unabhängig davon, ob diese Personen als Miturheber ausgewiesen sind. <br>
+> __[Hier](https://www.gesetze-im-internet.de/urhg/__65.html) aktuelle Version einsehen.__
 
 > __§ 69 UrhG – Berechnung der Fristen__ <br>
 > <div style="font-size: 12px">
@@ -331,22 +348,23 @@ den Beginn der Frist maßgebende Ereignis eingetreten ist.
 
 Werkbegriff<br>
 
-Welche vier Merkmale müssen laut § 2 Abs. 2 UrhG zutreffen, damit ein Werk rechtlichen Schutz genießt?
+Nach § 2 Abs. 2 UrhG ist ein Werk eine „persönliche geistige Schöpfung“. Welche der folgenden Aussagen beschreibt am besten, was das bedeutet?
 
-- [(X)] Persönlich, Geistig, Schöpferisch, Wahrnehmbare Form
-- [( )] Schriftlich, Veröffentlicht, Kreativ, Ästhetisch
-- [( )] Neuheit, Eigenart, Gewerbliche Anwendbarkeit, Menschlich
-- [( )] Digital, Analog, Wissenschaftlich, Künstlerisch
+- [(X)] Das Werk muss von einem Menschen stammen, eine gewisse Orginalität aufweisen und in irgendeiner Form wahrnehmbar sein. 
+- [( )] Das Werk muss veröffentlicht, künstlerisch wertvoll und schriftlich fixiert sein.
+- [( )] Das Werk muss neu, einzigartig und gewerblich verwertbar sein.
+- [( )] Das Werk muss digital vorliegen und wissenschaftlich anerkannt sein.
 **************************************************
 Richtig! Nur eine __persönliche geistige__ Schöpfung erfüllt die Schöpfungshöhe. Sie muss von einem Menschen stammen, einen __geistigen Inhalt__ haben, über das __Alltägliche hinausgehen__ und __sinnbildlich erfassbar__ sein.
 **************************************************
 
 Gemeinfreiheit<br>
 
-Ein Foto in Ihrem Bestand wurde 1910 aufgenommen. Der Fotograf ist unbekannt. Nach welcher archivischen Faustregel können Sie eine Gemeinfreiheit vermuten?
-- [( )] 71 Jahre nach Entstehung (1980)
-- [(X)] 141 Jahre nach Entstehung (2050)
-- [( )] Sofort, da der Urheber unbekannt ist
+Ein Foto in Ihrem Bestand wurde 1910 aufgenommen. Der Fotograf ist unbekannt und das Werk wurde nie veröffentlicht. Welche Regelung gilt nach § 66 UrhG?
+- [( )] Das Werk ist sofort gemeinfrei, weil der Urheber nicht ermittelt werden kann.
+- [(X)] Der Schutz endet 70 Jahre nach Entstehung des Werkes, also 1980. Das Werk ist heute gemeinfrei. 
+- [( )] Der Schutz endet erst 70 Jahre nach dem Tod des Urhebers, der Schutz läuft also noch.
+- [( )] Das Werk fällt unter die Archivschranke und darf unbegrenzt genutzt werden.
 ************************************************
 Richtig. Die Faustformel von **141 Jahren nach Entstehung** bietet eine pragmatische Sicherheit, falls das Todesjahr nicht mit zumutbarem Aufwand ermittelt werden kann.<br> __Aber Achtung:__ Es bleibt eine Risikoabwägung!
 ************************************************
@@ -355,7 +373,7 @@ Richtig. Die Faustformel von **141 Jahren nach Entstehung** bietet eine pragmati
 
 # Verwaiste Werke
 <div style="font-size: 12px">
-§ 61–61c Urheberrechtsgesetz (UrhG)
+§§ 61–61c UrhG
 </div> 
 <br>
 
@@ -373,11 +391,11 @@ Das Gesetz bezeichnet solche Fälle als **„verwaiste Werke“** (Orphan Works)
 __Die rechtliche Einordnung__
 </div>
 
-Auch für diese Werke gilt der gesetzliche Schutz:
-* **71 Jahre nach der ersten Veröffentlichung.**
-* Falls das Werk nie veröffentlicht wurde: **71 Jahre nach der Schaffung.**
+Auch für verwaiste Werke gilt der allgemeine gesetzliche Urheberrechtsschutz:
+* **70 Jahre nach dem Tod des Urhebers (§ 64 UrhG)**
+* Falls das Werk nie veröffentlicht wurde und der Urheber unbekannt ist: **70 Jahre nach Entstehung (§ 66 UrhG)**
 
->> **Hinweis:** Die Unkenntnis über die Identität der UrheberInnen entbindet nicht automatisch von der Schutzfrist.
+>> **Hinweis:** Die §§ 61-61c UrhG begründen keine eigenen Schutzfristen, sondern erlauben unter strengen Voraussetzungen eine Nutzung verwaister Werke, obwohl der Schutz noch läuft. Die Unkenntnis über die Identität der UrheberInnen entbindet nicht automatisch von der Schutzfrist.
 
 <div style="font-size: 18px"> 
 __Voraussetzungen für die Nutzung__
@@ -389,7 +407,7 @@ Dafür müssen folgende Schritte durchlaufen werden:
 
 1.  **Sorgfältige Suche:** Es muss eine nachweisbare und gründliche Recherche nach den Rechteinhaber:innen durchgeführt werden.
 2.  **Dokumentation:** Diese Suche muss lückenlos dokumentiert sein.
-3.  **Registrierung:** Das Werk muss in die Datenbank des __[EUIPO](https://www.euipo.europa.eu/de)__ (Amt der Europäischen Union für geistiges Eigentum) eingetragen werden.
+3.  **Registrierung:** Das Werk muss in der Datenbank des __[EUIPO](https://www.euipo.europa.eu/de)__ (Amt der Europäischen Union für geistiges Eigentum) registriert werden.
 4.  **Privilegierte Nutzung:** Nur bestimmte Nutzungsarten (z. B. Digitalisierung zur Zugänglichmachung für die Öffentlichkeit) sind unter diesen Bedingungen erlaubt.
 
 ---
@@ -470,7 +488,7 @@ Prüfen Sie Ihr Wissen zum Umgang mit Werken ohne bekannten Urheber.
 
 **Was charakterisiert ein „verwaistes Werk“?**
 
-[( )] Ein Werk, dessen Schutzfrist von 1 Jahren bereits abgelaufen ist.
+[( )] Ein Werk, dessen Schutzfrist bereits abgelaufen ist (gemeinfrei).
 [(X)] Ein geschütztes Werk, dessen RechteinhaberInnen trotz sorgfältiger Suche nicht ermittelt werden können.
 [( )] Ein Werk, das absichtlich ohne Namen veröffentlicht wurde (Anonymität).
 ************************************************
@@ -496,11 +514,11 @@ __Lichtbildwerk vs. Lichtbild__
 
 Grundlage für die Beantwortung ist der Unterschied zwischen zwei Schutzarten im Urheberrechtsgesetz:
 
-| Merkmal | Lichtbildwerk (§ 2 Abs. 1 Nr. 5 UrhG) | Lichtbild (§ 72 UrhG a.F. / § 68 UrhG) |
+| Merkmal | Lichtbildwerk (§ 2 Abs. 1 Nr. 5 UrhG) | Lichtbild (§ 68 UrhG) |
 | :--- | :--- | :--- |
 | **Charakter** | Künstlerisch gestaltete Fotografie (hohe Schöpfungshöhe). | Einfache, rein technische Aufnahme (geringe Schöpfungshöhe). |
 | **Beispiele** | Inszenierte Porträts, künstlerische Kompositionen. | Dokumentationsfotos, technische Reproduktionen, Schnappschüsse. |
-| **Schutzdauer** | **71 Jahre nach dem Tod** der Fotograf:innen. | **51 Jahre nach Erscheinen** (bzw. Herstellung). |
+| **Schutzdauer** | **70 Jahre nach dem Tod** der UrheberInnen | **50 Jahre nach Erscheinen** (bzw. Herstellung). |
 
 ---
 
@@ -513,7 +531,7 @@ Seit der Urheberrechtsreform 2021 (basierend auf einer EU-Richtlinie) gilt eine 
 
 >> **§ 68 UrhG:** Reproduktionen **zweidimensionaler** Werke (z. B. Gemälde, Stiche, Urkunden), die selbst bereits **gemeinfrei** sind, genießen **keinen eigenen Lichtbildschutz** mehr.
 
-Das bedeutet für uns: Wenn wir ein altes, gemeinfreies Dokument scannen, entsteht durch den Scanvorgang kein neues Urheberrecht. Der "Weg" über das Urheberrecht ist somit frei für die Nutzung dieser Digitalisate.
+Das bedeutet: Wenn man ein altes, gemeinfreies Dokument scannt, entsteht durch den Scanvorgang kein neues Urheberrecht. Der "Weg" über das Urheberrecht ist somit frei für die Nutzung dieser Digitalisate.
 
 ---
 <div style="font-size: 18px">
@@ -523,7 +541,7 @@ __Achtung: Der "Urheberrecht-ist-frei"-Irrtum__
 Auch wenn das Urheberrecht einer Nutzung nicht mehr im Wege steht, bedeutet das nicht, dass alle Türen automatisch offen stehen. Vor einer Veröffentlichung müssen weiterhin folgende Bereiche geprüft werden:
 
 * **Vertragsrecht:** Gibt es Leihverträge oder Schenkungsvereinbarungen, die Nutzungen einschränken?
-* **Hausrecht:** Wurden Aufnahmen unter Bedingungen gemacht, die eine Veröffentlichung untersagen?
+* **Hausrecht:** Unterliegen die Aufnahmen hausrechtlichen Einschränkungen der Institution, z.B. aufgrund von Fotografierverboten oder besonderen Zugangsbedingungen?
 * **Persönlichkeits- & Datenschutz:** Sind auf den Bildern noch lebende Personen oder sensible Daten zu sehen?
 * **Eigentums- & Kulturgutschutz:** Bestehen besondere Schutzstatus für das physische Objekt?
 <br>
@@ -564,7 +582,7 @@ Ein Archiv erstellt einen Scan eines Gemäldes aus dem 18. Jahrhundert, das bere
 
 - [(X)] Er genießt **keinen** eigenen Lichtbildschutz nach § 68 UrhG.
 - [( )] Er ist für 50 Jahre ab Herstellung als einfaches Lichtbild geschützt.
-- [( )] Er ist als Lichtbildwerk 71 Jahre nach dem Tod der Fotograf:in geschützt.
+- [( )] Er ist als Lichtbildwerk 70 Jahre nach dem Tod der Fotograf:in geschützt.
 - [( )] Er ist geschützt, sofern die technische Auflösung hoch genug ist (z. B. über 300 dpi).
 ************************************************
 **Richtig!** Seit der Reform 2021 (Umsetzung der EU-Richtlinie) erhalten Reproduktionen von **gemeinfreien, zweidimensionalen Werken** keinen neuen Leistungsschutz mehr. Die bloße technische Vervielfältigung (Scan/Reprofotografie) löst also keine neuen Rechte aus, was die Nutzung für Archive erheblich erleichtert.
@@ -607,13 +625,12 @@ Um diese Vervielfältigung vorzunehmen, brauchen wir eine **Rechtsgrundlage**:
 __Die Online-Stellung: Öffentliche Zugänglichmachung (§ 19a UrhG)__
 </div>
 
-Der vielleicht wichtigste Paragraph für Digitalisierungsprojekte regelt das Recht der **öffentlichen Zugänglichmachung**. 
-
-Das ist genau das, was wir tun, wenn wir Digitalisate ins Internet stellen: Wir machen sie abrufbar für jede Person, jederzeit, überall.
+Ein zentraler Paragraph für Digitalisierungsprojekte: § 19a UrhG regelt das Recht der öffentlichen Zugänglichmachung, also genau den Fall, wenn man Digitalisate ins Internet stellt. Er greift immer dann, wenn eine gesetzliche Schranke oder vertragliche Grundlage die Veröffentlichung erlaubt. 
 
 __Wichtige Prinzipien:__
 * **Eigenständigkeit:** Dieses Recht ist ein eigenständiges Verwertungsrecht. Eine allgemeine Nutzungsrechtsübertragung ohne explizite Nennung der Online-Nutzung reicht oft nicht aus.
-* **Neues Publikum:** Der Europäische Gerichtshof (EuGH) präzisiert (z. B. im Fall *Svensson*), dass eine Zugänglichmachung relevant ist, wenn sie ein „neues Publikum“ erreicht. Durch die Digitalisierung öffnen wir Bestände für Menschen, die vorher physisch keinen Zugang hatten.
+* **Neues Publikum:** Das „neue Publikum“-Kriterium wurde vom EuGH entwickelt und ist auch für Digitalisierungsprojekte relevant: durch die Online-Stellung werden Bestände für Menschen zugänglich, die vorher physisch keinen Zugang zur Institution hatten.
+ 
 
 
 
@@ -633,10 +650,7 @@ Gesetzliche **Schranken** bilden Ausnahmen von diesem Grundsatz. Sie dienen dem 
 
 Wichtige Anwendungsgrundsätze:
 1.  **Enger Korridor:** Schranken sind eng auszulegen. Im Zweifel gilt das Schutzrecht des Urhebers (Art. 14 GG), nicht die Ausnahme.
-2.  **Drei-Stufen-Test:** Eine Schranke greift nur, wenn...
-    * ...es sich um einen Sonderfall handelt.
-    * ...die normale Verwertung des Werkes nicht beeinträchtigt wird.
-    * ...die berechtigten Interessen der Urheber nicht unzumutbar verletzt werden.
+2.  **Drei-Stufen-Test:** Der Gesetzgeber orientiert sich beim Schaffen von Schranken am völkerrechtlichen Drei-Stufen-Test (Art. 5 Abs. 5 InfoSoc-RL). Für die AnwenderInnen ist er kein eigenes Prüfschema. Er erklärt aber, warum Schranken eng ausgelegt werden und im Zweifel das Schutzrecht der UrheberInnen gilt.
 <br>
 Was erlaubt § 60f UrhG konkret?
 Der Gesetzgeber räumt Archiven, Bibliotheken und Museen Vorrang bei der **Bestandserhaltung** ein.
@@ -684,6 +698,8 @@ der Öffentlichkeit von Orten und zu Zeiten ihrer Wahl zugänglich ist.
 Ist das Erstellen eines Thumbnails für eine Datenbank rechtlich eine Vervielfältigung nach § 16 UrhG?
 - [(X)] Ja, jede digitale Speicherung gilt als Vervielfältigung.
 - [( )] Nein, da es sich nur um eine technische Vorschau handelt.
+- [( )] Nur, wenn das Thumbnail eine bestimmte Mindestauflösung hat.
+- [( )] Nur, wenn das Thumbnail öffentlich zugänglich gemacht wird.
 ************************************************
 Richtig! Auch kleine Vorschaubilder fallen unter das Vervielfältigungsrecht.
 ************************************************
@@ -691,6 +707,8 @@ Richtig! Auch kleine Vorschaubilder fallen unter das Vervielfältigungsrecht.
 Darf ein Archiv ein urheberrechtlich geschütztes Werk allein auf Basis der Archivschranke (§ 60f) weltweit online stellen?
 - [( )] Ja, dafür ist die Schranke da.
 - [(X)] Nein, § 60f dient primär der Erhaltung und internen Nutzung, nicht der freien Online-Stellung.
+- [( )] Ja, sofern das Werk digitalisiert und katalogisiert wurde.
+- [( )] Nein, aber § 19a UrhG erlaubt dies automatisch als Ergänzung.
 ************************************************
 Korrekt. Für die Online-Stellung benötigen Sie in der Regel eine Lizenz oder das Werk muss gemeinfrei sein.
 ************************************************
@@ -734,9 +752,9 @@ __3. Postmortales Persönlichkeitsrecht__
 
 Was passiert nach dem Tod? Das Persönlichkeitsrecht erlischt nicht sofort, sondern wirkt nach.
 
-* **Frist:** Das postmortale Persönlichkeitsrecht erlischt in der Regel **11 Jahre nach dem Tod**.
-* **Vergleich zum Urheberrecht:** Diese Frist ist deutlich kürzer als die urheberrechtliche Schutzfrist (71 Jahre nach Tod).
-* **Relevanz:** Bei jüngeren Archivbeständen müssen wir also prüfen, ob die 11-Jahres-Frist bereits verstrichen ist, bevor wir Bildnisse veröffentlichen.
+* **Frist:** Das postmortale Persönlichkeitsrecht erlischt in der Regel **10 Jahre nach dem Tod**.
+* **Vergleich zum Urheberrecht:** Diese Frist ist deutlich kürzer als die urheberrechtliche Schutzfrist (70 Jahre nach Tod).
+* **Relevanz:** Bei jüngeren Archivbeständen müssen wir also prüfen, ob die 10-Jahres-Frist bereits verstrichen ist, bevor wir Bildnisse veröffentlichen.
 
 ---
 
@@ -748,9 +766,9 @@ Um die Entscheidung "Online oder nicht?" zu treffen, hilft oft ein Blick auf die
 
 | Rechtsebene | Schutzfrist | Bezugspunkt |
 | :--- | :--- | :--- |
-| **Urheberrecht** | 71 Jahre | nach dem Tod des Urhebers |
-| **Persönlichkeitsrecht** | 11 Jahre | nach dem Tod der abgebildeten Person |
-| **Datenschutz (DSGVO)** | Lebenszeit | endet mit dem Tod der Person |
+| **Urheberrecht** | 70 Jahre | nach dem Tod des Urhebers |
+| **Persönlichkeitsrecht** | 10 Jahre | nach dem Tod der abgebildeten Person |
+| **Datenschutz (DSGVO)** | Lebenszeit | endet grundsätzlich mit dem Tod; kein Schutz durch die DSGVO für Verstorbene |
 
 > __§ 22 KUG – Recht am eigenen Bild__ 
 > <div style="font-size: 12px">
@@ -784,18 +802,21 @@ Angehörigen verletzt wird.
 # Quiz 
 
 
-Wenn das Urheberrecht an einem Foto abgelaufen ist, darf ich es in jedem Fall sofort online stellen.
-- [( )] Wahr
-- [(X)] Falsch
+Wenn das Urheberrecht an einem Foto abgelaufen ist, darf man es in jedem Fall sofort online stellen.
+- [( )] Ja, Gemeinfreiheit bedeutet freie Nutzung ohne Einschränkungen.
+- [(X)] Nein, es können Persönlichkeitsrechte, Datenschutz oder ein/e Hausrecht/ -regel der Institution entgegenstehen.
+- [( )] Nein, aber nur wenn das Foto vor 1900 entstanden ist.
+- [( )] Ja, sofern keine kommerzielle Nutzung vorliegt.
 ************************************************
 Richtig! Auch wenn das Urheberrecht erloschen ist, müssen Sie prüfen, ob das Persönlichkeitsrecht der abgebildeten Personen (bis 10 Jahre nach deren Tod) oder der Datenschutz (bei lebenden Personen) einer Veröffentlichung entgegenstehen.
 ************************************************
 
 
-Ein Archiv möchte Briefe eines lokalen Politikers aus dem Jahr 2005 digitalisieren und online stellen. Der Politiker lebt noch. Welches Gesetz ist hier primär für die Veröffentlichung der Namen von Briefpartnern relevant?
+Ein Archiv möchte Briefe eines lokalen Politikers aus dem Jahr 2005 digitalisieren und online stellen. Der Politiker lebt noch. Die Briefe enthalten Namen und Adressen seiner Korrespondenzpartner, die ebenfalls noch leben. Welches Gesetz ist für die Veröffentlichung dieser personenbezogenen Textdaten primär relevant?
 - [( )] Das Kunsturhebergesetz (KUG)
 - [(X)] Die Datenschutz-Grundverordnung (DSGVO)
 - [( )] Das Urheberrechtsgesetz (§ 16 UrhG)
+- [( )] Das Bürgerliche Gesetzbuch (§ 823 BGB)
 ************************************************
 Korrekt. Da der Politiker (und evtl. die Briefpartner) noch leben, handelt es sich um personenbezogene Daten nach der DSGVO.
 ************************************************
@@ -805,10 +826,10 @@ Korrekt. Da der Politiker (und evtl. die Briefpartner) noch leben, handelt es si
 In diesem Abschnitt schauen wir uns an, wie Verträge auszulegen sind, was bei Fehlern passiert und warum ein Vertrag mit den UrheberInnen allein manchmal nicht ausreicht.
 
 <div style="font-size: 19px">
-__1. Die Zweckübertragungslehre (§ 31 Abs. 5 UrhG)__
+__1. Die Zweckübertragungslehre__
 </div>
 
-Ein zentrales Prinzip im Urheberrecht ist die **Zweckübertragungsregel**. Sie dient dem Schutz der UrheberInnen.
+Ein zentrales Prinzip im Urheberrecht ist die **Zweckübertragungsregel**. Sie dient dem Schutz der UrheberInnen. Die Zweckübertragungslehre ergibt sich aus § 31 Abs. 5 UrhG und der ständigen BGH-Rechtsprechung.
 
 > **Grundsatz:** Im Zweifel werden nur so viele Rechte übertragen, wie für den konkret vereinbarten Zweck zwingend notwendig sind.
 
@@ -828,7 +849,7 @@ __2. VG Bild-Kunst__
 Die **VG Bild-Kunst** ist eine Verwertungsgesellschaft, die die Rechte von BildkünstlerInnen, FotografInnen und DesignerInnen kollektiv wahrnimmt.
 
 **Die Falle beim Einzelvertrag:**
-Viele KünstlerInnen haben einen Wahrnehmungsvertrag mit der VG Bild-Kunst. Das bedeutet: Sie haben ihre Online-Rechte bereits **exklusiv an die VG übertragen**.
+Viele KünstlerInnen haben einen Wahrnehmungsvertrag mit der VG Bild-Kunst. Das bedeutet: Sie haben ihre Online-Rechte zur kollektiven Wahrnehmung an die VG Bild-Kunst übertragen. Ein privatrechtlicher Einzelvertrag mit der Künstlerin kann diese Rechte daher nicht wirksam einräumen. 
 
 * **Die Folge:** Ein privatrechtlicher Vertrag zwischen Ihnen und der Künstlerin reicht dann nicht aus! Selbst wenn die Künstlerin "Ja" sagt, liegen die Rechte bei der VG.
 * **Prüfschritt:** Prüfen Sie immer, ob KünstlerInnen Mitglied einer Verwertungsgesellschaft sind. Wenn ja, ist meist ein zusätzlicher Lizenzvertrag mit der VG Bild-Kunst nötig.
@@ -844,7 +865,7 @@ nutzen, ohne dass eine Nutzung durch andere ausgeschlossen ist. <br>
 (3) Das ausschließliche Nutzungsrecht berechtigt den Inhaber, das Werk unter Ausschluss 
 aller anderen Personen auf die ihm erlaubte Art zu nutzen und Nutzungsrechte einzuräumen. Es kann bestimmt werden, dass die Einräumung von Nutzungsrechten an Dritte der Zustimmung des Urhebers bedarf. <br>
 (4) Die Einräumung von Nutzungsrechten für noch nicht bekannte Nutzungsarten sowie 
-Verpflichtungen hierzu sind unwirksam. 
+Verpflichtungen hierzu sind unwirksam. <br>
 (5) Sind bei der Einräumung eines Nutzungsrechts die Nutzungsarten nicht ausdrücklich 
 einzeln bezeichnet, so bestimmt sich nach dem von beiden Parteien zugrunde gelegten 
 Zweck des Vertrags, auf welche Nutzungsarten es sich erstreckt. Entsprechendes gilt für die 
@@ -876,7 +897,9 @@ müssen, wenn er die Erlaubnis zur Nutzung des verletzten Rechts eingeholt hätt
 
 In einem Schenkungsvertrag von 1975 steht: "Das Archiv darf die Fotos für die Öffentlichkeitsarbeit nutzen." Darf das Archiv diese Fotos heute ohne Weiteres auf Instagram posten?
 - [( )] Ja, Öffentlichkeitsarbeit umfasst heute auch Social Media.
-- [(X)] Nein, nach der Zweckübertragungsregel (§ 31 Abs. 5 UrhG) ist bei alten Verträgen Vorsicht geboten, da das Internet 1975 keine bekannte Nutzungsart war.
+- [(X)] Nein, nach der Zweckübertragungsregel ist bei alten Verträgen Vorsicht geboten, da das Internet 1975 keine bekannte Nutzungsart war.
+- [( )] Ja, sofern kein kommerzieller Zweck verfolgt wird.
+- [( )] Nein, Schenkungsverträge berechtigen grundsätzlich nicht zur Online-Nutzung.
 ************************************************
 Richtig! Da das Internet 1975 noch nicht als Verbreitungsmedium relevant war, muss hier im Einzelfall geprüft werden, ob diese Nutzungsart vom damaligen Zweck wirklich umfasst war. Meist ist eine Nachlizensierung oder eine neue Einwilligung sicherer.
 ************************************************
@@ -890,11 +913,19 @@ Korrekt! Man tut so, als hätte man einen ordentlichen Vertrag geschlossen, und 
 ************************************************
 
 Ein Fotograf ist Mitglied der VG Bild-Kunst. Er erlaubt Ihnen schriftlich und kostenlos, seine Bilder online zu stellen. Sind Sie rechtlich abgesichert?
-- [( )] Ja, die Erlaubnis des Schöpfers sticht immer alles andere.
-- [(X)] Nein, da er seine Online-Rechte wahrscheinlich exklusiv an die VG Bild-Kunst übertragen hat.
+- [( )] Ja, die schriftliche Erlaubnis des Schöpfers sticht immer alles andere.
+- [(X)] Nein, da er seine Online-Rechte zur kollektiven Wahrnehmung an die VG Bild-Kunst übertragen hat. Ein Einzelvertrag kann diese Rechte nicht wirksam einräumen.
+- [( )] Ja, sofern die Nutzung nicht kommerziell ist.
+- [( )] Nein, Fotografen können grundsätzlich keine Rechte übertragen.
 ************************************************
 Richtig! In diesem Fall hat die VG das Vorrangrecht. Ein Vertrag mit der Künstlerin allein bietet hier keine ausreichende Sicherheit für die Online-Stellung.
 ************************************************
+
+Ein Archiv stellt versehentlich ein noch geschütztes Foto online, weil die Rechteklärung unvollständig war. Der Rechteinhaber meldet sich. Was kann er rechtlich verlangen?
+- [( )] Nichts, bei fehlender Absicht haftet die Institution nicht.
+- [( )] Nur die Entfernung des Fotos, da kein Vorsatz vorlag.
+- [(X)] Unterlassung, Schadensersatz nach Lizenzanalogie und Erstattung der Abmahnkosten.
+- [( )] Eine pauschale Entschädigung von maximal 500 Euro gemäß UrhG.
 
 # Haftung und Rechtsfolgen (§ 97 UrhG)
 
@@ -907,15 +938,19 @@ __Die rechtlichen Konsequenzen__
 Wer Urheberrechte verletzt – auch unabsichtlich –, sieht sich mit den Regelungen des **§ 97 UrhG** konfrontiert. Die Haftung umfasst drei zentrale Säulen:
 
 1. **Unterlassungsanspruch**: 
-   Das Werk muss unverzüglich aus dem Internet entfernt werden. Dies kann bei großen Portalen zu erheblichem technischen Aufwand führen.
+   Die RechteinhaberInnnen können verlangen, dass das Werk sofort offline genommen wird.
    
 2. **Schadensersatz (Lizenzanalogie)**: 
-   Hier wird berechnet: *„Was hätte eine ordentliche Lizenz für diese Nutzung gekostet?“* Dieser Betrag muss an die RechteinhaberInnen nachgezahlt werden.
-   
-3. **Abmahnrisiko**: 
-   Rechtsanwaltskanzleien können im Namen der UrheberInnen kostenpflichtige Abmahnungen aussprechen. Hierbei fallen zusätzlich zu den Forderungen oft hohe Anwaltsgebühren an.
+   Bei schuldhafter Verletzung (also auch bei einfacher Fahrlässigkeit) kann Schadensersatz gefordert werden. Berechnet nach dem entgangenen Lizenzgewinn oder der sogenannten Lizenzanalogie.
+(Bei der Lizenzanalogie wird der Schadensersatz so berechnet, als hätte die verletzende Partei von Anfang an eine Lizenz erworben. Es muss also nachträglich genau das gezahlt werden, was eine ordnungsmäßige Lizenzierung gekostet hätte.)
 
->> **Wichtig:** Haftung ist im Urheberrecht oft verschuldensunabhängig (beim Unterlassungsanspruch) oder setzt nur Fahrlässigkeit voraus. „Das haben wir nicht gewusst“ schützt also meist nicht vor den Kosten.
+3. **Abmahnrisiko**: 
+   In der Praxis häufig der erste Schritt. Mit Kostenfolge für die abgemahnte Institution. 
+
+>> **Wichtig:**
+* Die Haftung trifft grundsätzlich die Institution, nicht nur die einzelne Mitarbeiterin.
+* Gutgläubigkeit schützt nicht: wer nicht prüft, handelt fahrlässig.
+* Eine sorgfältige Rechteklärung vor der Onlinestellung ist daher nicht nur gute Praxis, sondern rechtliche Pflicht.
 
 <div style="font-size: 19px">
 __Strategien zur Risikominimierung__
@@ -965,7 +1000,69 @@ Herzlichen Glückwunsch! Sie haben nun ein solides Fundament über:
 3. Die Bedeutung von **Schrankenregelungen** (§ 60f UrhG).
 4. Die Tücken der **Zweckübertragungslehre** und der **VG Bild-Kunst**.
 
-Mit diesem Wissen können Sie nun sicherer entscheiden, welche Schätze Ihres Bestandes den Weg in die digitale Öffentlichkeit finden dürfen.
+Mit diesem Wissen können Sie nun fundierter entscheiden, welche Archivalien Ihres Bestandes unter welchen Voraussetzungen den Weg in die digitale Öffentlichkeit finden dürfen. 
+
+# Quellenverzeichnis
+
+**I. Gesetze und Verordnungen** <br>
+UrhG – Urheberrechtsgesetz in der Fassung vom 9. September 1965 (BGBl. I S. 1273), zuletzt geändert durch Art. 31 G vom 23. Juni 2021 (BGBl. I S. 1858).
+
+KUG – Kunsturhebergesetz vom 9. Januar 1907 (RGBl. S. 7), zuletzt geändert durch Art. 3 § 24 G vom 23. November 2007 (BGBl. I S. 2614).
+
+VGG – Verwertungsgesellschaftengesetz vom 24. Mai 2016 (BGBl. I S. 1190), zuletzt geändert durch Art. 6 G vom 28. November 2018 (BGBl. I S. 2014).
+
+DSGVO – Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 (ABl. EU Nr. L 119 S. 1).
+
+**II. Kommentare** <br>
+Dreier, Thomas/Schulze, Gernot (Hrsg.), Urheberrechtsgesetz: UrhG, 7. Aufl., München 2022.
+
+Schricker, Gerhard/Loewenheim, Ulrich (Hrsg.), Urheberrecht: Kommentar, 6. Aufl., München 2020.
+
+Wandtke, Artur-Axel/Bullinger, Winfried (Hrsg.), Praxiskommentar zum Urheberrecht, 5. Aufl., München 2019.
+Möhring, Philipp/Nicolini, Käte (Hrsg.), Urheberrechtsgesetz: Kommentar, 4. Aufl., München 2018.
+
+**III. Monographien und Lehrbücher** <br>
+Loewenheim, Ulrich (Hrsg.), Handbuch des Urheberrechts, 3. Aufl., München 2021.
+
+Rehbinder, Manfred/Peukert, Alexander, Urheberrecht und verwandte Schutzrechte: Ein Studienbuch, 18. Aufl., München 2018.
+
+Fromm, Friedrich Karl/Nordemann, Wilhelm (Hrsg.), Urheberrecht: Kommentar, 12. Aufl., Stuttgart 2018.
+
+Bullinger, Winfried/Garbers-von Boehm, Katharina/Göttlinger, Martin, Praxishandbuch Geistiges Eigentum im Internet, München 2021.
+
+**IV. Aufsätze** <br>
+Euler, Ellen, Kulturgut ins Netz! – Rechtliche Rahmenbedingungen für die Online-Stellung von Kulturgütern durch Gedächtnisinstitutionen, in: Archiv und Wirtschaft 2011, S. 162–172.
+
+Grünberger, Michael, Die Archivschranke des § 60f UrhG – Möglichkeiten und Grenzen für Gedächtnisinstitutionen, in: ZUM 2018, S. 271–283.
+
+Jani, Ole, Verwaiste Werke im Urheberrecht – Die Regelung der §§ 61 ff. UrhG und ihre praktische Bedeutung für Archive und Bibliotheken, in: ZUM 2014, S. 187–197.
+
+Kreutzer, Till, Open Content – Ein Praxisleitfaden zur Nutzung von Creative-Commons-Lizenzen, hrsg. von der Deutschen UNESCO-Kommission, Bonn 2016.
+
+Peifer, Karl-Nikolaus, Das Recht am eigenen Bild nach dem Tod – Schutzfristen und postmortales Persönlichkeitsrecht im KUG, in: GRUR 2016, S. 1–9.
+
+Raue, Benjamin, Reproduktionsfotografie und Lichtbildschutz nach der Reform 2021 – § 68 UrhG n.F. im Praxistest, in: GRUR 2022, S. 417–426.
+
+**V. Rechtsprechung** <br>
+BGH, Urt. v. 29. April 2010 – I ZR 69/08 – Vorschaubilder I, BGHZ 185, 291.
+
+BGH, Urt. v. 19. Oktober 2011 – I ZR 140/10 – Vorschaubilder II, GRUR 2012, 602.
+
+BGH, Urt. v. 20. März 2003 – I ZR 117/00 – Gies-Adler, GRUR 2003, 876 (zur Zweckübertragungslehre).
+
+EuGH, Urt. v. 13. Februar 2014 – C-466/12 – Svensson, GRUR 2014, 360 (zum Begriff des neuen Publikums).
+
+EuGH, Urt. v. 26. April 2017 – C-527/15 – Stichting Brein, GRUR 2017, 610.
+
+**VI. Online-Quellen** <br>
+iRights.info, Urheberrecht für Bibliotheken, Archive und Museen, abrufbar unter: https://irights.info (Stand: 12. Mai 2026).
+
+Kreutzer, Till/Lahiri, Henning, Handreichung Urheberrecht in Bibliotheken, Bibliothek & Information Deutschland (BID), Berlin 2022, abrufbar unter: https://www.bideutschland.de (Stand: 12. Mai 2026).
+
+EUIPO, Datenbank verwaister Werke, abrufbar unter: https://www.euipo.europa.eu/orphan-works (Stand: 12. Mai 2026).
+
+Deutsche UNESCO-Kommission, Open GLAM – Offener Zugang zu Kulturgütern, abrufbar unter: https://www.unesco.de (Stand: 12. Mai 2026).
+
 
 
 
