@@ -334,7 +334,7 @@ Das Urheberrecht erlischt siebzig Jahre nach dem Tode des Urhebers.
 > <div style="font-size: 12px">
 (1) Steht das Urheberrecht mehreren Miturhebern (§ 8) zu, so erlischt es siebzig Jahre nach dem Tode des längstlebenden Miturhebers. <br>
 (2) Bei Filmwerken und Werken, die ähnlich wie Filmwerke hergestellt werden, erlischt das Urheberrecht siebzig Jahre nach dem Tod des Längstlebenden der folgenden Personen: Hauptregisseur, Urheber des Drehbuchs, Urheber der Dialoge, Komponist der für das betreffende Filmwerk komponierten Musik. <br>
-(3) Die Schutzdauer einer Musikkomposition mit Text erlischt 70 Jahre nach dem Tod des Längstlebenden der folgenden Personen: Verfasser des Textes, Komponist der Musikkomposition, sofern beide Beiträge eigens für die betreffende Musikkomposition mit Text geschaffen wurden. Dies gilt unabhängig davon, ob diese Personen als Miturheber ausgewiesen sind. <br>
+(3) Die Schutzdauer einer Musikkomposition mit Text erlischt 70 Jahre nach dem Tod des Längstlebenden der folgenden Personen: Verfasser des Textes, Komponist der Musikkomposition, sofern beide Beiträge eigens für die betreffende Musikkomposition mit Text geschaffen wurden. Dies gilt unabhängig davon, ob diese Personen als Miturheber ausgewiesen sind. </div> <br>
 > __[Hier](https://www.gesetze-im-internet.de/urhg/__65.html) aktuelle Version einsehen.__
 
 > __§ 69 UrhG – Berechnung der Fristen__ <br>
