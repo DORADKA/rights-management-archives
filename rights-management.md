@@ -1,5 +1,5 @@
 # Rechtemanagement im Archiv - Ein interaktiver Kurs
-<center>![DORA-Logo](/dora_full_blue_text_groß.png)</center> <br>
+<center> ![DORA-Logo-big](/dora_full_blue_text_groß.png)</center> <br>
 <div style="font-size: 19px">
 Erstellt im Rahmen des Projekts "Digitales Ontologie-gestütztes Rechtemanagement im Archiv" (DORA) von Mitarbeiterinnen des Deutschen Kunstarchivs (DKA). <br> </div>
 
