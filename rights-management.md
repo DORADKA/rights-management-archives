@@ -26,13 +26,8 @@ Nach diesem Kurs können Sie:
 * __beurteilen__: ob eine Onlinestellung rechtlich zulässig ist
 
 # Rechtsrahmen
-<div style="font-size: 12px">
-Rechtliche Grundlagen der Digitalisierung</div> <br>
 
-In diesem Abschnitt erarbeiten Sie sich ein solides Grundverständnis für den Rechtsrahmen, in dem man sich bei der Onlinestellung von Digitalisaten bewegt.
-<br>
 
----
 <div style="font-size: 19px">
 __1. Ein Fallbeispiel__
 </div>
@@ -213,9 +208,12 @@ Diese Gebiete überlagern das Urheberrecht, ohne es zu ersetzen:<br>
 * **Kulturgutschutzrecht:** Regelt Sorgfaltspflichten beim Umgang mit sensiblem Material und beschränkt ggf. den Abzug von Kulturgut ins Ausland.
 
 ---
-**Zusammenfassend:** Für die Archivpraxis gelten Urheberrecht, Datenschutz und Archivrecht stets kumulativ. Kulturgutschutzrecht kommt situativ hinzu; insbesondere bei grenzüberschreitender Nutzung oder Ausleihe zwischen Deutschland und einem anderen Land. <br>
+<div style="font-size: 19px">
+__Fazit__ </div>
+Für die Archivpraxis gelten Urheberrecht, Datenschutz und Archivrecht stets kumulativ. Kulturgutschutzrecht kommt situativ hinzu; insbesondere bei grenzüberschreitender Nutzung oder Ausleihe zwischen Deutschland und einem anderen Land. <br>
 
-__Weitere Informationen__
+<div style="font-size: 17px">
+__Weitere Informationen__ </div>
 * **DSGVO:** https://dejure.org/gesetze/DSGVO
 * **Bundesarchivgesetz:** https://www.bundesarchiv.de/das-bundesarchiv/rechtsgrundlagen/bundesarchivgesetz/
 * **Bayerisches Archivgesetz:** https://www.gesetze-bayern.de/Content/Document/BayArchivG
@@ -232,6 +230,7 @@ __Weitere Informationen__
 
 Im Gegensatz zum kunst- oder kulturwissenschaftlichen Verständnis ist der juristische Werkbegriff ein autonomer, normativer Begriff. Ein urheberrechtlich geschütztes Werk setzt zwingend eine persönliche geistige Schöpfung voraus, die sich von bloß handwerklichen Routinetätigkeiten abgrenzt. Zur Bestimmung der hierfür erforderlichen Individualität dient das Kriterium der Schöpfungshöhe. 
 <br>
+
 ---
 <div style="font-size: 19px">
  __Merkmale von Schöpfungshöhe__ </div>
@@ -255,7 +254,7 @@ __Werkcharakter:__
 - Schöpferische Fotografien (z.B. durch Bildausschnitt, Licht, Perspektive); bloße Reproduktionsfotografien gemeinfreier Werke hingegen nicht  <br>
 - Tagebücher <br>
 - Reden <br>
-</div>
+
 <br>
 __Kein Werkcharakter:__
 - Amtliche Dokumente <br> 
@@ -263,7 +262,7 @@ __Kein Werkcharakter:__
 - Technische Daten <br>
 - Sammelwerke ohne redaktionelle oder strukturelle Eigenleistung vgl. § 4 UrhG <br>
 - Sachliche Kurznachrichten <br>
-</div>
+
 
 <br>
 > <div style="font-size: 15px">
@@ -389,8 +388,6 @@ Bildnisse dürfen nur mit Einwilligung des Abgebildeten verbreitet oder öffentl
 
 # Quiz
 
-**Werkbegriff**<br>
-
 Nach § 2 Abs. 2 UrhG ist ein Werk eine „persönliche geistige Schöpfung“. Welche der folgenden Aussagen beschreibt am besten, was das bedeutet?
 
 - [(X)] Das Werk muss von einem Menschen stammen, eine gewisse Orginalität aufweisen und in irgendeiner Form wahrnehmbar sein. 
@@ -402,7 +399,6 @@ Richtig! Nur eine __persönliche geistige__ Schöpfung erfüllt die Schöpfungsh
 **************************************************
 
 ---
-**Gemeinfreiheit** <br>
 
 Ein Foto in Ihrem Bestand wurde 1910 aufgenommen. Der Fotograf ist unbekannt und das Werk wurde nie veröffentlicht. Welche Regelung gilt nach § 66 UrhG?
 - [( )] Das Werk ist sofort gemeinfrei, weil der Urheber nicht ermittelt werden kann.
@@ -410,7 +406,7 @@ Ein Foto in Ihrem Bestand wurde 1910 aufgenommen. Der Fotograf ist unbekannt und
 - [( )] Der Schutz endet erst 70 Jahre nach dem Tod des Urhebers, der Schutz läuft also noch.
 - [( )] Das Werk fällt unter die Archivschranke und darf unbegrenzt genutzt werden.
 ************************************************
-Richtig. Die Faustformel von **141 Jahren nach Entstehung** bietet eine pragmatische Sicherheit, falls das Todesjahr nicht mit zumutbarem Aufwand ermittelt werden kann.<br> __Aber Achtung:__ Es bleibt eine Risikoabwägung!
+Richtig! Die Faustformel von **141 Jahren nach Entstehung** bietet eine pragmatische Sicherheit, falls das Todesjahr nicht mit zumutbarem Aufwand ermittelt werden kann.<br> __Aber Achtung:__ Es bleibt eine Risikoabwägung!
 ************************************************
 
 ---
@@ -421,14 +417,9 @@ Richtig. Die Faustformel von **141 Jahren nach Entstehung** bietet eine pragmati
 </div> 
 <br>
 
-<div style="font-size: 19px"> 
-__Umgang mit verwaisten Werken__
-</div>
-
 Was tun, wenn man ein Werk nicht eindeutig zuordnen kann – wenn also die UrheberInnen oder RechteinhaberInnen unbekannt sind? 
 
 Das Gesetz bezeichnet solche Fälle als **„verwaiste Werke“** (Orphan Works).
-<br>
 <br>
 
 ---
@@ -574,7 +565,7 @@ __Reform von 2021__
 
 Seit der Urheberrechtsreform 2021 (basierend auf einer EU-Richtlinie) gilt eine wichtige Neuerung für die Archivpraxis:
 
->> **§ 68 UrhG:** Reproduktionen **zweidimensionaler** Werke (z. B. Gemälde, Stiche, Urkunden), die selbst bereits **gemeinfrei** sind, genießen **keinen eigenen Lichtbildschutz** mehr.
+>> **§ 68 UrhG:** Reproduktionen **zweidimensionaler** Werke (z. B. Gemälde, Graphiken, Urkunden), die selbst bereits **gemeinfrei** sind, genießen **keinen eigenen Lichtbildschutz** mehr.
 
 Das bedeutet: Wenn man ein altes, gemeinfreies Dokument scannt, entsteht durch den Scanvorgang kein neues Urheberrecht. Der „Weg“ über das Urheberrecht ist somit frei für die Nutzung dieser Digitalisate.
 
@@ -591,14 +582,9 @@ Auch wenn das Urheberrecht einer Nutzung nicht mehr im Wege steht, bedeutet das 
 * **Eigentums- & Kulturgutschutz:** Bestehen besondere Schutzstatus für das physische Objekt?
 <br>
 
-> __§ 68 UrhG – Anonyme und pseudonyme Werke__ 
+> __§ 68 UrhG – Vervielfältigungen gemeinfreier visueller Werke__ 
 > <div style="font-size: 12px">
-(1) Bei anonymen und pseudonymen Werken erlischt das Urheberrecht siebzig Jahre nach 
-der Veröffentlichung. Es erlischt jedoch bereits siebzig Jahre nach der Schaffung des 
-Werkes, wenn das Werk innerhalb dieser Frist nicht veröffentlicht worden ist. <br>
-(2) Absatz 1 ist nicht anzuwenden, wenn das Pseudonym des Urhebers keinen Zweifel an 
-seiner Identität lässt oder wenn der Urheber seine Identität innerhalb der in Absatz 1 
-bezeichneten Frist offenbart; in diesen Fällen gilt § 64.
+Vervielfältigungen gemeinfreier visueller Werke werden nicht durch verwandte Schutzrechte nach den Teilen 2 und 3 geschützt.
 </div> <br>
 > __[Hier](https://www.gesetze-im-internet.de/urhg/__68.html) aktuelle Version einsehen.__
 
@@ -621,28 +607,23 @@ worden ist. Die Frist ist nach § 69 zu berechnen.
 ---
 
 # Quiz
-__Reprofotografie & Lichtbildschutz__
 
 Ein Archiv erstellt einen Scan eines Gemäldes aus dem 18. Jahrhundert, das bereits gemeinfrei ist. Welchen urheberrechtlichen Schutz genießt dieser neue Scan seit der Reform 2021?
 
-- [(X)] Er genießt **keinen** eigenen Lichtbildschutz nach § 68 UrhG.
+- [(X)] Er genießt keinen eigenen Lichtbildschutz nach § 68 UrhG.
 - [( )] Er ist für 50 Jahre ab Herstellung als einfaches Lichtbild geschützt.
 - [( )] Er ist als Lichtbildwerk 70 Jahre nach dem Tod der Fotograf:in geschützt.
 - [( )] Er ist geschützt, sofern die technische Auflösung hoch genug ist (z. B. über 300 dpi).
 ************************************************
-**Richtig!** Seit der Reform 2021 (Umsetzung der EU-Richtlinie) erhalten Reproduktionen von **gemeinfreien, zweidimensionalen Werken** keinen neuen Leistungsschutz mehr. Die bloße technische Vervielfältigung (Scan/Reprofotografie) löst also keine neuen Rechte aus, was die Nutzung für Archive erheblich erleichtert.
+Richtig! Seit der Reform 2021 (Umsetzung der EU-Richtlinie) erhalten Reproduktionen von gemeinfreien, zweidimensionalen Werken keinen neuen Leistungsschutz mehr. Die bloße technische Vervielfältigung (Scan/Reprofotografie) löst also keine neuen Rechte aus, was die Nutzung für Archive erheblich erleichtert.
 ************************************************
 
 
 # Digitalisierung 
-<div style="font-size: 12px">
-Rechtliche Grundlagen der Digitalisierung: Vervielfältigung, Veröffentlichung und Schranken
-</div>
 
 
-In diesem Modul erarbeiten Sie sich ein solides rechtliches Grundverständnis für die Entscheidung, ob Digitalisate online gestellt werden dürfen oder nicht.
 
----
+
 <div style="font-size: 19px">
 __Der erste Schritt: Das Vervielfältigungsrecht (§ 16 UrhG)__
 </div>
@@ -753,7 +734,7 @@ Darf ein Archiv ein urheberrechtlich geschütztes Werk allein auf Basis der Arch
 - [( )] Ja, sofern das Werk digitalisiert und katalogisiert wurde.
 - [( )] Nein, aber § 19a UrhG erlaubt dies automatisch als Ergänzung.
 ************************************************
-Korrekt. Für die Onlinestellung benötigen Sie in der Regel eine Lizenz oder das Werk muss gemeinfrei sein.
+Richtig! Für die Onlinestellung benötigen Sie in der Regel eine Lizenz oder das Werk muss gemeinfrei sein.
 ************************************************
 
 
@@ -862,14 +843,12 @@ Ein Archiv möchte Briefe eines lokalen Politikers aus dem Jahr 2005 digitalisie
 - [( )] Das Urheberrechtsgesetz (§ 16 UrhG)
 - [( )] Das Bürgerliche Gesetzbuch (§ 823 BGB)
 ************************************************
-Korrekt. Da der Politiker (und evtl. die Briefpartner) noch leben, handelt es sich um personenbezogene Daten nach der DSGVO.
+Richtig! Da der Politiker (und evtl. die Briefpartner) noch leben und es sich um personenbezogene Daten handelt muss die DSGVO beachtet werden.
 ************************************************
 
 # Verträge, Verwertungsgesellschaften und Haftung
 
-In diesem Abschnitt lernen Sie, wie Verträge auszulegen sind, was bei Fehlern passiert und warum ein Vertrag mit den UrheberInnen allein manchmal nicht ausreicht.
 
----
 <div style="font-size: 19px">
 __1. Die Zweckübertragungslehre__
 </div>
@@ -907,8 +886,8 @@ Wer ein urheberrechtlich geschütztes Werk ohne Erlaubnis online stellt, haftet 
 
 **Was droht konkret?**
 * **Unterlassung:** Die RechteinhaberInnnen können verlangen, dass das Werk sofort offline genommen wird.
-* **Schadensersatz:** Bei schuldhafter Verletzung (also auch bei einfacher Fahrlässigkeit) kann Schadensersatz gefordert werden. Berechnet nach dem entgangenen Lizenzgewinn oder der sogenannten Lizenzanalogie. (Bei der Lizenzanalogie wird der Schadensersatz so berechnet, als hätte die verletzende Partei von Anfang an eine Lizenz erworben. Es muss also nachträglich genau das gezahlt werden, was eine ordnungsmäßige Lizenzierung gekostet hätte.)
-* **Abmahnung:** In der Praxis häufig der erste Schritt. Mit Kostenfolge für die abgemahnte Institution.
+* **Schadensersatz:** Bei schuldhafter Verletzung (also auch bei einfacher Fahrlässigkeit) kann Schadensersatz gefordert werden. Berechnet nach dem entgangenen Lizenzgewinn oder der sogenannten Lizenzanalogie. Bei der Lizenzanalogie wird der Schadensersatz so berechnet, als hätte die verletzende Partei von Anfang an eine Lizenz erworben. Es muss also nachträglich genau das gezahlt werden, was eine ordnungsmäßige Lizenzierung gekostet hätte.
+* **Abmahnung:** In der Praxis ist dies häufig der erste Schritt. Es entsteht eine Kostenfolge für die abgemahnte Institution.
   
 >> **Wichtig:** Die Haftung trifft grundsätzlich die Institution, nicht nur die einzelne Mitarbeiterin. Gutgläubigkeit schützt nicht: wer nicht prüft, handelt fahrlässig. Eine sorgfältige Rechteklärung vor der Onlinestellung ist daher nicht nur gute Praxis, sondern rechtliche Pflicht.
 
@@ -979,7 +958,7 @@ Was versteht man unter der „Lizenzanalogie“ im Schadensfall?
 - [(X)] Die Berechnung des Schadens anhand dessen, was man für eine reguläre Lizenz hätte zahlen müssen.
 - [( )] Eine Strafe, die doppelt so hoch ist wie der ursprüngliche Kaufpreis.
 ************************************************
-Korrekt! Man tut so, als hätte man einen ordentlichen Vertrag geschlossen, und zahlt diese fiktive Gebühr als Schadensersatz nach.
+Richtig! Man tut so, als hätte man einen ordentlichen Vertrag geschlossen, und zahlt diese fiktive Gebühr als Schadensersatz nach.
 ************************************************
 
 ---
@@ -998,17 +977,23 @@ Ein Archiv stellt versehentlich ein noch geschütztes Foto online, weil die Rech
 - [( )] Nur die Entfernung des Fotos, da kein Vorsatz vorlag.
 - [(X)] Unterlassung, Schadensersatz nach Lizenzanalogie und Erstattung der Abmahnkosten.
 - [( )] Eine pauschale Entschädigung von maximal 500 Euro gemäß UrhG.
+************************************************
+Richtig! 
 
 
 
 # Modul-Abschluss
 
-Herzlichen Glückwunsch! Sie haben nun ein solides Wissensfundament über:
-1. Die **Vervielfältigung** beim Scannen (§ 16 UrhG)
-2. Die **öffentliche Zugänglichmachung** (§ 19a UrhG)
-3. Die Bedeutung von **Schrankenregelungen** (§ 60f UrhG)
-4. Die Tücken der **Zweckübertragungslehre** und der **VG Bild-Kunst**
-5. Die **Rechtsfolgen von Urheberrechtsverletzungen** (§ 97 UrhG)
+Herzlichen Glückwunsch! Sie haben einen Überblick über die wichtigsten Rechtsgebiete in der Archivpraxis erhalten und verfügen nun über ein solides Wissensfundament über:
+1. Die Merkmale, welche eine **Schöpfungshöhe** bei Werken definieren (§ 2 UrhG)
+2. Die Berechnung der **Fristen** von Urheber- und Persönlichkeitsrecht (§ 64 UrhG und § 22 KUG)
+3. Den Umgang mit **verwaisten Werken** (§§ 61-61c UrhG)
+4. Die Rechtesituation beim Erstellen von **Lichtbildern** (§ 68 UrhG)
+5. Die **Vervielfältigung** beim Scannen (§ 16 UrhG)
+6. Die **öffentliche Zugänglichmachung** (§ 19a UrhG)
+7. Die Bedeutung von **Schrankenregelungen** (§ 60f UrhG)
+8. Die Tücken der **Zweckübertragungslehre** und der **VG Bild-Kunst**
+10. Die **Rechtsfolgen von Urheberrechtsverletzungen** (§ 97 UrhG)
 
 Mit diesem Wissen können Sie nun fundierter entscheiden, welche Archivalien Ihres Bestandes unter welchen Voraussetzungen den Weg in die digitale Öffentlichkeit finden dürfen. 
 
