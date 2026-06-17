@@ -21,24 +21,17 @@ Der Kurs wurde im Rahmen des Projekts [„Digitales Ontologie-gestütztes Rechte
 
 Nach diesem Kurs können Sie:
 
-__Stufe 1: Benennen__
-* Lernende können die Grundsätze des Urheberrechts benennen
-* Lernende können die Merkmale der Schöpfungshöhe benennen
-* Lernende können personenbezogene Daten benennen
-* Lernende können Schutzfristen des Urheberrechts bennen
-* Lernende können den Unterschied zwischen Lichtbildwerk und Lichtbild benennen
-
-__Stufe 2: Erläutern__
-* Lernende können die Schrankenregelung benennen
-* Lernende können die Archivschranke erläutern
-
-__Stufe 3: Anwenden__
-* Lernende können die Berechnung von Schutzfristen des Urheberrechts anwenden
+* die Grundsätze und Schutzfristen des Urheberrechts benennen
+* den Unterschied zwischen Lichtbildwerk und Lichtbild benennen
+* die relevanten Rechtsgebiete bei der Onlinestellung von Archivgut benennen
+* die Berechnung von Schutzfristen der relevanten Rechtsgebiete beispielhaft auf Archivgut anwenden
+* die Voraussetzungen der Archivschranke benennen
+* die Archivschranke auf konkrete Fälle der Onlinestellung anwenden
 
 
 # Rechtsrahmen
 
-Dieses Kapitel gibt ihnen einen ersten Überblick darüber, welche Rechtsgebiete für die Veröffentlichung und Onlinestellung von Archivgut eine Rolle spielen.
+Dieses Kapitel gibt Ihnen einen ersten Überblick darüber, welche Rechtsgebiete für die Veröffentlichung und Onlinestellung von Archivgut eine Rolle spielen.
 
 ---
 <div style="font-size: 19px">
@@ -82,6 +75,16 @@ Welche Aussage beschreibt das Verhältnis der Rechtsgebiete korrekt?
 *******************************************************************************
 Richtig! Es genügt nicht, vor der Onlinestellung das Urheberrecht zu prüfen, man muss auch auf Datenschutz, Persönlichkeitsrecht und weitere rechtliche Vorgaben achten.
 *******************************************************************************
+
+Ein Archiv möchte einen handgeschriebenen Brief einer 1952 verstorbenen Künstlerin digitalisieren und online stellen. Welches Rechtsgebiet muss dabei nicht zwingend geprüft werden?
+
+[( )] Urheberrecht
+[( )] Datenschutzrecht (DSGVO)
+[(x)] Kulturgutschutzrecht (KGSG)
+[( )] Persönlichkeitsrecht
+********************************************************************************
+Richtig! Das KGSG ist nur relevant, wenn Kulturgüter grenzüberschreitend bewegt oder gehandelt werden. Bei einer rein digitalen Onlinestellung im Inland greift es nicht. Urheberrecht (Schutzfrist lief bis Ende 2022, ist also bereits abgelaufen; aber das muss geprüft werden!), DSGVO (falls der Brief personenbezogene Daten Dritter enthält) und Persönlichkeitsrecht (bei erkennbaren Personen) sind hingegen immer zu prüfen.
+********************************************************************************
 
 
 # Zentrale Begriffe im Urheberrecht
@@ -219,7 +222,7 @@ Richtig! Die Sozialbindung rechtfertigt den Ausgleich zwischen dem Schutz des Ur
 § 2 UrhG
 </div> 
 
-In diesem Kapitel lernen Sie, wofür der Werkbegriff steht und wann ein Werk eine Schöpfungshöhe erreicht und somit urheberrechtlich geschützt ist.
+In diesem Kapitel lernen Sie, wofür der Werkbegriff steht und welche Kriterien erfüllt sein müssen, damit ein Werk eine Schöpfungshöhe erreicht und somit urheberrechtlich geschützt ist.
 
 ---
 <div style="font-size: 19px">
@@ -301,6 +304,16 @@ Nach § 2 Abs. 2 UrhG ist ein Werk eine „persönliche geistige Schöpfung“. 
 **************************************************
 Richtig! Nur eine __persönliche geistige__ Schöpfung erfüllt die Schöpfungshöhe. Sie muss von einem Menschen stammen, einen __geistigen Inhalt__ haben, über das __Alltägliche hinausgehen__ und __sinnbildlich erfassbar__ sein.
 **************************************************
+
+Eine Archivarin findet in einem Nachlass eine handgeschriebene Einkaufsliste sowie einen persönlichen Tagebucheintrag. Welches Objekt genießt urheberrechtlichen Schutz?
+
+[( )] Die Einkaufsliste, weil sie handgeschrieben und damit einzigartig ist.
+[(x)] Der Tagebucheintrag, weil er eine persönliche geistige Schöpfung darstellt.
+[( )] Beide, weil sie aus einem privaten Nachlass stammen.
+[( )] Keines, weil beide nicht veröffentlicht wurden.
+*****************************************************
+Richtig! Eine Einkaufsliste ist sachliches Alltagsschriftgut ohne schöpferische Eigenleistung, sie hat keinen Werkcharakter. Ein Tagebucheintrag hingegen kann die vier Merkmale der Schöpfungshöhe erfüllen (persönlich, geistig, schöpferisch, wahrnehmbare Form) und ist damit urheberrechtlich geschützt, unabhängig davon, ob er veröffentlicht wurde. Veröffentlichung ist keine Voraussetzung für den Schutz nach § 2 UrhG.
+*****************************************************
 
 
 # Schutzfristen und Gemeinfreiheit
@@ -609,6 +622,16 @@ Ein Archiv erstellt einen Scan eines Gemäldes aus dem 18. Jahrhundert, das bere
 ************************************************
 Richtig! Seit der Reform 2021 (Umsetzung der EU-Richtlinie) erhalten Reproduktionen von gemeinfreien, zweidimensionalen Werken keinen neuen Leistungsschutz mehr. Die bloße technische Vervielfältigung (Scan/Reprofotografie) löst also keine neuen Rechte aus, was die Nutzung für Archive erheblich erleichtert.
 ************************************************
+
+Eine Archivarin fotografiert eine mittelalterliche Urkunde für den Bestand: technisch korrekt, gut ausgeleuchtet aber ohne künstlerische Gestaltungsabsicht. Welchem Schutztyp entspricht diese Aufnahme?
+
+[( )] Lichtbildwerk nach § 2 Abs. A Nr. 5 UrhG, geschützt 70 Jahre p.m.a.
+[(x)] Lichtbild nach § 72 UrhG, geschützt 50 Jahre nach Erscheinen.
+[( )] Keinem Schutztyp, da die Urkunde selbst gemeinfrei ist.
+[( )] Keinem Schutztyp, da rein technische Aufnahmen nicht schutzfähig sind.
+**************************************************
+Richtig! Eine rein technische Reproduktionsaufnahme ohne künstlerische Eigenleistung erreicht nicht die Schöpfungshöhe eines Lichtbildwerks. Sie genießt aber als einfaches Lichtbild nach § 72 UrhG Leistungsschutz für 50 Jahre. Ob die Urkunde selbst gemeinfrei ist, ändert daran nichts. Der Schutz betrifft die Aufnahme, nicht das Objekt. Ob die Urkunde gemeinfrei ist, spielt daher keine Rolle: auch die Fotografie eines gemeinfreien Werkes kann urheberrechtlich geschützt sein, wenn die Schutzfrist des Lichtbilds noch nicht abgelaufen ist.
+**************************************************
 
 
 # Digitalisierung 
