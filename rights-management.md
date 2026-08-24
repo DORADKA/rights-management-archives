@@ -1,12 +1,12 @@
 # Rechtemanagement im Archiv - Ein interaktiver Kurs
 ![DORA-Logo](/dora_empty_blue_text_klein.png)
 <div style="font-size: 19px">
-Der vorliegende Kurs vermittelt grundlegende Kenntnisse über die für Archive relevanten Rechtsgebiete. Darauf aufbauend wird erklärt, welche Rechte bei der Veröffentlichung und insbesondere bei der Onlinestellung von Archivgut greifen. <br>
+Der vorliegende Kurs vermittelt grundlegende Kenntnisse über die besonders für Kunst- und Kulturarchive relevanten Rechtsgebiete. Darauf aufbauend wird erklärt, welche Rechte bei der Veröffentlichung und insbesondere bei der Onlinestellung von Archivgut greifen. <br>
 Der Kurs wurde im Rahmen des Projekts [„Digitales Ontologie-gestütztes Rechtemanagement im Archiv" (DORA)](https://dora.gnm.de/) von Mitarbeiterinnen des [Deutschen Kunstarchivs (DKA)](https://www.gnm.de/museum/abteilungen-anlaufstellen/deutsches-kunstarchiv) erstellt. <br> </div>
 
 ---
 **Lizenz:** CC BY 4.0 <br>
-**Schlagworte:** Archiv, Urheberrecht, Rechtemanagement, Digitalisierung <br>
+**Schlagworte:** Archiv, Urheberrecht, Rechtemanagement, Digitalisierung, Nicht verfügbare Werke <br>
 **Sprache:** Deutsch <br>
 **Kompetenzstufe:** Bachelor, Master, Fortbildung <br>
 **Veröffentlichungsdatum:** tba <br>
@@ -15,18 +15,26 @@ Der Kurs wurde im Rahmen des Projekts [„Digitales Ontologie-gestütztes Rechte
 
 ![DORA-Logo](/dora_empty_blue_text_klein.png)
 
-> __Wichtig:__ Die Inhalte des vorliegenden Kurses wurden im __Juni 2026__ fertig gestellt. Alle im Text referenzierten Paragraphen, Gesetzestexte und rechtlichen Einschätzungen entsprechen dem Rechtsstand zu diesem Zeitpunkt. Da sich die Gesetzgebung und die Rechtsprechung (insbesondere im Bereich Urheberrecht und Datenschutz) ständig weiterentwickeln, sind die Nutzerinnen und Nutzer ausdrücklich dazu verpflichtet, sich anhand aktuell geltender, öffentlich zugänglicher Quellen zu versichern, dass die hier aufgeführten Regelungen weiterhin in ihrer vorliegenden Form gültig sind. Dieser Kurs dient ausschließlich als rechtliche Referenz für die Entwicklung eigener Konzepte und Ansätze im Archivwesen. Er stellt in keinem Fall eine Rechtsberatung dar und kann eine solche auch nicht ersetzen. Für verbindliche rechtliche Auskünfte im Einzelfall sollte stets eine qualifizierte Rechtsberatung hinzugezogen werden.
+>> __Wichtig:__ Die Inhalte des vorliegenden Kurses wurden im __Juni 2026__ fertig gestellt und im August 2026 inhaltlich überarbeitet. Alle im Text referenzierten Paragraphen, Gesetzestexte und rechtlichen Einschätzungen entsprechen dem Rechtsstand zu diesem Zeitpunkt. Da sich die Gesetzgebung und die Rechtsprechung (insbesondere im Bereich Urheberrecht und Datenschutz) ständig weiterentwickeln, sind die Nutzerinnen und Nutzer ausdrücklich dazu verpflichtet, sich anhand aktuell geltender, öffentlich zugänglicher Quellen zu versichern, dass die hier aufgeführten Regelungen weiterhin in ihrer vorliegenden Form gültig sind. Dieser Kurs dient ausschließlich als rechtliche Referenz für die Entwicklung eigener Konzepte und Ansätze im Archivwesen. Er stellt in keinem Fall eine Rechtsberatung dar und kann eine solche auch nicht ersetzen. Für verbindliche rechtliche Auskünfte im Einzelfall sollte stets eine qualifizierte Rechtsberatung hinzugezogen werden.
+
+# Zum Aufbau dieses Kurses
+
+Dieser Kurs erhebt keinen Anspruch auf eine vollständige Darstellung aller archivrelevanten Rechtsgebiete. Die Auswahl und Gewichtung der Inhalte orientiert sich stattdessen am praktischen Bedarf des Deutschen Kunstarchivs: Behandelt werden die Rechtsfragen, die bei der Digitalisierung und Onlinestellung von Archivgut in unseren Projekten tatsächlich auftreten. Wo ein Rechtsgebiet für diesen praktischen Anwendungsfall nicht oder nur am Rande relevant ist, wird es entsprechend knapp oder gar nicht behandelt.
 
 # Ziele des Kurses
 
 Nach diesem Kurs können Sie:
 
+* die für die Onlinestellung von Archivgut praxisrelevanten Rechtsgebiete benennen
 * die Grundsätze und Schutzfristen des Urheberrechts benennen
 * den Unterschied zwischen Lichtbildwerk und Lichtbild benennen
-* die relevanten Rechtsgebiete bei der Onlinestellung von Archivgut benennen
+* die Merkmale der Schöpfungshöhe benennen
+* die Voraussetzungen der Archivschränke benennen
+* den Unterschied zwischen verwaisten Werken und nicht verfügbaren Werken benennen
+* die Schutzfristen des Persönlichkeitsrechts und des Datenschutzes benennen
+* die für die Onlinestellung von Archivgut praxisrelevanten Rechtsgebiete erklären
+* die Archivschranke auf Beispiele anwenden
 * die Berechnung von Schutzfristen der relevanten Rechtsgebiete beispielhaft auf Archivgut anwenden
-* die Voraussetzungen der Archivschranke benennen
-* die Archivschranke auf konkrete Fälle der Onlinestellung anwenden
 
 
 # Rechtsrahmen
@@ -42,11 +50,11 @@ Stellen Sie sich vor, Sie wollen einen **handgeschriebenen Brief einer Künstler
 
 Welche Rechtsfragen kommen dabei auf Sie zu? Man bewegt sich hier nicht in einem isolierten Raum, sondern auf einem Spielfeld mit fünf zentralen Gebieten:
 
-* **Urheberrecht:** Ist die Verfasserin des Briefes noch keine 70 Jahre tot? Dann ist das Werk noch geschützt.
+* **Urheberrecht (UrhG):** Liegt der Tod der Verfasserin noch keine 70 Jahre zurück? Dann ist das Werk noch geschützt.
 * **Datenschutzrecht (DSGVO):** Enthält der Brief Informationen über lebende Personen (Namen, Adressen, private Details)?
-* **Persönlichkeitsrecht:** Relevant vor allem bei Fotografien erkennbarer Personen (Recht am eigenen Bild).
-* **Archivrecht:** Setzt den institutionellen Rahmen. Was darf ein Archiv, welche Pflichten hat es gegenüber dem Staat?
-* **Vertragsrecht:** Was wurde bei der Schenkung oder dem Erwerb des Nachlasses vereinbart? Welche Nutzungsrechte wurden uns übertragen?
+* **Persönlichkeitsrecht (u.a. KUG, BGB):** Relevant vor allem bei Fotografien erkennbarer Personen (Recht am eigenen Bild).
+* **Archivrecht (Bundes-/Landesarchivgesetz):** Setzt den institutionellen Rahmen. Was darf ein Archiv, welche Pflichten hat es gegenüber dem Staat?
+* **Vertragsrecht (BGB):** Was wurde bei der Schenkung oder dem Erwerb des Nachlasses vereinbart? Welche Nutzungsrechte wurden Ihnen übertragen?
 
 >> **Wichtig:** Diese Gebiete überschneiden sich oft. Die Prüfung erfolgt meist kumulativ – das heißt, ein „Go“ im Urheberrecht bedeutet noch kein „Go“ im Datenschutz.
 
@@ -57,9 +65,10 @@ Welche Rechtsfragen kommen dabei auf Sie zu? Man bewegt sich hier nicht in einem
 __Rechtsrahmen im Überblick__ <br> </div>
 Wenn man ein Digitalisat prüft, muss man diese Ebenen im Kopf behalten:
 
-* **Ebene 1 – Immer zu prüfen (kumulativ):** Urheberrecht, Datenschutzrecht/Persönlichkeitsrecht (DSGVO, KUG)
+* **Ebene 1 – Immer kumulativ zu prüfen:** Urheberrecht (UrhG), Datenschutzrecht (DSGVO),Persönlichkeitsrecht (KUG, BGB)
 * **Ebene 2 – Institutioneller Rahmen:** Archivrecht (regelt Zugang und Nutzungsbedingungen, ersetzt aber nicht die urheberrechtliche Prüfung)
-* **Ebene 3 – Situativ/objektbezogen:** Kulturgutschutzrecht (nur relevant bei grenzüberschreitender Nutzung oder Ausleihe zwischen Deutschland und einem anderen Land)
+* **Ebene 3 – Situativ/objektbezogen:** Kulturgutschutzrecht (KGSG) – nur relevant bei grenzüberschreitender Nutzung oder Ausleihe zwischen Deutschland und einem anderen Land
+* **Ebene 4** – Vertragliche Grundlage, immer separat zu prüfen: Vertragsrecht (BGB) – regelt unabhängig von den Ebenen 1-3, ob und in welchem Umfang Ihrer Einrichtung überhaupt Nutzungsrechte eingeräumt wurden. Selbst wenn Urheber-, Datenschutz- und Persönlichkeitsrecht eine Veröffentlichung erlauben würden, kann ein zu enger Vertrag (z. B. eine Schenkung „zur Einsichtnahme nur für den Lesesaal") die Onlinestellung ausschließen.
 <br>
 
 
@@ -80,7 +89,7 @@ Ein Archiv möchte einen handgeschriebenen Brief einer 1952 verstorbenen Künstl
 
 [( )] Urheberrecht
 [( )] Datenschutzrecht (DSGVO)
-[(x)] Kulturgutschutzrecht (KGSG)
+[(x)] Kulturgutschutzrecht (KGSG) – da keine grenzüberschreitende Nutzung oder Ausleihe vorliegt
 [( )] Persönlichkeitsrecht
 ********************************************************************************
 Richtig! Das KGSG ist nur relevant, wenn Kulturgüter grenzüberschreitend bewegt oder gehandelt werden. Bei einer rein digitalen Onlinestellung im Inland greift es nicht. Urheberrecht (Schutzfrist lief bis Ende 2022, ist also bereits abgelaufen; aber das muss geprüft werden!), DSGVO (falls der Brief personenbezogene Daten Dritter enthält) und Persönlichkeitsrecht (bei erkennbaren Personen) sind hingegen immer zu prüfen.
@@ -105,7 +114,7 @@ Das Urheberrecht ist in Deutschland ein **Grundrecht**. Es basiert auf zwei Säu
 
 | Säule | Artikel | Bedeutung für die Praxis |
 | :--- | :--- | :--- |
-| **Eigentumsschutz** | Art. 14 Abs. 1 GG | Schützt das geistige Eigentum der UrheberInnen als Vermögenswert. Wer ein Werk schafft (z.B. ein Buch, eine Fotografie, eine Komposition) hat einen verfassungsrechtlich gesicherten Anspruch darauf, dass dieses Werk nicht ohne Zustimmung genutzt wird. (Das Urheberrecht schützt dabei nicht nur wirtschaftliche, sondern auch ideelle Interessen wie etwa das Recht auf Nennung der UrheberInnen, § 11 UrhG.) |
+| **Eigentumsschutz** | Art. 14 Abs. 1 GG | Schützt das geistige Eigentum der UrheberInnen als Vermögenswert. Wer ein Werk schafft (z.B. ein Buch, eine Fotografie, eine Komposition) hat einen verfassungsrechtlich gesicherten Anspruch darauf, dass dieses Werk nicht ohne Zustimmung genutzt wird. Das Urheberrecht schützt dabei nicht nur wirtschaftliche, sondern auch ideelle Interessen wie etwa das Recht auf Nennung der UrheberInnen (§ 11 UrhG.) |
 | **Sozialbindung** | Art. 14 Abs. 2 GG | Eigentum ist kein schrankenloses Recht. Es soll dem Gemeinwohl dienen. Für das Urheberrecht bedeutet das: Gesellschaftliche Interessen, wie etwa Bildung, Wissenschaft oder kulturelles Erbe, können die Rechte der UrheberInnen in bestimmten Fällen einschränken. |
 
 <div style="font-size: 17px">
@@ -117,7 +126,7 @@ Dieses Spannungsfeld wird im **Urheberrechtsgesetz (UrhG)** konkretisiert. Auf d
 
 Für ein Archiv ist genau diese Abwägung entscheidend: Sie ermöglicht in bestimmten Fällen die Nutzung durch sogenannte **Schrankenregelungen**. 
 
->> **Geduld zahlt sich aus:** Später in diesem Kurs werden die konkreten Schranken (wie der wichtige §60f UrhG) im Detail behandelt. Zuerst muss man aber verstehen, warum es diese Ausnahmen überhaupt geben darf: laut Art. 14 Abs. 2 GG soll der Gebrauch von Eigentum zugleich dem Wohle der Allgemeinheit dienen. Genau das legitimiert die Schrankenregelung.
+>> **Geduld zahlt sich aus:** Später in diesem Kurs werden die konkreten Schranken (wie der wichtige §60f UrhG) im Detail behandelt. Zuerst muss man aber verstehen, warum es diese Ausnahmen überhaupt geben darf: Laut Art. 14 Abs. 2 GG soll der Gebrauch von Eigentum zugleich dem Wohle der Allgemeinheit dienen. Genau das legitimiert die Schrankenregelung.
 
 ---
 <div style="font-size: 19px">
@@ -134,12 +143,13 @@ __Europarechtliche Prägung__<br> </div>
 
 Das deutsche Urheberrecht setzt maßgeblich europäische Vorgaben um. Zwei Richtlinien bilden hierfür den zentralen Rahmen:
 
-| Richtlinie | Fokus & Kerninhalte |
-| :--- | :--- |
-| **[InfoSoc-Richtlinie](https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=celex%3A32001L0029)** (2001/29/EG) | Grundlegende Harmonisierung für das digitale Zeitalter. Regelt Vervielfältigung, öffentliche Zugänglichmachung und Schranken für Bildung/Forschung. |
-| **[DSM-Richtlinie](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=uriserv%3AOJ.L_.2019.130.01.0092.01.DEU&toc=OJ%3AL%3A2019%3A130%3ATOC)** (2019/790) | Enthält für Kulturerbeeinrichtungen besonders relevante Schrankenregelungen: Erlaubnis zu Text- und Data-Mining (Art. 3 DSM-RL) sowie erleichterte Nutzung nicht verfügbarer Werke (Art. 8-11 DSM-RL). |
+| Richtlinie | Fokus & Kerninhalte | Umsetzung ins deutsche Recht |
+| :--- | :--- | :--- |
+| **[InfoSoc-Richtlinie](https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=celex%3A32001L0029)** (2001/29/EG) | Grundlegende Harmonisierung für das digitale Zeitalter. Regelt Vervielfältigung, öffentliche Zugänglichmachung und Schranken für Bildung/Forschung. | „Gesetz zur Regelung des Urheberrechts in der Informationsgesellschaft" vom 10. September 2003 (sog. „Erster Korb", BGBl. I S. 1774) – u. a. Einführung von § 19a UrhG (öffentliche Zugänglichmachung) und Anpassung von § 16 UrhG. |
+| **[Orphan-Works-Richtlinie](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:299:0005:0012:DE:PDF) (2012/28/EU) | Schafft den unionsrechtlichen Rahmen für die Nutzung verwaister Werke durch Kulturerbe-Einrichtungen. | „Gesetz zur Nutzung verwaister und vergriffener Werke und einer weiteren Änderung des Urheberrechtsgesetzes" vom 1. Oktober 2013 (BGBl. I S. 3728) – Einführung von §§ 61–61c UrhG. |
+| **[DSM-Richtlinie](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=uriserv%3AOJ.L_.2019.130.01.0092.01.DEU&toc=OJ%3AL%3A2019%3A130%3ATOC)** (2019/790/EU) | Enthält für Kulturerbeeinrichtungen besonders relevante Schrankenregelungen: Text- und Data-Mining (Art. 3, 4 DSM-RL) sowie erleichterte Nutzung nicht verfügbarer Werke (Art. 8–11 DSM-RL). | „Gesetz zur Anpassung des Urheberrechts an die Erfordernisse des digitalen Binnenmarktes" vom 31. Mai 2021 (BGBl. I S. 1204) – u. a. Einführung/Änderung von § 44b UrhG (Text- und Data-Mining), §§ 60d–60g UrhG sowie §§ 61d–61f UrhG und §§ 52–52e VGG (nicht verfügbare Werke). Zusätzlich wurde am selben Tag das eigenständige Urheberrechts-Diensteanbieter-Gesetz (UrhDaG) erlassen, das Art. 17 DSM-RL (Haftung von Upload-Plattformen) umsetzt; dieses ist für die Archivpraxis in der Regel nicht einschlägig. |
 
-**Praktische Konsequenz:** Viele deutsche Schrankenregelungen basieren auf diesen europarechtlichen Grundentscheidungen.
+**Praktische Konsequenz:** Wenn Sie im Gesetzestext auf §§ 60a ff., 61 ff. UrhG oder §§ 52 ff. VGG stoßen, handelt es sich in aller Regel um deutsche Umsetzungsnormen der oben genannten Richtlinien. Die Richtlinien selbst sind für die tägliche Archivpraxis nicht unmittelbar anwendbar – maßgeblich ist stets die jeweilige Vorschrift im UrhG bzw. VGG.
 
 ---
 <div style="font-size: 19px">
@@ -156,13 +166,13 @@ Die DSVGO greift, sobald ein Digitalisat **personenbezogene Daten** lebender Per
 __2. Archiv- und Kulturgutschutzrecht__<br> </div>
 Diese Gebiete überlagern das Urheberrecht, ohne es zu ersetzen:<br>
 
-* **Archivrecht:** Fungiert sozusagen als „Betriebsordnung“: regelt Zugang zu Archivgut, Sperrfristen und Ablieferungspflichten. Ersetzt aber nicht die urheberrechtliche oder datenschutzrechtliche Prüfung.
+* **Archivrecht (Bundes-/Landesarchivgesetz):** Fungiert sozusagen als „Betriebsordnung" und setzt den institutionellen Rahmen. Das Archivrecht regelt den Zugang zu Archivgut, Sperrfristen und Ablieferungspflichten, ersetzt aber nicht die urheberrechtliche oder datenschutzrechtliche Prüfung. Landesarchivgesetze können darüber hinaus eigene Nutzungsbeschränkungen vorsehen: so erlaubt etwa Art. 10 Abs. 2 S. 3 Nr. 2 BayArchivG dem Archiv, die Nutzung einzuschränken, wenn schutzwürdige Belange betroffener Personen beeinträchtigt werden können.
 * **Kulturgutschutzrecht:** Regelt Sorgfaltspflichten beim Umgang mit sensiblem Material und beschränkt ggf. den Abzug von Kulturgut ins Ausland.
 
 ---
 <div style="font-size: 19px">
 __Fazit__ </div>
-Für die Archivpraxis gelten Urheberrecht, Datenschutz und Archivrecht stets kumulativ. Kulturgutschutzrecht kommt situativ hinzu; insbesondere bei grenzüberschreitender Nutzung oder Ausleihe zwischen Deutschland und einem anderen Land. <br>
+Für die Archivpraxis gelten Urheberrecht, Datenschutzrecht und Archivrecht stets kumulativ. Kulturgutschutzrecht kommt situativ hinzu; insbesondere bei grenzüberschreitender Nutzung oder Ausleihe zwischen Deutschland und einem anderen Land. <br>
 
 <div style="font-size: 17px">
 __Weitere Informationen__ </div>
@@ -194,6 +204,30 @@ durch die Gesetze bestimmt. <br>
 oder auf Grund eines Gesetzes erfolgen, das Art und Ausmaß der Entschädigung regelt. Die Entschädigung ist unter gerechter Abwägung der Interessen der Allgemeinheit und der Beteiligten zu bestimmen. Wegen der Höhe der Entschädigung steht im Streitfalle der Rechtsweg vor den ordentlichen Gerichten offen. 
 </div>
 > __[Hier](https://www.gesetze-im-internet.de/gg/art_14.html) aktuelle Version einsehen.__
+
+> __Art. 10 Benutzung staatlicher Archive__
+> <div style="margin-left: 20px; font-size: 12px">
+(1) Das in den staatlichen Archiven verwahrte Archivgut steht nach Maßgabe der folgenden Absätze Behörden, Gerichten und sonstigen öffentlichen Stellen, natürlichen und juristischen Personen auf Antrag für die Benutzung zur Verfügung, soweit sich aus Rechtsvorschriften nichts anderes ergibt. <br>
+(2) <sup>1</sup>Das in den staatlichen Archiven verwahrte Archivgut kann benutzt werden, soweit ein berechtigtes Interesse an der Benutzung glaubhaft gemacht wird und nicht Schutzfristen entgegenstehen. <sup>2</sup>Ein berechtigtes Interesse ist insbesondere gegeben, wenn die Benutzung zu amtlichen, wissenschaftlichen, heimatkundlichen, familiengeschichtlichen, rechtlichen, unterrichtlichen oder publizistischen Zwecken oder zur Wahrnehmung von berechtigten persönlichen Belangen erfolgt. <sup>3</sup>Die Benutzung ist einzuschränken oder zu versagen, wenn </div> <br>
+> <div style="margin-left: 25px; font-size: 11px">
+1. Grund zu der Annahme besteht, dass die Interessen der Bundesrepublik Deutschland oder eines ihrer Länder gefährdet würden, <br>
+2. Grund zu der Annahme besteht, dass schutzwürdige Interessen Betroffener oder Dritter entgegenstehen, <br>
+3. Gründe des Geheimnisschutzes es erfordern, <br>
+4. der Erhaltungszustand des Archivguts gefährdet würde oder <br>
+5. ein unverhältnismäßiger Verwaltungsaufwand entstünde. </div><br>
+> <div style="margin-left: 20px; font-size: 12px">
+4Archivgut, das vom Landesamt abgegeben wurde, kann nur im Einvernehmen mit der abgebenden Stelle benutzt werden. <br>
+(3) <sup>1</sup>Soweit durch Rechtsvorschriften oder nach Maßgabe des Abs. 4 nichts anderes bestimmt ist, bleibt Archivgut für die Dauer von 30 Jahren seit seiner Entstehung von der Benutzung ausgeschlossen. <sup>2</sup>Archivgut, das sich auf natürliche Personen bezieht (personenbezogenes Archivgut), darf erst 10 Jahre nach dem Tod des Betroffenen benutzt werden. <sup>3</sup>Ist der Todestag nicht oder nur mit unvertretbarem Aufwand festzustellen, endet die Schutzfrist 100 Jahre nach der Geburt des Betroffenen. <sup>4</sup>Ist auch der Geburtstag nicht oder nur mit unvertretbarem Aufwand festzustellen, so endet die Schutzfrist 60 Jahre nach Entstehung der Unterlagen. <sup>5</sup>Archivgut, das besonderen Geheimhaltungsvorschriften unterliegt, darf frühestens 60 Jahre nach seiner Entstehung benutzt werden. <sup>6</sup>Die Schutzfristen sind nicht auf Unterlagen anzuwenden, die bereits bei ihrer Entstehung zur Veröffentlichung bestimmt waren. <sup>7</sup>Die Schutzfristen gelten nicht für Maßnahmen nach Art. 9 Abs. 1 Satz 2 und 3. <br>
+(4) <sup>1</sup>Die Schutzfristen können im einzelnen Benutzungsfall oder für bestimmte Archivgutgruppen auf Antrag durch die Generaldirektion der Staatlichen Archive Bayerns verkürzt werden, wenn durch Rechtsvorschriften nichts anderes bestimmt ist und keine Einschränkungs- oder Versagungsgründe gemäß Abs. 2 Satz 3 entgegenstehen. <sup>2</sup>Bei personenbezogenem Archivgut ist eine Verkürzung nur zulässig, wenn darüber hinaus </div> <br>
+> <div style="margin-left: 25px; font-size: 11px">
+1. die Betroffenen zugestimmt haben und sichergestellt ist, dass schutzwürdige Interessen Dritter nicht beeinträchtigt werden, oder <br>
+2. die Benutzung zur Erreichung des beabsichtigten Forschungs- oder Dokumentationszwecks, zur Schaffung wissenschaftlicher Infrastrukturen oder zur Wahrnehmung berechtigter Belange, die im überwiegenden Interesse einer anderen Stelle oder Person liegen, unerlässlich ist und sichergestellt ist, dass schutzwürdige Interessen der Betroffenen oder Dritter nicht beeinträchtigt werden. </div> <br>
+> <div style="margin-left: 20px; font-size: 12px">
+<sup>3</sup>Die Schutzfristen können um höchstens 30 Jahre verlängert werden, wenn dies im öffentlichen Interesse liegt oder schutzwürdige Interessen Betroffener oder Dritter dies erfordern. <sup>4</sup>Ist das Archivgut bei Behörden, Gerichten oder sonstigen öffentlichen Stellen des Freistaates Bayern entstanden, bedarf die Verkürzung oder Verlängerung der Schutzfristen der Zustimmung der abgebenden Stelle. <sup>5</sup>Die Zustimmung ist entbehrlich, soweit dies durch Vereinbarung mit der abgebenden Stelle festgelegt worden ist. <br>
+(5) <sup>1</sup>Die Benutzung von Archivgut, das von Stellen des Bundes übernommen wurde, richtet sich nach den jeweiligen Vorschriften des Bundesarchivgesetzes. <sup>2</sup>Gleiches gilt für Unterlagen, die dem Steuergeheimnis nach § 30 der Abgabenordnung (AO) oder anderen Geheimhaltungsvorschriften des Bundes unterliegen. <br>
+(6) Die Benutzung von Archivgut durch Stellen, bei denen es erwachsen ist oder die es abgegeben haben, ist auch innerhalb der Schutzfristen zulässig. <br>
+(7) Näheres regelt die Benutzungsordnung. </div>
+> __[Hier](https://www.gesetze-bayern.de/Content/Document/BayArchivG-10) aktuelle Version einsehen.__
 
 # Quiz
 
@@ -255,23 +289,22 @@ __Werkcharakter:__
 - Schöpferische Fotografien (z.B. durch Bildausschnitt, Licht, Perspektive); bloße Reproduktionsfotografien gemeinfreier Werke hingegen nicht  <br>
 - Tagebücher <br>
 - Reden <br>
+- Sammelwerke mit eigenständigem Auswahl- oder Anordnungskonzept, z. B. ein kuratierter Ausstellungskatalog oder eine redaktionell zusammengestellte Anthologie (§ 4 UrhG) <br>
 
 <br>
 __Kein Werkcharakter:__
 - Amtliche Dokumente <br> 
 - Verwaltungsschriftgut <br>
 - Technische Daten <br>
-- Sammelwerke ohne redaktionelle oder strukturelle Eigenleistung vgl. § 4 UrhG <br>
+- Sammlungen ohne redaktionelle oder strukturelle Eigenleistung, z. B. eine rein alphabetisch oder chronologisch sortierte Aktenliste ohne eigenes Auswahlkonzept, oder ein unstrukturiertes Fotokonvolut ohne erkennbare Anordnungsidee (vgl. § 4 UrhG) <br>
 - Sachliche Kurznachrichten <br>
 
 
 <br>
-> <div style="font-size: 15px">
-__§ 2 UrhG – Geschützte Werke__
-</div>
-> <div style="font-size: 14px">
-(1) Zu den geschützten Werken der Literatur, Wissenschaft und Kunst gehören insbesondere: </div>
+> __§ 2 UrhG – Geschützte Werke__
 > <div style="margin-left: 20px; font-size: 12px">
+(1) Zu den geschützten Werken der Literatur, Wissenschaft und Kunst gehören insbesondere: </div>
+> <div style="margin-left: 25px; font-size: 11px">
 
 1. Sprachwerke, wie Schriftwerke, Reden und Computerprogramme;<br>
 2. Werke der Musik;<br>
@@ -279,16 +312,13 @@ __§ 2 UrhG – Geschützte Werke__
 4. Werke der bildenden Künste. <br>
 5. Lichtbildwerke einschließlich der Werke, die ähnlich wie Lichtbildwerke geschaffen werden; <br>
 6. Filmwerke einschließlich der Werke, die ähnlich wie Filmwerke geschaffen werden; <br>
-7. Darstellungen wissenschaftlicher oder technischer Art, wie Zeichnungen, Pläne, Karten, Skizzen, Tabellen und plastische Darstellungen. <br>
-</div>
-> <div style="font-size: 14px">
+7. Darstellungen wissenschaftlicher oder technischer Art, wie Zeichnungen, Pläne, Karten, Skizzen, Tabellen und plastische Darstellungen. <br></div>
+> <div style="margin-left: 20px; font-size: 12px">
 (2) Werke im Sinne dieses Gesetzes sind nur persönliche geistige Schöpfungen.</div> <br>
 > __[Hier](https://www.gesetze-im-internet.de/urhg/__2.html) aktuelle Version einsehen.__
 
-> <div style="font-size: 15px">
-__§ 4 UrhG – Sammelwerke und Datenbankwerke__
-</div>
-> <div style="font-size: 12px">
+>__§ 4 UrhG – Sammelwerke und Datenbankwerke__
+> <div style="margin-left: 20px; font-size: 12px">
 (1) Sammlungen von Werken, Daten oder anderen unabhängigen Elementen, die aufgrund der Auswahl oder Anordnung der Elemente eine persönliche geistige Schöpfung sind (Sammelwerke), werden, unbeschadet eines an den einzelnen Elementen gegebenenfalls bestehenden Urheberrechts oder verwandten Schutzrechts, wie selbständige Werke geschützt. <br>
 (2) Datenbankwerk im Sinne dieses Gesetzes ist ein Sammelwerk, dessen Elemente systematisch oder methodisch angeordnet und einzeln mit Hilfe elektronischer Mittel oder auf andere Weise zugänglich sind. Ein zur Schaffung des Datenbankwerkes oder zur Ermöglichung des Zugangs zu dessen Elementen verwendetes Computerprogramm (§ 69a) ist nicht Bestandteil des Datenbankwerkes. </div> <br>
 > __[Hier](https://www.gesetze-im-internet.de/urhg/__4.html) aktuelle Version einsehen.__
@@ -346,26 +376,26 @@ Die Frist wird nach vollen Kalenderjahren berechnet. Sie beginnt mit dem Ablauf 
 | **Ende der Schutzfrist** | 31. Dezember 2020 |
 | **Eintritt der Gemeinfreiheit** | **01. Januar 2021** |
 
-Bei anonymen oder pseudonymen Werken beginnt die 70-Jahres-Frist nicht ab Tod der UrheberInnen, sondern ab Veröffentlichung, sofern die UrheberInnen nicht bekannt werden (§ 66 Abs. 1 UrhG).
+Bei anonymen oder pseudonymen Werken beginnt die 70-Jahres-Frist nicht ab dem Tod der UrheberInnen, sondern ab Veröffentlichung, sofern die UrheberInnen nicht bekannt werden (§ 66 Abs. 1 UrhG).
 
 ---
 <div style="font-size: 19px">
 __Archivpraxis bei fehlenden Lebensdaten__
 </div>
 
-Archive stehen oft vor dem Problem, dass das Todesjahr einer Person nicht im Bestand verzeichnet oder ermittelbar ist. Hier greifen **pragmatische Schätzwerte**, die auf statistischen Lebenserwartungen basieren.
+Archive stehen oft vor dem Problem, dass das Todesjahr einer Person nicht aus dem Kontext des Bestands ermittelt werden kann. Hier greifen **pragmatische Schätzwerte**, die auf statistischen Lebenserwartungen basieren.
 
->> **Wichtig:** Diese Werte sind **keine gesetzlichen Normen**, sondern anerkannte Leitfäden der Archivpraxis (z. B. durch die Archivreferentenkonferenz).
+>> **Wichtig:** Diese Werte sind **keine gesetzlichen Normen**, sondern anerkannte Leitfäden der Archivpraxis (z. B. durch die Archivreferentenkonferenz). Sie dienen der Risikoeinschätzung, ersetzen aber keine Einzelfallprüfung und keine Rechtsberatung.
 
 <div style="font-size: 17px">
-__Faustformeln Risikominimierung__
+__Faustformeln zur Risikominimierung__
 </div>
 
 Wenn nur das Geburts- oder Wirkungsjahr bekannt ist, gelten folgende Orientierungswerte für die Annahme der Gemeinfreiheit:
 
-* **141 Jahre ab Wirkungsjahr:** Orientierungswert, wenn weder Geburtsjahr noch Sterbejahr bekannt sind; berechnet ab dem frühesten bekannten Tätigkeitsjahr des Urhebers. Annahme: Werk entstand am Ende der aktiven Schaffensphase, daher kürzere Restlebenserwartung ab diesem Punkt + 71 Jahre Schutzfrist.
-* **161 Jahre nach Geburt:** Orientierungswert, wenn das Geburtsjahr bekannt, aber das Sterbejahr unbekannt ist
-Annahme: volle statistische Lebenserwartung von ≈ 90 Jahren ab Geburt + 71 Jahre Schutzfrist ≈ 161 Jahre
+* **161 Jahre nach Geburt:** Orientierungswert, wenn das Geburtsjahr bekannt, das Sterbejahr aber unbekannt ist. Grundlage ist die Annahme einer statistischen Lebenserwartung von rund 90 Jahren ab Geburt, zuzüglich der 70-jährigen Schutzfrist (rechnerisch auf 71 volle Kalenderjahre aufgerundet): 90 + 71 ≈ 161 Jahre.
+* **141 Jahre ab Wirkungsjahr:** Orientierungswert, wenn weder Geburts- noch Sterbejahr bekannt sind, berechnet ab dem frühesten bekannten Tätigkeits- bzw. Wirkungsjahr der Urheberin oder des Urhebers. Die Faustformel unterstellt, dass die Person zum Zeitpunkt dieses frühesten bekannten Wirkens ein junger Erwachsener (genauer: 20 Jahre alt) war und deshalb – anders als bei der reinen Geburtsjahr-Formel – nur noch mit einer entsprechend kürzeren statistischen Restlebenserwartung von weiteren 70 Jahren zu rechnen ist. Auf diesen angenommenen Todeszeitpunkt werden wiederum 71 Jahre Schutzfrist aufgeschlagen, was in der Summe rund 141 Jahre ab dem Wirkungsjahr ergibt. Wie bei der 161-Jahres-Formel handelt es sich um eine bewusst konservative Sicherheitsmarge, keine exakte Berechnung.
+
 <br>
 
 ---
@@ -378,52 +408,75 @@ Nur weil das Urheberrecht abgelaufen ist, dürfen Archivalien nicht blind veröf
 
 | Rechtsgebiet | Erklärung | Frage zur Orientierung |
 | :--- | :--- | :--- |
-| **Persönlichkeitsrecht** | Schutz der abgebildeten Personen (postmortales Persönlichkeitsrecht nach § 22 KUG: 10 Jahre nach dem Tod; allgemeines Persönlichkeitsrecht nach BGB: zeitlich unbestimmt, je nach Schwere des Eingriffs) | Sind auf den Bildern noch lebende Personen zu sehen? |
-| **Datenschutz** | Die Archivgesetze von Bund und Ländern sehen eigene Sperrfristen für personenbezogene Unterlagen vor, unabhängig davon, ob urheberrechtlicher Schutz noch besteht oder nicht.  | Sind in den Archivalien noch sensible Daten enthalten? |
+| **Persönlichkeitsrecht** | Schutz der abgebildeten Personen (postmortales Persönlichkeitsrecht nach § 22 KUG: 10 Jahre nach dem Tod; allgemeines Persönlichkeitsrecht nach BGB: zeitlich unbestimmt, je nach Schwere des Eingriffs) | Sind auf den Bildern noch lebende Personen zu sehen, oder werden in Texten noch lebende bzw. erst kürzlich verstorbene Personen erkennbar mit privaten Details erwähnt? |
+| **Datenschutzrecht** | Die Archivgesetze von Bund und Ländern sehen eigene Sperrfristen für personenbezogene Unterlagen vor, unabhängig davon, ob urheberrechtlicher Schutz noch besteht oder nicht. Für nicht personenbezogene Unterlagen (z. B. reine Geschäfts- oder Verwaltungsvorgänge) können eigenständige, meist kürzere Sperr- oder Geheimhaltungsfristen der Archivgesetze gelten. | Sind in den Archivalien noch sensible personenbezogene Daten enthalten? Bestehen archivrechtliche Sperrfristen, auch für nicht personenbezogene Geschäftsunterlagen? |
 | **Vertragsrecht** | Schenkungsverträge oder Leihverträge können Nutzungen untersagen, selbst wenn das Werk gemeinfrei ist. | Gibt es Leihverträge oder Schenkungsvereinbarungen, die Nutzungen einschränken? |
-| **Hausrecht** | Das Hausrecht der besitzenden Institution kann die Nutzung nach eigenem Ermessen möglicherweise einschränken, auch wenn das abgebildete Werk gemeinfrei ist.  | Unterliegen die Aufnahmen hausrechtlichen Einschränkungen der Institution, z.B. aufgrund von Fotografierverboten oder besonderen Zugangsbedingungen? |
+| **Hausrecht** | Das Hausrecht der besitzenden Institution kann die Nutzung nach eigenem Ermessen einschränken, auch wenn das abgebildete Werk gemeinfrei ist.  | Unterliegen die Aufnahmen hausrechtlichen Einschränkungen der Institution, z.B. aufgrund von Fotografierverboten oder besonderen Zugangsbedingungen? |
 | **Eigentums- & Kulturgutschutz** | Das Eigentum am physischen Objekt begründet kein Urheberrecht, kann aber die Nutzung faktisch einschränken. Bei Kulturgut gelten ggf. zusätzliche Schutzvorschriften nach dem KGSK (Kulturgutschutzgesetz) | Besteht ein besonderer Schutzstatus für das physische Objekt? |
 
 
 
 > __§ 64 UrhG – Allgemeines__ <br>
-> <div style="font-size: 12px">
+> <div style="margin-left: 20px; font-size: 12px">
 Das Urheberrecht erlischt siebzig Jahre nach dem Tode des Urhebers. 
 </div><br>
 > __[Hier](https://www.gesetze-im-internet.de/urhg/__64.html) aktuelle Version einsehen.__
 
 > __§ 65 UrhG – Miturheber, Filmwerke, Musikkomposition mit Text__ <br>
-> <div style="font-size: 12px">
+> <div style="margin-left: 20px; font-size: 12px">
 (1) Steht das Urheberrecht mehreren Miturhebern (§ 8) zu, so erlischt es siebzig Jahre nach dem Tode des längstlebenden Miturhebers. <br>
 (2) Bei Filmwerken und Werken, die ähnlich wie Filmwerke hergestellt werden, erlischt das Urheberrecht siebzig Jahre nach dem Tod des Längstlebenden der folgenden Personen: Hauptregisseur, Urheber des Drehbuchs, Urheber der Dialoge, Komponist der für das betreffende Filmwerk komponierten Musik. <br>
 (3) Die Schutzdauer einer Musikkomposition mit Text erlischt 70 Jahre nach dem Tod des Längstlebenden der folgenden Personen: Verfasser des Textes, Komponist der Musikkomposition, sofern beide Beiträge eigens für die betreffende Musikkomposition mit Text geschaffen wurden. Dies gilt unabhängig davon, ob diese Personen als Miturheber ausgewiesen sind. </div> <br>
 > __[Hier](https://www.gesetze-im-internet.de/urhg/__65.html) aktuelle Version einsehen.__
 
 > __§ 66 Abs. 1 UrhG – Anonyme und pseudonyme Werke__<br>
-> <div style="font-size: 12px">
+> <div style="margin-left: 20px; font-size: 12px">
 Bei anonymen und pseudonymen Werken erlischt das Urheberrecht siebzig Jahre nach der Veröffentlichung. Es erlischt jedoch bereits siebzig Jahre nach der Schaffung des Werkes, wenn das Werk innerhalb dieser Frist nicht veröffentlicht worden ist. </div> <br>
 > __[Hier](https://www.gesetze-im-internet.de/urhg/__66.html) aktuelle Version einsehen.__
 
 > __§ 69 UrhG – Berechnung der Fristen__ <br>
-> <div style="font-size: 12px">
+> <div style="margin-left: 20px; font-size: 12px">
 Die Fristen dieses Abschnitts beginnen mit dem Ablauf des Kalenderjahres, in dem das für 
 den Beginn der Frist maßgebende Ereignis eingetreten ist.
 </div><br>
 > __[Hier](https://www.gesetze-im-internet.de/urhg/__69.html) aktuelle Version einsehen.__
 
 > __§ 22 KUG__ <br>
-> <div style="font-size: 12px">
+> <div style="margin-left: 20px; font-size: 12px">
 Bildnisse dürfen nur mit Einwilligung des Abgebildeten verbreitet oder öffentlich zur Schau gestellt werden. Die Einwilligung gilt im Zweifel als erteilt, wenn der Abgebildete dafür, daß er sich abbilden ließ, eine Entlohnung erhielt. Nach dem Tode des Abgebildeten bedarf es bis zum Ablaufe von 10 Jahren der Einwilligung der Angehörigen des Abgebildeten. Angehörige im Sinne dieses Gesetzes sind der überlebende Ehegatte oder Lebenspartner und die Kinder des Abgebildeten und, wenn weder ein Ehegatte oder Lebenspartner noch Kinder vorhanden sind, die Eltern des Abgebildeten. </div> <br>
 > __[Hier](https://www.gesetze-im-internet.de/kunsturhg/__22.html) aktuelle Version einsehen.__
 
+# Quiz
+
+Wie lange gilt die allgemeine Schutzfrist des Urheberrechts nach dem Tod des Urhebers?
+
+[( )] 10 Jahre 
+[( )] 50 Jahre
+[(X)] 70 Jahre
+[( )] 100 Jahre
+*******************************************************************************
+Richtig!
+*******************************************************************************
+
+Wann tritt bei einer Künstlerin mit Todestag am 15. März 1950 die Gemeinfreiheit ein?
+
+[( )] 15. März 2010
+[( )] 31. Dezember 2020
+[(X)] 1. Januar 2021
+[( )] 15. März 2021
+*******************************************************************************
+Richtig!
+*******************************************************************************
 
 # Verwaiste Werke
 <div style="font-size: 12px">
-§§ 61–61c UrhG
+§§ 61–61b UrhG
 </div> 
 
 Was tun, wenn man ein Werk nicht eindeutig zuordnen kann – wenn also die UrheberInnen oder RechteinhaberInnen unbekannt sind? Das Gesetz bezeichnet solche Fälle als **„verwaiste Werke“** (Orphan Works). In diesem Kapitel erlernen Sie den richtigen Umgang mit diesen.
 <br>
+
+>> **Praxishinweis:** Das Verfahren für verwaiste Werke setzt eine dokumentierte EUIPO-Registrierung des einzelnen Werks voraus und ist dadurch mit vergleichsweise hohem Aufwand verbunden. In der Archivpraxis ist seit der Einführung der Regelung zu nicht verfügbaren Werken (§§ 61d–61f UrhG, siehe folgendes Kapitel) für viele Bestände – insbesondere ganze Konvolute vergriffener, aber ihrer Herkunft nach bekannter Werke – der dortige Weg praktisch oft der einfachere und passendere. Das Verfahren für verwaiste Werke bleibt jedoch der richtige Weg, wenn die Urheberschaft trotz sorgfältiger Suche tatsächlich nicht ermittelbar ist.
 
 ---
 <div style="font-size: 19px"> 
@@ -444,9 +497,9 @@ __Voraussetzungen für die Nutzung__
 
 Damit eine öffentlich zugängliche Einrichtung ein verwaistes Werk nutzen darf, müssen folgende Schritte durchlaufen werden:
 
-1.  **Sorgfältige Suche:** Es muss eine nachweisbare und gründliche Recherche nach den RechteinhaberInnen durchgeführt werden.
+1.  **Sorgfältige Suche:** Es muss eine nachweisbare und gründliche Recherche nach den RechteinhaberInnen durchgeführt werden, unter Konsultation der in der Anlage zu § 61a UrhG genannten Mindestquellen (z. B. Kataloge der Deutschen Nationalbibliothek, Verzeichnis lieferbarer Bücher, Datenbanken der Verwertungsgesellschaften wie VG Wort).
 2.  **Dokumentation:** Diese Suche muss lückenlos dokumentiert sein.
-3.  **Registrierung:** Das Werk muss in der Datenbank des __[EUIPO](https://www.euipo.europa.eu/de)__ (Amt der Europäischen Union für geistiges Eigentum) registriert werden.
+3.  **Registrierung:** Das Werk muss in der  __[EUIPO-Datenbank für verwaiste Werke](https://www.euipo.europa.eu/de)__ (Amt der Europäischen Union für geistiges Eigentum) registriert werden.
 4.  **Privilegierte Nutzung:** Nur bestimmte Nutzungsarten (z. B. Digitalisierung zur Zugänglichmachung für die Öffentlichkeit) sind unter diesen Bedingungen erlaubt.
 
 ---
@@ -459,15 +512,17 @@ Für die tägliche Arbeit bedeutet das: Bei Materialien unbekannter Herkunft ist
 >> Dies ist zwar aufwendig, bildet aber die einzige rechtliche Absicherung für das Haus, um Haftungsrisiken zu minimieren.
 
 > __§ 61 UrhG – Verwaiste Werke__ 
-> <div style="font-size: 12px"> 
+> <div style="margin-left: 20px; font-size: 12px"> 
 (1) Zulässig sind die Vervielfältigung und die öffentliche Zugänglichmachung verwaister 
 Werke nach Maßgabe der Absätze 3 bis 5. <br>
-(2) Verwaiste Werke im Sinne dieses Gesetzes sind <br>
+(2) Verwaiste Werke im Sinne dieses Gesetzes sind </div><br>
+> <div style="margin-left: 25px; font-size: 11px">
 1. Werke und sonstige Schutzgegenstände in Büchern, Fachzeitschriften, Zeitungen, 
 Zeitschriften oder anderen Schriften, <br>
 2. Filmwerke sowie Bildträger und Bild- und Tonträger, auf denen Filmwerke aufgenommen 
 sind, und <br>
-3. Tonträger <br> 
+3. Tonträger <br> </div>
+> <div style="margin-left: 20px; font-size: 12px"> 
 aus Sammlungen (Bestandsinhalte) von öffentlich zugänglichen Bibliotheken, 
 Bildungseinrichtungen, Museen, Archiven sowie von Einrichtungen im Bereich des Film- 
 oder Tonerbes, wenn diese Bestandsinhalte bereits veröffentlicht worden sind, deren 
@@ -489,22 +544,24 @@ Gemeinwohl liegenden Aufgaben handeln, insbesondere wenn sie Bestandsinhalte bew
 > __[Hier](https://www.gesetze-im-internet.de/urhg/__61.html) aktuelle Version einsehen.__
 
 > __§ 61a UrhG – Sorgfältige Suche und Dokumentationspflichten__
-> <div style="font-size: 12px">
+> <div style="margin-left: 20px; font-size: 12px">
 (1) Die sorgfältige Suche nach dem Rechtsinhaber gemäß § 61 Absatz 2 ist für jeden Bestandsinhalt und für in diesem enthaltene sonstige Schutzgegenstände durchzuführen; dabei sind mindestens die in der Anlage bestimmten Quellen zu konsultieren. Die sorgfältige Suche ist in dem Mitgliedstaat der Europäischen Union durchzuführen, in dem das Werk zuerst veröffentlicht wurde. Wenn es Hinweise darauf gibt, dass relevante Informationen zu Rechtsinhabern in anderen Staaten gefunden werden können, sind auch verfügbare Informationsquellen in diesen anderen Staaten zu konsultieren. Die nutzende Institution darf mit der Durchführung der sorgfältigen Suche auch einen Dritten beauftragen. <br>
 (2) Bei Filmwerken sowie bei Bildträgern und Bild- und Tonträgern, auf denen Filmwerke aufgenommen sind, ist die sorgfältige Suche in dem Mitgliedstaat der Europäischen Union durchzuführen, in dem der Hersteller seine Hauptniederlassung oder seinen gewöhnlichen Aufenthalt hat. <br>
 (3) Für die in § 61 Absatz 4 genannten Bestandsinhalte ist eine sorgfältige Suche in dem Mitgliedstaat der Europäischen Union durchzuführen, in dem die Institution ihren Sitz hat, die den Bestandsinhalt mit Erlaubnis des Rechtsinhabers der Öffentlichkeit zugänglich gemacht hat. <br>
-(4) Die nutzende Institution dokumentiert ihre sorgfältige Suche und leitet die folgenden Informationen dem Deutschen Patent- und Markenamt zu: <br>
+(4) Die nutzende Institution dokumentiert ihre sorgfältige Suche und leitet die folgenden Informationen dem Deutschen Patent- und Markenamt zu: </div><br>
+> <div style="margin-left: 25px; font-size: 11px">
     1. die genaue Bezeichnung des Bestandsinhalts, der nach den Ergebnissen der sorgfältigen Suche verwaist ist, <br>
     2. die Art der Nutzung des verwaisten Werkes durch die Institution, <br>
     3. jede Änderung des Status eines genutzten verwaisten Werkes gemäß § 61b, <br>
-    4. die Kontaktdaten der Institution wie Name, Anschrift sowie gegebenenfalls Telefonnummer, Faxnummer und E-Mail-Adresse. <br>
+    4. die Kontaktdaten der Institution wie Name, Anschrift sowie gegebenenfalls Telefonnummer, Faxnummer und E-Mail-Adresse. </div><br>
+> <div style="margin-left: 20px; font-size: 12px">
 Diese Informationen werden von dem Deutschen Patent- und Markenamt unverzüglich an das Harmonisierungsamt für den Binnenmarkt (Marken, Muster, Modelle) weitergeleitet. <br>
 (5) Einer sorgfältigen Suche bedarf es nicht für Bestandsinhalte, die bereits in der Datenbank des Harmonisierungsamtes für den Binnenmarkt (Marken, Muster, Modelle) als verwaist erfasst sind.
 </div> <br>
 > __[Hier](https://www.gesetze-im-internet.de/urhg/__61a.html) aktuelle Version einsehen.__
 
 > __§ 61b UrhG – Beendigung der Nutzung und Vergütungspflicht der nutzenden Institution__ 
-> <div style="font-size: 12px">
+> <div style="margin-left: 20px; font-size: 12px">
 Wird ein Rechtsinhaber eines Bestandsinhalts nachträglich festgestellt oder ausfindig 
 gemacht, hat die nutzende Institution die Nutzungshandlungen unverzüglich zu unterlassen, 
 sobald sie hiervon Kenntnis erlangt. Der Rechtsinhaber hat gegen die nutzende Institution 
@@ -512,14 +569,6 @@ Anspruch auf Zahlung einer angemessenen Vergütung für die erfolgte Nutzung.
 </div> <br>
 > __[Hier](https://www.gesetze-im-internet.de/urhg/__61b.html) aktuelle Version einsehen.__
 
-> __§ 61c UrhG – Nutzung verwaister Werke durch öffentlich-rechtliche Rundfunkanstalten__ 
-> <div style="font-size: 12px">
-Zulässig sind die Vervielfältigung und die öffentliche Zugänglichmachung von <br>
-1. Filmwerken sowie Bildträgern und Bild- und Tonträgern, auf denen Filmwerke aufgenommen sind, und <br>
-2. Tonträgern, die vor dem 1. Januar 2003 von öffentlich-rechtlichen Rundfunkanstalten hergestellt wurden und sich in deren Sammlung befinden, unter den Voraussetzungen des § 61 Absatz 2 bis 5 auch durch öffentlich-rechtliche Rundfunkanstalten. Die §§ 61a und 61b gelten 
-entsprechend. 
-</div> <br>
-> __[Hier](https://www.gesetze-im-internet.de/urhg/__61c.html) aktuelle Version einsehen.__
 ---
 
 # Quiz
@@ -543,8 +592,194 @@ Ein Foto in Ihrem Bestand wurde 1910 aufgenommen. Der Fotograf ist unbekannt und
 Richtig! Wenn ein Werk nie veröffentlicht wurde und kein/e UrheberIn bekannt ist, läuft der Urheberrechtsschutz **70 Jahre nach der Entstehung** des Werks ab.
 ************************************************
 
+# Nicht verfügbare Werke
+<div style="font-size: 12px">
+§§  61d-61f UrhG; §§ 52-52e VGG; DSM-Richtlinie 2019/790/EU
+</div> 
 
- 
+Auch bei urheberrechtlich geschützten Werken aus dem Bestand, deren Herkunft bekannt ist, muss man auf spezielle Gegebenheiten achten. Häufig ist die Urheberin oder der Urheber bekannt, aber das Werk – etwa ein vergriffenes Buch oder ein nicht mehr vertriebener Film – ist schlicht nicht mehr im Handel erhältlich. Für genau diese Fälle hat der Gesetzgeber seit 2021 einen eigenen Weg geschaffen: die Regelung für nicht verfügbare Werke. In diesem Kapitel lernen Sie, wann diese Regelung greift und wie sie sich vom Verfahren für verwaiste Werke unterscheidet.
+
+---
+<div style="font-size: 19px">
+__Hintergrund und Einordnung__
+</div>
+Seit dem Inkrafttreten des Gesetzes zur Anpassung des Urheberrechts an die Erfordernisse des digitalen Binnenmarktes am 7. Juni 2021 (BGBl. I S. 1204) existiert neben dem klassischen Verfahren für verwaiste Werke ein zweiter Weg für Kulturerbe-Einrichtungen: die Regelung für nicht verfügbare Werke.
+Diese Regelung setzt Art. 8–11 der DSM-Richtlinie (2019/790/EU) in deutsches Recht um und ist in §§ 61d–61f UrhG sowie §§ 52–52e VGG geregelt.
+
+>> **Wichtig:** Auch bei nicht verfügbaren Werken gilt die kumulative Prüfung aller Rechtsgebiete. Das Urheberrecht ist nur eine Hürde – Datenschutz, Persönlichkeitsrecht und Vertragsrecht müssen unabhängig davon ebenfalls geprüft werden, bevor ein Werk online gestellt wird.
+
+---
+<div style="font-size: 19px">
+__Was ist ein nicht verfügbares Werk?__
+</div>
+
+Nach § 52b Abs. 1 VGG ist ein Werk nicht verfügbar, wenn es der Allgemeinheit auf keinem üblichen Vertriebsweg in einer vollständigen Fassung angeboten wird.
+Besonderheit bei verlegten Schriftwerken (§ 52b Abs. 3 VGG): Das Werk muss mindestens 30 Jahre vor der EUIPO-Bekanntgabe letztmalig veröffentlicht worden sein.
+Es wird unwiderleglich vermutet, dass ein Werk nicht verfügbar ist, wenn die Kulturerbe-Einrichtung mit vertretbarem Aufwand, aber ohne Erfolg versucht hat, Angebote auf üblichen Vertriebswegen zu ermitteln (§ 52b Abs. 2 VGG).
+
+>> **Ausschlussgrund:** Bestehen konkrete Anhaltspunkte dafür, dass die Veröffentlichung gegen den Willen der Urheberin oder des Urhebers erfolgen würde, darf das Werk nicht nach diesem Weg genutzt werden (§ 3 NvWV – Nicht-verfügbare-Werke-Verordnung vom 9. März 2023, BGBl. 2023 I Nr. 65).
+
+---
+<div style="font-size: 19px">
+__Zwei Nutzungswege im Überblick__
+</div>
+
+Bei der Nutzung von nicht verfügbaren Werken (§ 52b VGG), welche zum Bestand einer Kulturerbe-Einrichtung gehören (§ 60d UrhG) ergeben sich, je nachdem, ob eine repräsentative Verwertungsgesellschaft für den betreffenden Werktyp vorhanden ist, zwei unterschiedliche Wege.
+
+>> **Wichtig:** In beiden Fällen ist eine Nutzung nur zu nicht kommerziellen Zwecken und eine Veröffentlichung nur auf nicht kommerziellen Internetseiten erlaubt (§ 61d Abs. 1 UrhG).
+
+<div style="font-size: 17px">
+__Weg A: Mit repräsentativer Verwertungsgesellschaft (§ 52 VGG)__
+</div>
+
+Schließt eine repräsentative Verwertungsgesellschaft mit einer Kulturerbe-Einrichtung einen Vertrag über die Nutzung nicht verfügbarer Werke, kann sich diese kollektive Lizenz mit erweiterter Wirkung auch auf Werke von Rechteinhaberinnen erstrecken, die keinen Vertrag mit der Verwertungsgesellschaft geschlossen haben. Diese Außenstehenden haben jederzeitiges Widerspruchsrecht gegenüber dem EUIPO (§§ 52, 52a VGG). Dadurch wird die Nutzung umfangreicher historischer Bestände ermöglicht, ohne dass jeder einzelne Rechteinhaber vorher ermittelt und um Zustimmung gebeten werden muss.
+
+**Voraussetzungen:**
+* Die Verwertungsgesellschaft ist für diesen Werktyp repräsentativ (§ 51b VGG).
+* Die Einrichtung informiert das EUIPO-Portal über die Nutzung (§ 52a VGG) – dies übernimmt in der Regel die Verwertungsgesellschaft.
+
+>> **Widerspruchsrecht:** Jeder Rechteinhaber und jede Rechteinhaberin kann der Nutzung jederzeit beim EUIPO widersprechen. Bei berechtigtem Widerspruch erlischt die Lizenz innerhalb eines Monats (§ 52 Abs. 2 VGG).
+
+<div style="font-size: 17px">
+__Weg B: Ohne repräsentativer Verwertungsgesellschaft (§ 61d UrhG)__
+</div>
+
+Besteht keine repräsentative Verwertungsgesellschaft für den betreffenden Werktyp, greift die gesetzliche Erlaubnis nach § 61d UrhG direkt.
+
+**Voraussetzungen:**
+* Es ist keine repräsentative Verwertungsgesellschaft vorhanden.
+* Die Einrichtung informiert selbst das EUIPO-Online-Portal über die Nutzung und das Widerspruchsrecht (§ 61d Abs. 3 UrhG).
+
+---
+<div style="font-size: 19px">
+__Vergleich: Verwaiste Werke vs. Nicht verfügbare Werke__
+</div>
+
+| | **Verwaiste Werke (§§ 61-61c UrhG)** | **Nicht verfügbare Werke (§§ 61d-61f UrhG)** |
+| :--- | :--- | :--- |
+|Rechteinhaber bekannt?|Nein – trotz Suche nicht ermittelbar |Unerheblich – Werk nur nicht mehr erhältlich|
+|EUIPO-Meldung?|Ja – Registrierung des einzelnen Werks erforderlich|Ja – Informationspflicht (durch Verwertungsgesellschaft oder Einrichtung selbst)|
+|Verwertungsgesellschaft?|Nein|Ja, wenn repräsentative Verwertungsgesellschaft (VG) vorhanden; sonst § 61d direkt|
+|Bürokratischer Aufwand|Hoch (Einzelwerk-Suche und -Registrierung)|Geringer, insbesondere mit VG-Vertrag (bestandsbezogen möglich)|
+|Typischer Fall|Unbekannte Fotografin, anonymes Manuskript|Vergriffenes Buch, nicht mehr vertriebener Film|
+
+---
+<div style="font-size: 19px">
+__Praxis im Archiv und Museum__
+</div>
+
+Für die tägliche Arbeit bedeutet die Regelung für nicht verfügbare Werke vor allem eine Erleichterung bei der Digitalisierung und Onlinestellung von Bestandsmaterialien, die urheberrechtlich noch geschützt, aber kommerziell nicht mehr erhältlich sind.
+
+<div style="font-size: 17px">
+__Typische Anwendungsfälle__
+</div>
+* Vergriffene Monografien und Zeitschriften aus dem Bestand
+* Unveröffentlichte oder nicht mehr vertriebene Film aus dem Filmarchiv
+* Tonaufnahmen, die nicht mehr über übliche Vertriebswege erhältlich sind
+* Fotodokumentationen aus dem 20. Jahrhundert ohne aktiven Rechteinhaber
+
+<div style="font-size: 17px">
+__Handlungsempfehlungen für die Praxis__
+</div>
+
+* **Schritt 1:** Prüfen, ob das Werk urheberrechtlich noch geschützt ist.
+* **Schritt 2:** Prüfen, ob das Werk auf üblichen Vertriebswegen erhältlich ist und die Recherche dokumentieren.
+* **Schritt 3:** Prüfen, ob eine repräsentative Verwertungsgesellschaft vorhanden ist (z.B. VG Wort oder VG Bild-Kunst).
+* **Schritt 4:** Je nach Werktyp: Verwertungsgesellschaft kontaktieren und Lizenzvertrag abschließen (Weg A) oder EUIPO-Meldung selbst vornehmen (Weg B).
+* **Schritt 5:** Alle weiteren Rechtsgebiete kumulativ prüfen: DSGVO, Persönlichkeitsrecht, Vertragsrecht
+
+>> Dies ist zwar aufwendig, bildet aber die einzige rechtliche Absicherung für die Institution, um Haftungsrisiken zu minimieren. Eine lückenlose Dokumentation aller Schritte ist zwingend erforderlich.
+
+---
+
+>__§ 61d UrhG – Nicht verfügbare Werke__
+><div style="margin-left: 20px; font-size: 12px">
+(1) Kulturerbe-Einrichtungen (§ 60d) dürfen nicht verfügbare Werke (§ 52b des Verwertungsgesellschaftengesetzes) aus ihrem Bestand vervielfältigen oder vervielfältigen lassen sowie der Öffentlichkeit zugänglich machen. Dies gilt nur, wenn keine Verwertungsgesellschaft besteht, die diese Rechte für die jeweiligen Arten von Werken wahrnimmt und insoweit repräsentativ (§ 51b des Verwertungsgesellschaftengesetzes) ist. Nutzungen nach Satz 1 sind nur zu nicht kommerziellen Zwecken zulässig. Die öffentliche Zugänglichmachung ist nur auf nicht kommerziellen Internetseiten erlaubt. <br>
+(2) Der Rechtsinhaber kann der Nutzung nach Absatz 1 jederzeit gegenüber dem Amt der Europäischen Union für geistiges Eigentum widersprechen. <br>
+(3) Die Kulturerbe-Einrichtung informiert während der gesamten Nutzungsdauer im Online-Portal des Amtes der Europäischen Union für geistiges Eigentum über die betreffenden Werke, deren Nutzung und das Recht zum Widerspruch. Die öffentliche Zugänglichmachung darf erst erfolgen, wenn der Rechtsinhaber der Nutzung innerhalb von sechs Monaten seit Beginn der Bekanntgabe der Informationen nach Satz 1 nicht widersprochen hat. <br>
+(4) Die Nutzung nach Absatz 1 in Mitgliedstaaten der Europäischen Union und Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum gilt als nur in dem Mitgliedstaat oder Vertragsstaat erfolgt, in dem die Kulturerbe-Einrichtung ihren Sitz hat. Absatz 1 ist nicht auf Werkreihen anzuwenden, die überwiegend Werke aus Drittstaaten (§ 52c des Verwertungsgesellschaftengesetzes) enthalten. </div><br>
+> __[Hier](https://www.gesetze-im-internet.de/urhg/__61d.html) aktuelle Version einsehen.__
+
+>__§ 52 VGG – Kollektive Lizenzen mit erweiterter Wirkung für nicht verfügbare Werke__
+><div style="margin-left: 20px; font-size: 12px">
+(1) Schließt eine Verwertungsgesellschaft einen Vertrag über Nutzungen von Werken ihres Repertoires, die nicht verfügbar sind (§ 52b), mit einer inländischen Kulturerbe-Einrichtung (§ 60d des Urheberrechtsgesetzes), so hat sie entsprechende Nutzungsrechte nach Maßgabe der nachfolgenden Bestimmungen auch am Werk eines Außenstehenden (§ 7a) einzuräumen. <br>
+(2) Der Außenstehende kann der Rechtseinräumung jederzeit gegenüber dem Amt der Europäischen Union für geistiges Eigentum widersprechen. <br>
+(3) In Bezug auf die Rechtseinräumung hat der Außenstehende im Verhältnis zur Verwertungsgesellschaft die gleichen Rechte und Pflichten wie bei einer Wahrnehmung auf vertraglicher Grundlage. </div><br>
+> __[Hier](https://www.gesetze-im-internet.de/vgg/__52.html) aktuelle Version einsehen.__
+
+>__§ 52a VGG – Wirksamkeit der Rechtseinräumung und dauerhafte Information bei nicht verfügbaren Werken__
+><div style="margin-left: 20px; font-size: 12px">
+(1) Die Einräumung von Rechten am Werk eines Außenstehenden nach § 52 ist unter folgenden Voraussetzungen wirksam: </div><br>
+> <div style="margin-left: 25px; font-size: 11px">
+1. die Verwertungsgesellschaft ist repräsentativ (§ 51b), <br>
+2. die Rechtseinräumung beschränkt sich auf die Vervielfältigung, Verbreitung, öffentliche Zugänglichmachung und sonstige öffentliche Wiedergabe zu nicht kommerziellen Zwecken, <br>
+3. das betreffende Werk befindet sich im Bestand der Kulturerbe-Einrichtung, <br>
+4. die Verwertungsgesellschaft informiert sechs Monate vor Beginn der Rechtseinräumung im Online-Portal des Amtes der Europäischen Union für geistiges Eigentum über </div> <br>
+> <div style="margin-left: 30px; font-size: 11px">
+a) das betreffende Werk <br>
+b) die Vertragsparteien, die betroffenen Nutzungsrechte, deren Geltungsbereich, <br>
+c) das Recht des Außenstehenden zum Widerspruch. </div> <br>
+> <div style="margin-left: 25px; font-size: 11px">
+5. der Außenstehende hat innerhalb der in Nummer 4 bestimmten Frist der Rechtseinräumung nicht widersprochen. </div><br>
+><div style="margin-left: 20px; font-size: 12px">
+Die Einräumung des Rechts der Vervielfältigung ist abweichend von Satz 1 Nummer 5 bereits mit Beginn der Bekanntgabe der Informationen im Online-Portal des Amtes der Europäischen Union für geistiges Eigentum zulässig. <br>
+(2) Die Verwertungsgesellschaft belässt die Informationen gemäß Absatz 1 Satz 1 Nummer 4 dauerhaft im Online-Portal des Amtes der Europäischen Union für geistiges Eigentum.</div><br>
+> __[Hier](https://www.gesetze-im-internet.de/vgg/__52a.html) aktuelle Version einsehen.__
+
+>__§ 52b VGG – Nicht verfügbare Werke__
+><div style="margin-left: 20px; font-size: 12px">
+(1) Nicht verfügbar ist ein Werk, das der Allgemeinheit auf keinem üblichen Vertriebsweg in einer vollständigen Fassung angeboten wird. <br>
+(2) Es wird unwiderleglich vermutet, dass ein Werk nicht verfügbar ist, wenn die Kulturerbe-Einrichtung zeitnah vor der Information gemäß § 52a Absatz 1 Satz 1 Nummer 4 mit einem vertretbaren Aufwand, aber ohne Erfolg versucht hat, Angebote nach Maßgabe des Absatzes 1 zu ermitteln. <br>
+(3) Werke, die in Büchern, Fachzeitschriften, Zeitungen, Zeitschriften oder in anderen verlegten Schriften veröffentlicht wurden, sind über die Anforderungen von Absatz 1 hinaus nur dann nicht verfügbar, wenn sie außerdem mindestens 30 Jahre vor Beginn der Bekanntgabe der Informationen gemäß § 52a Absatz 1 Satz 1 Nummer 4 letztmalig veröffentlicht wurden. </div><br>
+> __[Hier](https://www.gesetze-im-internet.de/vgg/__52b.html) aktuelle Version einsehen.__
+
+>__§ 52c VGG – Repräsentativität der Verwertungsgesellschaft bei Werkreihen aus Drittstaaten__
+><div style="margin-left: 20px; font-size: 12px">
+Soll die beabsichtigte Nutzung Werkreihen umfassen, die überwiegend Werke aus Staaten enthalten, die weder Mitgliedstaaten der Europäischen Union noch Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum sind (Drittstaaten), so ist die Rechtseinräumung nach § 52 nur wirksam, wenn die Verwertungsgesellschaft repräsentativ auch für Rechtsinhaber des jeweiligen Drittstaates ist.</div><br>
+> __[Hier](https://www.gesetze-im-internet.de/vgg/__52c.html) aktuelle Version einsehen.__
+
+
+>__§ 52d VGG – Verordnungsermächtigung__
+><div style="margin-left: 20px; font-size: 12px">
+Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Folgendes näher zu regeln:  </div><br>
+> <div style="margin-left: 25px; font-size: 11px">
+1. Ausübung und Rechtsfolgen des Widerspruchs des Außenstehenden (§ 51 Absatz 2 und § 52 Absatz 2), <br>
+2. Unzumutbarkeit des Rechteerwerbs (§ 51a Absatz 1 Nummer 2), <br>
+3. Informationspflichten (§ 51a Absatz 1 Nummer 4 und § 52a Absatz 1 Satz 1 Nummer 4), <br>
+4. Angemessenheit der Frist (§ 51a Absatz 1 Nummer 4), <br>
+5. Repräsentativität von Verwertungsgesellschaften, einschließlich Vermutungswirkung und gemeinsamem Handeln mehrerer Verwertungsgesellschaften (§ 51b), <br>
+6. weitere Anforderungen zur Verfügbarkeit von Werken, einschließlich des zur Ermittlung der Verfügbarkeit erforderlichen vertretbaren Aufwands und der Wahrung der Urheberpersönlichkeitsrechte insbesondere bei nicht veröffentlichten Werken (§ 52b), <br>
+7. Nutzung von Werkreihen aus Drittstaaten (§ 52c).</div><br>
+> __[Hier](https://www.gesetze-im-internet.de/vgg/__52d.html) aktuelle Version einsehen.__
+
+>__§ 52e VGG – Anwendung auf verwandte Schutzrechte__
+><div style="margin-left: 20px; font-size: 12px">
+Die Bestimmungen dieses Abschnitts sind auch auf verwandte Schutzrechte im Sinne des Urheberrechtsgesetzes und ihre Inhaber anzuwenden. </div><br>
+> __[Hier](https://www.gesetze-im-internet.de/vgg/__52e.html) aktuelle Version einsehen.__
+
+---
+
+# Quiz
+
+Ein Verlagshaus hat 1985 einen Roman veröffentlicht, der seit vielen Jahren vergriffen ist. Die Autorin ist bekannt, aber das Buch wird über keinen üblichen Vertriebsweg mehr angeboten. Welcher Weg ist hier der passende?
+
+- [( )] Das Verfahren für verwaiste Werke (§§ 61–61c UrhG), da eine EUIPO-Registrierung ohnehin immer erforderlich ist.
+- [(X)] Die Regelung für nicht verfügbare Werke (§§ 61d–61f UrhG, §§ 52–52e VGG), da die Urheberin bekannt, das Werk aber nicht mehr erhältlich ist.
+- [( )] Keiner der beiden Wege, da bei bekannter Urheberschaft immer eine individuelle Lizenz eingeholt werden muss.
+**********************************
+Richtig! 
+**********************************
+
+Worin unterscheidet sich die EUIPO-Meldung bei nicht verfügbaren Werken grundlegend von der Registrierung bei verwaisten Werken?
+
+- [(X)] Bei nicht verfügbaren Werken ist die Meldung eine reine Informationspflicht ohne vorherige Genehmigung; bei verwaisten Werken ist eine Registrierung des einzelnen Werks erforderlich.
+- [( )] Es gibt keinen Unterschied, beide Verfahren laufen identisch ab.
+- [( )] Bei nicht verfügbaren Werken ist gar keine EUIPO-Meldung erforderlich.
+**********************************
+Richtig!
+**********************************
+
+
 # Reprofotografie
 
 <div style="font-size: 12px">
@@ -560,7 +795,7 @@ __Lichtbildwerk vs. Lichtbild__
 
 Grundlage für die Beantwortung ist der Unterschied zwischen zwei Schutzarten im Urheberrechtsgesetz:
 
-| Merkmal | Lichtbildwerk (§ 2 Abs. 1 Nr. 5 UrhG) | Lichtbild (§ 68 UrhG) |
+| Merkmal | Lichtbildwerk (§ 2 Abs. 1 Nr. 5 UrhG) | Lichtbild (§ 72 UrhG) |
 | :--- | :--- | :--- |
 | **Charakter** | Künstlerisch gestaltete Fotografie (hohe Schöpfungshöhe) | Einfache, rein technische Aufnahme (geringe Schöpfungshöhe) |
 | **Beispiele** | Inszenierte Porträts, künstlerische Kompositionen | Dokumentationsfotos, technische Reproduktionen, Schnappschüsse |
@@ -573,29 +808,32 @@ __Reform von 2021__
 </div>
 
 
-Seit der Urheberrechtsreform 2021 (basierend auf einer EU-Richtlinie) gilt eine wichtige Neuerung für die Archivpraxis:
+Seit der Urheberrechtsreform 2021 gilt eine wichtige Neuerung für die Archivpraxis:
 
 >> **§ 68 UrhG:** Reproduktionen **zweidimensionaler** Werke (z. B. Gemälde, Graphiken, Urkunden), die selbst bereits **gemeinfrei** sind, genießen **keinen eigenen Lichtbildschutz** mehr.
 
-Das bedeutet: Wenn man ein altes, gemeinfreies Dokument scannt, entsteht durch den Scanvorgang kein neues Urheberrecht. Der „Weg“ über das Urheberrecht ist somit frei für die Nutzung dieser Digitalisate.
+Das bedeutet: Wenn man ein altes, gemeinfreies Dokument scannt, entsteht durch den Scanvorgang kein neues Schutzrecht. Der „Weg“ über das Urheberrecht ist somit frei für die Nutzung dieser Digitalisate.
+
+>> **Klärung zum Unterschied zwischen 2D-Reproduktion und eigenständiger fotografischer Leistung:** Der Unterschied liegt am Ausgangswerk, nicht an der Aufnahmetechnik: Ist das reproduzierte Objekt selbst zweidimensional und bereits gemeinfrei (wie ein gemeinfreies Gemälde oder eine alte Urkunde), greift § 68 UrhG – der Scan bzw. das Reproduktionsfoto bleibt ohne eigenen Lichtbildschutz. Fotografiert eine Archivarin dagegen ein dreidimensionales Objekt (z. B. eine Skulptur, einen Raum oder ein Möbelstück) oder erstellt sie eine eigenständige Dokumentationsaufnahme (etwa eine Fotografie der Urkunde samt Umgebung, Lagerungskontext oder Schadensbild), handelt es sich nicht um die bloße originalgetreue Reproduktion eines gemeinfreien zweidimensionalen Werks – § 68 UrhG greift dann nicht, und es entsteht ein eigener Lichtbildschutz nach § 72 UrhG (50 Jahre). Entscheidend ist also, ob die Aufnahme lediglich das gemeinfreie 2D-Original abbildet, oder ob sie eine eigenständige fotografische Leistung darstellt.
 
 ---
 <div style="font-size: 19px">
 __Achtung: Andere Schutzrechte nicht vergessen!__
 </div>
 
-Auch bei eigenen Digitalisaten und Scans gilt: nur weil das Urheberrecht einer Nutzung nicht im Wege steht, bedeutet das nicht, dass alle Türen automatisch offen stehen. Vor einer Veröffentlichung müssen auch hier alle relevanten Rechtsbereiche kumulativ geprüft werden (**Tipp:** Zur Orientierung kann auch hierfür die Tabelle am Ende des Kapitels "Schutzfristen und Gemeinfreiheit" verwendet werden).
-<br>
+Auch bei eigenen Digitalisaten und Scans gilt: nur weil das Urheberrecht einer Nutzung nicht im Wege steht, bedeutet das nicht, dass alle Türen automatisch offen stehen. Vor einer Veröffentlichung müssen auch hier alle relevanten Rechtsbereiche kumulativ geprüft werden (**Tipp:** Zur Orientierung kann auch hierfür die Tabelle am Ende des Kapitels "Schutzfristen und Gemeinfreiheit" verwendet werden).<br>
+
+---
 
 > __§ 68 UrhG – Vervielfältigungen gemeinfreier visueller Werke__ 
-> <div style="font-size: 12px">
+> <div style="margin-left: 20px; font-size: 12px">
 Vervielfältigungen gemeinfreier visueller Werke werden nicht durch verwandte Schutzrechte nach den Teilen 2 und 3 geschützt.
 </div> <br>
 > __[Hier](https://www.gesetze-im-internet.de/urhg/__68.html) aktuelle Version einsehen.__
 
 
 > __§ 72 UrhG – Lichtbilder__
-> <div style="font-size: 12px">
+> <div style="margin-left: 20px; font-size: 12px">
 (1) Lichtbilder und Erzeugnisse, die ähnlich wie Lichtbilder hergestellt werden, werden in 
 entsprechender Anwendung der für Lichtbildwerke geltenden Vorschriften des Teils 1 
 geschützt. <br>
@@ -617,17 +855,17 @@ Ein Archiv erstellt einen Scan eines Gemäldes aus dem 18. Jahrhundert, das bere
 
 - [(X)] Er genießt keinen eigenen Lichtbildschutz nach § 68 UrhG.
 - [( )] Er ist für 50 Jahre ab Herstellung als einfaches Lichtbild geschützt.
-- [( )] Er ist als Lichtbildwerk 70 Jahre nach dem Tod der Fotograf:in geschützt.
+- [( )] Er ist als Lichtbildwerk 70 Jahre nach dem Tod der fotografierenden Person geschützt.
 - [( )] Er ist geschützt, sofern die technische Auflösung hoch genug ist (z. B. über 300 dpi).
 ************************************************
-Richtig! Seit der Reform 2021 (Umsetzung der EU-Richtlinie) erhalten Reproduktionen von gemeinfreien, zweidimensionalen Werken keinen neuen Leistungsschutz mehr. Die bloße technische Vervielfältigung (Scan/Reprofotografie) löst also keine neuen Rechte aus, was die Nutzung für Archive erheblich erleichtert.
+Richtig! Seit der Reform 2021 (Umsetzung der DSM-Richtlinie) erhalten Reproduktionen von gemeinfreien, zweidimensionalen Werken keinen neuen Leistungsschutz mehr. Die bloße technische Vervielfältigung (Scan/Reprofotografie) löst also keine neuen Rechte aus, was die Nutzung für Archive erheblich erleichtert.
 ************************************************
 
-Eine Archivarin fotografiert eine mittelalterliche Urkunde für den Bestand: technisch korrekt, gut ausgeleuchtet aber ohne künstlerische Gestaltungsabsicht. Welchem Schutztyp entspricht diese Aufnahme?
+Eine Archivarin fotografiert eine mittelalterliche Urkunde für den Bestand: technisch korrekt, gut ausgeleuchtet aber ohne künstlerische Gestaltungsabsicht. Sie fotografiert dabei auch die Lagerungssituation und den Erhaltungszustand mit, nicht nur die reine Textfläche der Urkunde. Welchem Schutztyp entspricht diese Aufnahme?
 
 [( )] Lichtbildwerk nach § 2 Abs. A Nr. 5 UrhG, geschützt 70 Jahre p.m.a.
-[(x)] Lichtbild nach § 72 UrhG, geschützt 50 Jahre nach Erscheinen.
-[( )] Keinem Schutztyp, da die Urkunde selbst gemeinfrei ist.
+[(x)] Lichtbild nach § 72 UrhG, geschützt 50 Jahre nach Erscheinen, da es sich um eine eigenständige Dokumentationsaufnahme und nicht um die bloße originalgetreue Reproduktion des 2D-Originals handelt.
+[( )] Keinem Schutztyp, da die Urkunde selbst gemeinfrei ist und § 68 UrhG damit greift.
 [( )] Keinem Schutztyp, da rein technische Aufnahmen nicht schutzfähig sind.
 **************************************************
 Richtig! Eine rein technische Reproduktionsaufnahme ohne künstlerische Eigenleistung erreicht nicht die Schöpfungshöhe eines Lichtbildwerks. Sie genießt aber als einfaches Lichtbild nach § 72 UrhG Leistungsschutz für 50 Jahre. Ob die Urkunde selbst gemeinfrei ist, ändert daran nichts. Der Schutz betrifft die Aufnahme, nicht das Objekt. Ob die Urkunde gemeinfrei ist, spielt daher keine Rolle: auch die Fotografie eines gemeinfreien Werkes kann urheberrechtlich geschützt sein, wenn die Schutzfrist des Lichtbilds noch nicht abgelaufen ist.
@@ -655,7 +893,7 @@ Dies betrifft:
 
 >> **Wichtig:** Schon der erste Schritt der Digitalisierung – das Scannen – ist rechtlich relevant. Man befindet sich von Anfang an im urheberrechtlichen Raum.
 
-Um diese Vervielfältigung vorzunehmen, braucht man eine **Rechtsgrundlage**:
+Um diese Vervielfältigung vorzunehmen, braucht man eine **Rechtsgrundlage**. In Betracht kommt jeweils eine der folgenden – nicht kumulativ alle drei gleichzeitig:
 1. Eine Rechteübertragung durch die UrheberInnen/RechteinhaberInnen
 2. Die Gemeinfreiheit des Werks (z. B. UrheberIn seit > 70 Jahren verstorben)
 3. Eine gesetzliche Schrankenregelung
@@ -669,11 +907,8 @@ Ein zentraler Paragraph für Digitalisierungsprojekte: § 19a UrhG regelt das Re
 
 __Wichtige Prinzipien:__
 * **Eigenständigkeit:** Dieses Recht ist ein eigenständiges Verwertungsrecht. Eine allgemeine Nutzungsrechtsübertragung ohne explizite Nennung der Online-Nutzung reicht oft nicht aus.
-* **Neues Publikum:** Das „neue Publikum“-Kriterium wurde vom EuGH entwickelt und ist auch für Digitalisierungsprojekte relevant: durch die Onlinestellung werden Bestände für Menschen zugänglich, die vorher physisch keinen Zugang zur Institution hatten.
+* **Neues Publikum:** Das „neue Publikum“-Kriterium wurde vom EuGH entwickelt und ist auch für Digitalisierungsprojekte relevant: Durch die Onlinestellung werden Bestände für Menschen zugänglich, die vorher physisch keinen Zugang zur Institution hatten.
  
-
-
-
 ---
 <div style="font-size: 19px">
 __Die Archivschranke__
@@ -684,8 +919,6 @@ Das Urheberrecht gewährt UrheberInnen zunächst ein umfassendes **Ausschließli
 
 Gesetzliche **Schranken** bilden Ausnahmen von diesem Grundsatz. Sie dienen dem Interessenausgleich zwischen SchöpferInnen und der Allgemeinheit (Wissenschaft, Kultur, Erhaltung des Erbes).
 
-
-
 >>**Wichtiger Anwendungsgrundsatz:** Schranken sind eng auszulegen. Im Zweifel gilt das Schutzrecht des Urhebers (Art. 14 GG), nicht die Ausnahme.
 
 Was erlaubt die Archivschranke (§ 60f UrhG) konkret?
@@ -693,7 +926,7 @@ Der Gesetzgeber räumt Archiven, Bibliotheken und Museen Vorrang bei der **Besta
 
 | Erlaubt durch § 60f | Nicht erlaubt durch § 60f |
 | :--- | :--- |
-| Erhaltungsdigitalisierung (z.B. brüchiger Briefe) | **Freie Onlinestellung** geschützter Werke |
+| Erhaltungsdigitalisierung (z.B. brüchiger Briefe) | Freie Onlinestellung geschützter Werke |
 | Nutzung für interne Forschungszwecke | Kommerzielle Verwertung |
 | Bereitstellung am Lesesaalgerät (vor Ort) | Weltweiter Web-Abruf ohne Lizenz |
 
@@ -763,7 +996,7 @@ __1. Datenschutz (DSGVO)__
 
 Die Datenschutz-Grundverordnung (DSGVO) ist immer dann relevant, wenn Informationen über **lebende Personen** verarbeitet werden.
 
-* **Was sind personenbezogene Daten?** Personenbezogene Daten sind alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person beziehen (Art. 4 Nr. 1 DSGVO). Dazu gehören Name, Adresse, Geburtsdatum aber auch Inhalte von Briefen, Zeugnissen oder Korrespondenzen, sowie daraus Rückschlüsse auf eine bestimmte Person möglich sind.
+* **Was sind personenbezogene Daten?** Personenbezogene Daten sind alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person beziehen (Art. 4 Nr. 1 DSGVO). Dazu gehören Name, Adresse, Geburtsdatum aber auch Inhalte von Briefen, Zeugnissen oder Korrespondenzen, sowie daraus Rückschlüsse auf eine bestimmte Person möglich sind – unabhängig davon, ob diese Person selbst der/die VerfasserIn ist oder im Text lediglich erwähnt bzw. adressiert wird.
 * **Beispiel:** Der Name einer Person ist ein personenbezogenes Datum im Sinne der DSGVO – allerdings schützt die DSVGO ausschließlich lebende Personen. Nach dem Tod entfällt der datenschutzrechtliche Schutz. An seine Stelle tritt das postmortale Persönlichkeitsrecht, das unabhängig vom Datenschutzrecht fortbesteht und den Schutz des Andenkens der verstorbenen Person gewährleistet.
 * **Rechtsfolge:** Die Onlinestellung gilt als „Veröffentlichung“ im Sinne der DSGVO und benötigt eine Rechtsgrundlage (z. B. eine ausdrückliche Einwilligung).
 
@@ -782,16 +1015,28 @@ Für Porträts, Gruppenfotos oder Passbilder ist in der Regel die **Einwilligung
 **Die Ausnahmen:**
 Es gibt Ausnahmen für sogenannte **Personen der Zeitgeschichte**. Aber Vorsicht:
 * Diese Ausnahmen sind eng auszulegen.
-* Der Kontext zählt: Ein Foto einer offiziellen Veranstaltung ist rechtlich anders zu bewerten als eine private Aufnahme in einem geschützten Raum.
+* **Der Kontext zählt**: Entscheidend ist nicht die Anzahl der abgebildeten Personen, sondern ob einzelne Personen erkennbar sind und aus der Anonymität herausgelöst werden. Eine Fotografie einer offiziellen Veranstaltung ist dabei rechtlich anders zu bewerten als eine private Aufnahme in einem geschützten Raum (§ 23 Abs. 1 Nr. 3 KUG).
 
 ---
 <div style="font-size: 19px">
-__3. Postmortales Persönlichkeitsrecht__
+__3. Persönlichkeitsschutz jenseits von Fotografien: Briefe, Tagebücher, Korrespondenz__
+</div>
+
+Die §§ 22, 23 KUG regeln unmittelbar nur das Recht am eigenen Bild, also Bildnisse. Wird jedoch der Inhalt von Briefen, Tagebüchern oder Korrespondenz veröffentlicht, in denen lebende oder verstorbene Personen namentlich erwähnt oder erkennbar beschrieben werden, ist nicht das KUG einschlägig, sondern das allgemeine Persönlichkeitsrecht (Art. 2 Abs. 1 i. V. m. Art. 1 Abs. 1 GG, §§ 823, 1004 BGB analog) – bei lebenden Personen ergänzt um die DSGVO.
+
+* Betroffen sein können sowohl der/die VerfasserIn eines Briefes als auch die darin erwähnten oder adressierten Personen.
+* Für verstorbene Personen gilt auch hier – wie beim Recht am eigenen Bild – ein postmortaler Schutz des allgemeinen Persönlichkeitsrechts, insbesondere des Ehrschutzes. Anders als beim Recht am eigenen Bild nach § 22 KUG gibt es für den ideellen Ehrschutzkern keine feste, im Gesetz genannte Frist von 10 Jahren; die Schutzdauer richtet sich nach den Umständen des Einzelfalls und kann – insbesondere beim Ehrschutzkern der Menschenwürde – deutlich länger andauern.
+
+>>**Exkurs:** Grundlegend hierfür ist die „Mephisto“-Entscheidung des Bundesverfassungsgerichts (BVerfG, Beschluss v. 24. Februar 1971 – 1 BvR 435/68 – BVerfGE 30, 173, im Anschluss an die vorausgegangene zivilrechtliche Entscheidung BGH, Urt. v. 20. März 1968 – I ZR 44/66 – BGHZ 50, 133). Das BVerfG leitet den postmortalen Ehrenschutz unmittelbar aus Art. 1 Abs. 1 GG (Menschenwürde) ab, nicht – wie das allgemeine Persönlichkeitsrecht Lebender – aus Art. 2 Abs. 1 i. V. m. Art. 1 Abs. 1 GG. Die „Marlene Dietrich“-Entscheidung des Bundesgerichtshofs (BGH, Urt. v. 1. Dezember 1999 – I ZR 49/97 – BGHZ 143, 214) ergänzt dies um die vermögenswerten Bestandteile des postmortalen Persönlichkeitsrechts (Schutz vor kommerzieller Verwertung von Name und Bild Verstorbener, Übergang auf die Erben).
+
+---
+<div style="font-size: 19px">
+__4. Postmortales Persönlichkeitsrecht bei Bildnissen__
 </div>
 
 Was passiert nach dem Tod? Das Persönlichkeitsrecht erlischt nicht sofort, sondern wirkt nach.
 
-* **Frist:** Das Postmortale Persönlichkeitsrecht besteht für einen begrenzten Zeitraum nach dem Tod. Die Rechtsprechung geht in der Regel von einer Schutzdauer von 10 Jahren post mortem aus. Bei Personen mit besonderer zeitgeschichtlicher Bedeutung kann dieser Zeitraum länger sein. Innerhalb dieser Frist sind die ErbInnen bzw. Angehörigen berechtigt Ansprüche geltend zu machen. Eine Verlängerung der Schutzdauer durch Klageerhebung ist jedoch nicht möglich, die Frist ist also nicht dispositiv. 
+* **Frist:** Für das Recht am eigenen Bild (§ 22 KUG) geht die Rechtsprechung in der Regel von einer Schutzdauer von 10 Jahren post mortem aus. Bei Personen mit besonderer zeitgeschichtlicher Bedeutung kann dieser Zeitraum im Rahmen des allgemeinen postmortalen Persönlichkeitsrechts (siehe oben) länger sein. Innerhalb der 10-Jahres-Frist sind die ErbInnen bzw. Angehörigen berechtigt, Ansprüche geltend zu machen. Eine Verlängerung der Schutzdauer durch Klageerhebung ist nicht möglich, die Frist ist also nicht dispositiv. 
 * **Vergleich zum Urheberrecht:** Diese Frist ist deutlich kürzer als die urheberrechtliche Schutzfrist (70 Jahre nach Tod).
 * **Relevanz:** Bei jüngeren Archivbeständen müssen wir also prüfen, ob die 10-Jahres-Frist bereits verstrichen ist, bevor wir Bildnisse veröffentlichen.
 
@@ -801,16 +1046,16 @@ Was passiert nach dem Tod? Das Persönlichkeitsrecht erlischt nicht sofort, sond
 __Zusammenfassung der Schutzfristen__
 </div>
 
-Um die Entscheidung „Onlinestellen oder nicht?“ zu treffen, hilft oft ein Blick auf die unterschiedlichen Schutzfristen der Rechtsgebiete:
 
 | Rechtsebene | Schutzfrist | Bezugspunkt |
 | :--- | :--- | :--- |
 | **Urheberrecht** | 70 Jahre | Tod des Urhebers |
-| **Persönlichkeitsrecht** | 10 Jahre | Tod der abgebildeten Person |
-| **Datenschutz (DSGVO)** | Lebenszeit | endet grundsätzlich mit dem Tod; kein Schutz durch die DSGVO für Verstorbene |
+| **Persönlichkeitsrecht** | 10 Jahre (Regelfall) | Tod der abgebildeten Person |
+| **Allgemeines Persönlichkeitsrecht** (postmortal, außerhalb § 22 KUG)| Einzelfallabhängig, keine feste Frist | Tod der betroffenen Person; abhängig von Schwere des Eingriffs und zeitgeschichtlicher Bedeutung|
+| **Datenschutz (DSGVO)** | Lebenszeit | Endet grundsätzlich mit dem Tod; kein Schutz durch die DSGVO für Verstorbene |
 
 > __§ 22 KUG – Recht am eigenen Bild__ 
-> <div style="font-size: 12px">
+> <div style="margin-left: 20px; font-size: 12px">
 Bildnisse dürfen nur mit Einwilligung des Abgebildeten verbreitet oder öffentlich zur Schau 
 gestellt werden. Die Einwilligung gilt im Zweifel als erteilt, wenn der Abgebildete dafür, dass 
 er sich abbilden ließ, eine Entlohnung erhielt. Nach dem Tode des Abgebildeten bedarf es 
@@ -818,33 +1063,35 @@ bis zum Ablaufe von 10 Jahren der Einwilligung der Angehörigen des Abgebildeten
 Angehörige im Sinne dieses Gesetzes sind der überlebende Ehegatte oder Lebenspartner 
 und die Kinder des Abgebildeten und, wenn weder ein Ehegatte oder Lebenspartner noch 
 Kinder vorhanden sind, die Eltern des Abgebildeten. 
-</div>
+</div><br>
+> __[Hier](https://www.gesetze-im-internet.de/kunsturhg/__22.html) aktuelle Version einsehen.__
 
 > __§ 23 KUG – Ausnahmen__
-> <div style="font-size: 12px">
+> <div style="margin-left: 20px; font-size: 12px">
 (1) Ohne die nach § 22 erforderliche Einwilligung dürfen verbreitet und zur Schau gestellt 
-werden: 
+werden: </div><br>
+> <div style="margin-left: 25px; font-size: 11px">
 1. Bildnisse aus dem Bereiche der Zeitgeschichte; <br>
 2. Bilder, auf denen die Personen nur als Beiwerk neben einer Landschaft oder sonstigen 
 Örtlichkeit erscheinen; <br>
 3. Bilder von Versammlungen, Aufzügen und ähnlichen Vorgängen, an denen die 
 dargestellten Personen teilgenommen haben; <br>
 4. Bildnisse, die nicht auf Bestellung angefertigt sind, sofern die Verbreitung oder 
-Schaustellung einem höheren Interesse der Kunst dient. <br>
+Schaustellung einem höheren Interesse der Kunst dient. <br> </div>
+> <div style="margin-left: 20px; font-size: 12px">
 (2) Die Befugnis erstreckt sich jedoch nicht auf eine Verbreitung und Schaustellung, durch 
 die ein berechtigtes Interesse des Abgebildeten oder, falls dieser verstorben ist, seiner 
 Angehörigen verletzt wird.
-</div>
-
+</div><br>
+> __[Hier](https://www.gesetze-im-internet.de/kunsturhg/__23.html) aktuelle Version einsehen.__
 ---
 
 # Quiz 
 
-
-Wenn das Urheberrecht an einem Foto abgelaufen ist, darf man es in jedem Fall sofort online stellen.
+Darf man ein Foto, an dem das Urheberrecht abgelaufen ist, in jedem Fall sofort online stellen?
 - [( )] Ja, Gemeinfreiheit bedeutet freie Nutzung ohne Einschränkungen.
-- [(X)] Nein, es können Persönlichkeitsrechte, Datenschutz oder ein/e Hausrecht/ -regel der Institution entgegenstehen.
-- [( )] Nein, aber nur wenn das Foto vor 1900 entstanden ist.
+- [(X)] Nein, es können Persönlichkeitsrechte, Datenschutz oder das Hausrecht der Institution entgegenstehen.
+- [( )] Nein, aber nur wenn das Foto nach 1900 entstanden ist.
 - [( )] Ja, sofern keine kommerzielle Nutzung vorliegt.
 ************************************************
 Richtig! Auch wenn das Urheberrecht erloschen ist, müssen Sie prüfen, ob das Persönlichkeitsrecht der abgebildeten Personen (bis 10 Jahre nach deren Tod), der Datenschutz (bei lebenden Personen) oder eine hausinterne Regelung einer Veröffentlichung entgegenstehen.
@@ -862,7 +1109,7 @@ Richtig! Da der Politiker (und evtl. die Briefpartner) noch leben und es sich um
 
 # Verträge, Verwertungsgesellschaften und Haftung
 
-Wenn ein Vertrag mit eine/r RechteinhaberIn geschlossen wurde, bedeutet das nicht automatisch, dass alle Arten der Veröffentlichung automatisch erlaubt sind. In diesem Kapitel lernen Sie etwas über die Auslegung von Verträgen, den Sonderfall VG Bild-Kunst und erfahren, welche Folgen drohen, falls Sie ein Werk unrechtmäßig veröffentlichen.
+Wenn ein Vertrag mit einem/einer RechteinhaberIn geschlossen wurde, bedeutet das nicht automatisch, dass alle Arten der Veröffentlichung automatisch erlaubt sind. In diesem Kapitel lernen Sie etwas über die Auslegung von Verträgen, den Sonderfall VG Bild-Kunst und erfahren, welche Folgen drohen, falls Sie ein Werk unrechtmäßig veröffentlichen.
 
 ---
 <div style="font-size: 19px">
@@ -871,10 +1118,10 @@ __1. Die Zweckübertragungslehre__
 
 Ein zentrales Prinzip im Urheberrecht ist die **Zweckübertragungslehre**. Sie dient dem Schutz der UrheberInnen. Die Zweckübertragungslehre ergibt sich aus § 31 Abs. 5 UrhG und der ständigen BGH-Rechtsprechung.
 
-> **Grundsatz:** Im Zweifel werden nur so viele Rechte übertragen, wie für den konkret vereinbarten Zweck zwingend notwendig sind.
+>> **Grundsatz:** Im Zweifel werden nur so viele Rechte übertragen, wie für den konkret vereinbarten Zweck zwingend notwendig sind.
 
 **Das Problem der „Altfälle“:**
-Wenn eine Künstlerin einem Archiv in den 1980er-Jahren Werke übergab und im Vertrag „zur Aufbewahrung und Zugänglichmachung im Lesesaal“ steht, ist die **Onlinestellung im Internet nicht automatisch enthalten**.
+Wenn eine Künstlerin einem Archiv in den 1980er-Jahren Werke übergab und im Vertrag „zur Aufbewahrung und Zugänglichmachung im Lesesaal“ steht, ist die Onlinestellung im Internet **nicht automatisch enthalten**.
 
 * **BGH-Rechtsprechung:** Digitale Nutzungsformen müssen in der Regel ausdrücklich vereinbart sein.
 * **Konsequenz für die Praxis:** Bei jedem Bestand muss geprüft werden: Deckt der (alte) Vertrag die weltweite Abrufbarkeit im Netz wirklich ab?
@@ -890,7 +1137,7 @@ Die **VG Bild-Kunst** ist eine Verwertungsgesellschaft, die die Rechte von Bildk
 **Die Falle beim Einzelvertrag:**
 Viele KünstlerInnen haben einen Wahrnehmungsvertrag mit der VG Bild-Kunst. Das bedeutet: Sie haben ihre Online-Rechte zur kollektiven Wahrnehmung an die VG Bild-Kunst übertragen. Ein privatrechtlicher Einzelvertrag mit der Künstlerin kann diese Rechte daher nicht wirksam einräumen. 
 
-* **Die Folge:** Ein privatrechtlicher Vertrag zwischen Ihnen und der Künstlerin reicht dann nicht aus! Selbst wenn die Künstlerin „Ja“ sagt, liegen die Rechte bei der VG.
+* **Die Folge:** Ein privatrechtlicher Vertrag zwischen Ihnen und der Künstlerin reicht dann nicht aus. Selbst wenn die Künstlerin „Ja“ sagt, liegen die Rechte bei der VG.
 * **Prüfschritt:** Prüfen Sie immer, ob der/die KünstlerIn Mitglied einer Verwertungsgesellschaft ist. Wenn ja, ist meist ein zusätzlicher Lizenzvertrag mit der VG Bild-Kunst nötig.
 
 ---
@@ -902,8 +1149,8 @@ Wer ein urheberrechtlich geschütztes Werk ohne Erlaubnis online stellt, haftet 
 
 **Was droht konkret?**
 * **Unterlassung:** Die RechteinhaberInnnen können verlangen, dass das Werk sofort offline genommen wird.
-* **Schadensersatz:** Bei schuldhafter Verletzung (also auch bei einfacher Fahrlässigkeit) kann Schadensersatz gefordert werden. Berechnet nach dem entgangenen Lizenzgewinn oder der sogenannten Lizenzanalogie. Bei der Lizenzanalogie wird der Schadensersatz so berechnet, als hätte die verletzende Partei von Anfang an eine Lizenz erworben. Es muss also nachträglich genau das gezahlt werden, was eine ordnungsmäßige Lizenzierung gekostet hätte.
-* **Abmahnung:** In der Praxis ist dies häufig der erste Schritt. Es entsteht eine Kostenfolge für die abgemahnte Institution.
+* **Schadensersatz:** Bei schuldhafter Verletzung (also auch bei einfacher Fahrlässigkeit) kann Schadensersatz gefordert werden, berechnet z.B. nach dem entgangenen Lizenzgewinn oder der sogenannten Lizenzanalogie. Bei der Lizenzanalogie wird der Schadensersatz so berechnet, als hätte die verletzende Partei von Anfang an eine Lizenz erworben.
+* **Abmahnung:** In der Praxis ist dies häufig der erste Schritt, verbunden mit einer Kostenfolge für die abgemahnte Institution.
   
 >> **Wichtig:** Die Haftung trifft in der Regel die Institution, nicht einzelne MitarbeiterInnen. Gutgläubigkeit schützt nicht: wer nicht prüft, handelt fahrlässig. Eine sorgfältige Rechteklärung vor der Onlinestellung ist daher nicht nur gute Praxis, sondern rechtliche Pflicht.
 
@@ -920,7 +1167,7 @@ Die Folgen klingen bedrohlich, aber man ist nicht schutzlos. Ein professioneller
 
 
 > __§ 31 UrhG – Einräumung von Nutzungsrechten__ 
-> <div style="font-size: 12px">
+> <div style="margin-left: 20px; font-size: 12px">
 (1) Der Urheber kann einem anderen das Recht einräumen, das Werk auf einzelne oder alle 
 Nutzungsarten zu nutzen (Nutzungsrecht). Das Nutzungsrecht kann als einfaches oder 
 ausschließliches Recht sowie räumlich, zeitlich oder inhaltlich beschränkt eingeräumt 
@@ -941,7 +1188,7 @@ und welchen Einschränkungen das Nutzungsrecht unterliegt.
 
 
 > __§ 97 UrhG – Anspruch auf Unterlassung und Schadensersatz__ 
-> <div style="font-size: 12px">
+> <div style="margin-left: 20px; font-size: 12px">
 (1) Wer das Urheberrecht oder ein anderes nach diesem Gesetz geschütztes Recht 
 widerrechtlich verletzt, kann von dem Verletzten auf Beseitigung der Beeinträchtigung, bei 
 Wiederholungsgefahr auf Unterlassung in Anspruch genommen werden. Der Anspruch auf 
@@ -1005,11 +1252,12 @@ Herzlichen Glückwunsch! Sie haben einen Überblick über die wichtigsten Rechts
 1. Die Merkmale, welche eine **Schöpfungshöhe** bei Werken definieren (§ 2 UrhG)
 2. Die Berechnung der **Fristen** von Urheber- und Persönlichkeitsrecht (§ 64 UrhG und § 22 KUG)
 3. Den Umgang mit **verwaisten Werken** (§§ 61-61c UrhG)
-4. Die Rechtesituation beim Erstellen von **Lichtbildern** (§ 68 UrhG)
-5. Die **Vervielfältigung** beim Scannen (§ 16 UrhG)
-6. Die **öffentliche Zugänglichmachung** (§ 19a UrhG)
-7. Die Bedeutung von **Schrankenregelungen** (§ 60f UrhG)
-8. Die Tücken der **Zweckübertragungslehre** und der **VG Bild-Kunst**
+4. Den Umgang mit **nicht verfügbaren Werken** (§§ 61d-61f UrhG, §§ 52-52e VGG)
+5. Die Rechtesituation beim Erstellen von **Lichtbildern** (§ 68, 72 UrhG)
+6. Die **Vervielfältigung** beim Scannen (§ 16 UrhG)
+7. Die **öffentliche Zugänglichmachung** (§ 19a UrhG)
+8. Die Bedeutung von **Schrankenregelungen** (§ 60f UrhG)
+9. Die Tücken der **Zweckübertragungslehre** und der **VG Bild-Kunst**
 10. Die **Rechtsfolgen von Urheberrechtsverletzungen** (§ 97 UrhG)
 
 Mit diesem Wissen können Sie nun fundierter entscheiden, welche Archivalien Ihres Bestandes unter welchen Voraussetzungen den Weg in die digitale Öffentlichkeit finden dürfen. 
@@ -1025,6 +1273,14 @@ VGG – Verwertungsgesellschaftengesetz vom 24. Mai 2016 (BGBl. I S. 1190), zule
 
 DSGVO – Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 (ABl. EU Nr. L 119 S. 1).
 
+Gesetz zur Anpassung des Urheberrechts an die Erfordernisse des digitalen Binnenmarktes vom 31. Mai 2021 (BGBl. I S. 1204), in Kraft ab 7. Juni 2021.
+
+NvWV – Nicht-verfügbare-Werke-Verordnung vom 9. März 2023 (BGBl. 2023 I Nr. 65), in Kraft ab 9. März 2023.
+
+DSM-Richtlinie 2019/790/EU, insbes. Art. 8–11 (nicht verfügbare Werke).
+
+Richtlinie 2012/28/EU über bestimmte zulässige Nutzungen verwaister Werke.
+
 <div style="font-size: 19px">
 __II. Kommentare__ </div>
 Dreier, Thomas/Schulze, Gernot (Hrsg.), Urheberrechtsgesetz: UrhG, 7. Aufl., München 2022.
@@ -1032,6 +1288,7 @@ Dreier, Thomas/Schulze, Gernot (Hrsg.), Urheberrechtsgesetz: UrhG, 7. Aufl., Mü
 Schricker, Gerhard/Loewenheim, Ulrich (Hrsg.), Urheberrecht: Kommentar, 6. Aufl., München 2020.
 
 Wandtke, Artur-Axel/Bullinger, Winfried (Hrsg.), Praxiskommentar zum Urheberrecht, 5. Aufl., München 2019.
+
 Möhring, Philipp/Nicolini, Käte (Hrsg.), Urheberrechtsgesetz: Kommentar, 4. Aufl., München 2018.
 
 <div style="font-size: 19px">
@@ -1058,6 +1315,10 @@ Peifer, Karl-Nikolaus, Das Recht am eigenen Bild nach dem Tod – Schutzfristen 
 
 Raue, Benjamin, Reproduktionsfotografie und Lichtbildschutz nach der Reform 2021 – § 68 UrhG n.F. im Praxistest, in: GRUR 2022, S. 417–426.
 
+Klimpel, Paul, In Bewegung. Die Rechtsfibel für Digitalisierungsprojekte in Kulturerbe-Einrichtungen, 2022.
+
+Brinkhus, Jörn, Lizensierung nicht verfügbarer Werke – ein Instrument zur rechtssicheren Onlinestellung urheberrechtlich geschützten Kulturguts (Präsentation, DDBpro).
+
 <div style="font-size: 19px">
 __V. Rechtsprechung__ </div>
 BGH, Urt. v. 29. April 2010 – I ZR 69/08 – Vorschaubilder I, BGHZ 185, 291.
@@ -1066,25 +1327,29 @@ BGH, Urt. v. 19. Oktober 2011 – I ZR 140/10 – Vorschaubilder II, GRUR 2012, 
 
 BGH, Urt. v. 20. März 2003 – I ZR 117/00 – Gies-Adler, GRUR 2003, 876 (zur Zweckübertragungslehre).
 
+BGH, Urt. v. 20. März 1968 – I ZR 44/66 – Mephisto (Vorinstanz zur BVerfG-Entscheidung), BGHZ 50, 133.
+
+BVerfG, Beschluss v. 24. Februar 1971 – 1 BvR 435/68 – Mephisto, BVerfGE 30, 173 (postmortaler Ehrenschutz aus Art. 1 Abs. 1 GG).
+
+BGH, Urt. v. 1. Dezember 1999 – I ZR 49/97 – Marlene Dietrich, BGHZ 143, 214 (vermögenswerte Bestandteile des postmortalen Persönlichkeitsrechts).
+
+BGH, Urt. v. 14. Mai 2002 – VI ZR 220/01 – Marlene Dietrich III, VersR 2002, 1120.
+
+BVerfG, Beschluss v. 22. August 2006 – 1 BvR 1168/04 – Marlene Dietrich (Blauer Engel), NJW 2006, 3409 (verfassungsrechtliche Grenzen der Fortbildung des postmortalen Persönlichkeitsrechts).
+
 EuGH, Urt. v. 13. Februar 2014 – C-466/12 – Svensson, GRUR 2014, 360 (zum Begriff des neuen Publikums).
 
 EuGH, Urt. v. 26. April 2017 – C-527/15 – Stichting Brein, GRUR 2017, 610.
 
 <div style="font-size: 19px">
 __VI. Online-Quellen__ </div>
-iRights.info, Urheberrecht für Bibliotheken, Archive und Museen, abrufbar unter: https://irights.info (Stand: 12. Mai 2026).
+iRights.info, Urheberrecht für Bibliotheken, Archive und Museen, abrufbar unter: https://irights.info (Stand: 24.08.2026).
 
-Kreutzer, Till/Lahiri, Henning, Handreichung Urheberrecht in Bibliotheken, Bibliothek & Information Deutschland (BID), Berlin 2022, abrufbar unter: https://www.bideutschland.de (Stand: 12. Mai 2026).
+EUIPO, Datenbank verwaister Werke, abrufbar unter: https://www.euipo.europa.eu/orphan-works (Stand: 24.08.2026).
 
-EUIPO, Datenbank verwaister Werke, abrufbar unter: https://www.euipo.europa.eu/orphan-works (Stand: 12. Mai 2026).
+EUIPO, Out-of-Commerce Works Portal, abrufbar unter: https://euipo.europa.eu/out-of-commerce. (Stand: 24.08.2026)
 
-Deutsche UNESCO-Kommission, Open GLAM – Offener Zugang zu Kulturgütern, abrufbar unter: https://www.unesco.de (Stand: 12. Mai 2026).
+Deutsche Digitale Bibliothek (DDBpro), Digitalisierung nicht verfügbarer Werke, abrufbar unter: https://pro.deutsche-digitale-bibliothek.de. (Stand 24.08.2026).
 
-
-
-
-
-
-
-
+Deutsche UNESCO-Kommission, Open GLAM – Offener Zugang zu Kulturgütern, abrufbar unter: https://www.unesco.de (Stand: 24.08.2026).
 
